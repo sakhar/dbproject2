@@ -60,8 +60,9 @@ def parse_file(cat, file):
 
 def get_matches(host, query):
     try:
-        query_history[host+'_'+query]
+        query_history[host+'_'+'+'.join(query)]
     except:
+
         url = 'https://api.datamarket.azure.com/Data.ashx/Bing/SearchWeb/v1/Composite?Query=' \
               '%27site%3a' \
               +host+\
@@ -134,8 +135,6 @@ if __name__ == "__main__":
     for cat in root.subcats:
         parse_file(root.subcats[cat], cat + '.txt')
 
-
-
     print "Classifying..."
     root.matches = compute_ecoverage(root)
     compute_especificity(root)
@@ -143,6 +142,9 @@ if __name__ == "__main__":
 
     pickle.dump(query_history, open(host+'-test.p','wb'))
 
+    print
+    print
+    print
     print 'Classification:'
     classes = classify(root)
     for c in classes:
