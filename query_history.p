@@ -11,9 +11,9 @@ I14
 sS'diabetes.org dental'
 p4
 I49900
-sS'fifa.com liverpool'
+sS'fifa.com fitness'
 p5
-I14400
+I5020
 sS'fifa.com health+nutritional'
 p6
 I3170
@@ -23,399 +23,399 @@ I3430
 sS'fifa.com pc+windows'
 p8
 I50
-sS'diabetes.org ball+league'
-p9
-I16
 sS'fifa.com uefa'
-p10
+p9
 I218000
 sS'diabetes.org calories+protein'
-p11
+p10
 I42700
 sS'diabetes.org nba'
-p12
+p11
 I38
 sS'fifa.com aerobics'
-p13
+p12
 I1
-sS'fifa.com bios'
-p14
-I26
+sS'diabetes.org fans+football'
+p13
+I28
 sS'fifa.com premiership'
-p15
+p14
 I40400
 sS'diabetes.org diet'
-p16
+p15
 I112000
 sS'diabetes.org buffer+code'
-p17
+p16
 I0
 sS'diabetes.org aids'
-p18
+p17
 I14400
 sS'fifa.com module'
-p19
+p18
 I85400
 sS'diabetes.org acupuncture'
-p20
+p19
 I71
-sS'diabetes.org perl'
-p21
-I6
-sS'diabetes.org fans+football'
-p22
-I28
+sS'diabetes.org championship+team'
+p20
+I23
 sS'diabetes.org card+drivers'
-p23
+p21
 I30700
 sS'diabetes.org agp+card'
-p24
+p22
 I0
 sS'diabetes.org dairy+milk'
-p25
+p23
 I20800
 sS'fifa.com dunks'
-p26
+p24
 I1
 sS'fifa.com wnba'
-p27
+p25
 I7
 sS'diabetes.org cholesterol'
-p28
+p26
 I32500
 sS'diabetes.org shareware'
-p29
+p27
 I0
 sS'fifa.com fat+muscle'
-p30
+p28
 I31
 sS'fifa.com cpu'
-p31
+p29
 I28
 sS'fifa.com array+code'
-p32
+p30
 I10
-sS'diabetes.org application+windows'
-p33
-I47
+sS'fifa.com patients+treatment'
+p31
+I39
 sS'fifa.com ball+referee'
-p34
+p32
 I255000
-sS'fifa.com pacers'
-p35
-I10
+sS'fifa.com card+drivers'
+p33
+I45
 sS'diabetes.org java'
-p36
+p34
 I80
 sS'fifa.com card+graphics'
-p37
+p35
 I3400
 sS'fifa.com hiv'
-p38
+p36
 I2130
 sS'diabetes.org health+nutritional'
-p39
+p37
 I97600
 sS'diabetes.org patients+treatment'
-p40
+p38
 I139000
-sS'diabetes.org radiation+treatment'
-p41
-I3760
 sS'fifa.com shaq'
-p42
+p39
 I9
-sS'fifa.com mls'
-p43
-I53100
+sS'fifa.com vb'
+p40
+I92
+sS'diabetes.org card+graphics'
+p41
+I47
+sS'fifa.com laettner'
+p42
+I0
 sS'fifa.com bayern'
-p44
+p43
 I22100
-sS'fifa.com blazers+game'
-p45
-I4790
+sS'fifa.com avg+league'
+p44
+I23
 sS'fifa.com hospital+medical'
-p46
+p45
 I13200
-sS'diabetes.org hiv'
-p47
-I25000
+sS'fifa.com calories+fat'
+p46
+I8
 sS'diabetes.org medical+patient'
-p48
+p47
 I161000
 sS'fifa.com diabetes'
-p49
+p48
 I89
-sS'fifa.com laettner'
-p50
-I0
+sS'diabetes.org perl'
+p49
+I6
 sS'diabetes.org eating+fat'
-p51
+p50
 I131000
 sS'diabetes.org audio+file'
-p52
+p51
 I11200
-sS'diabetes.org avg+nba'
-p53
-I5
 sS'diabetes.org cpu'
-p54
+p52
 I7
 sS'fifa.com medical+patient'
-p55
+p53
 I9860
 sS'fifa.com diet'
-p56
+p54
 I14000
 sS'fifa.com hooliganism'
-p57
+p55
 I22
 sS'diabetes.org fat+muscle'
-p58
+p56
 I7910
 sS'fifa.com squats'
-p59
+p57
 I10
 sS'diabetes.org vb'
-p60
+p58
 I19
 sS'fifa.com teams'
-p61
+p59
 I447000
-sS'diabetes.org calories+fat'
-p62
-I128000
-sS'diabetes.org soccer'
-p63
-I1850
+sS'fifa.com sabonis'
+p60
+I0
+sS'diabetes.org challenge+walk'
+p61
+I67300
 sS'diabetes.org carb+carbs'
-p64
+p62
 I37800
 sS'fifa.com carb+carbs'
-p65
+p63
 I1
-sS'diabetes.org card+graphics'
-p66
-I47
+sS'fifa.com mls'
+p64
+I53100
 sS'fifa.com walkers'
-p67
+p65
 I11
 sS'diabetes.org pc+windows'
-p68
+p66
 I75
 sS'fifa.com aerobic'
-p69
+p67
 I20
 sS'fifa.com insulin'
-p70
+p68
 I3
 sS'diabetes.org eating+weight'
-p71
+p69
 I137000
 sS'fifa.com fans+football'
-p72
+p70
 I701000
 sS'fifa.com soccer'
-p73
+p71
 I476000
 sS'fifa.com knicks'
-p74
+p72
 I9
 sS'fifa.com acupuncture'
-p75
+p73
 I1
-sS'diabetes.org challenge+walk'
-p76
-I67300
+sS'diabetes.org soccer'
+p74
+I1850
+sS'diabetes.org blood+heart'
+p75
+I125000
 sS'fifa.com java'
-p77
+p76
 I10300
 sS'fifa.com '
-p78
+p77
 I813000
-sS'diabetes.org aerobic'
-p79
-I6690
 sS'fifa.com agp+card'
-p80
+p78
 I0
 sS'fifa.com applet+code'
-p81
+p79
 I1
 sS'diabetes.org diabetes'
-p82
+p80
 I303000
 sS'diabetes.org applet+code'
-p83
+p81
 I0
 sS'diabetes.org fitness'
-p84
+p82
 I82900
 sS'diabetes.org heart+surgery'
-p85
+p83
 I35800
+sS'fifa.com lazio'
+p84
+I4140
 sS'fifa.com application+windows'
-p86
+p85
 I98800
 sS'diabetes.org multimedia'
-p87
+p86
 I44
 sS'fifa.com eating+fat'
-p88
+p87
 I40
 sS'fifa.com nurse'
-p89
+p88
 I6370
 sS'diabetes.org bytes+code'
-p90
+p89
 I0
 sS'fifa.com health+medicine'
-p91
+p90
 I14900
 sS'diabetes.org ball+referee'
-p92
+p91
 I7
 sS'diabetes.org avg+league'
-p93
+p92
 I1
 sS'diabetes.org '
-p94
+p93
 I1640000
 sS'fifa.com blazers'
-p95
+p94
 I3690
 sS'fifa.com doctor+health'
-p96
+p95
 I13100
 sS'diabetes.org aspirin+cholesterol'
-p97
+p96
 I21200
-sS'fifa.com avg+league'
+sS'fifa.com blazers+game'
+p97
+I4790
+sS'diabetes.org health+medicine'
 p98
-I23
-sS'diabetes.org hospital+patients'
+I121000
+sS'fifa.com bios'
 p99
-I56600
-sS'diabetes.org wnba'
-p100
-I17
+I26
 sS'fifa.com cholesterol'
-p101
+p100
 I8
-sS'fifa.com sabonis'
-p102
-I0
+sS'diabetes.org calories+fat'
+p101
+I128000
 sS'diabetes.org pacers'
-p103
+p102
 I8
 sS'diabetes.org eating+protein'
-p104
+p103
 I45500
 sS'diabetes.org module'
-p105
+p104
 I76
 sS'diabetes.org array+code'
-p106
+p105
 I5
 sS'diabetes.org insulin'
-p107
+p106
 I95700
 sS'fifa.com leeds'
-p108
+p107
 I1760
 sS'fifa.com bytes+code'
-p109
+p108
 I0
 sS'fifa.com avg+nba'
-p110
+p109
 I25
-sS'diabetes.org health+medicine'
-p111
-I121000
+sS'diabetes.org hospital+patients'
+p110
+I56600
 sS'diabetes.org treadmill'
-p112
+p111
 I3570
 sS'fifa.com avi+file'
-p113
+p112
 I0
 sS'diabetes.org doctor+medical'
-p114
+p113
 I88200
-sS'diabetes.org championship+team'
-p115
-I23
 sS'fifa.com ball+team'
-p116
+p114
 I428000
 sS'fifa.com buffer+code'
-p117
+p115
 I1
 sS'fifa.com juventus'
-p118
+p116
 I11600
 sS'diabetes.org laker'
-p119
+p117
 I5
 sS'fifa.com fifa'
-p120
+p118
 I699000
 sS'fifa.com laker'
-p121
+p119
 I2
 sS'fifa.com doctor+medical'
-p122
+p120
 I7340
-sS'fifa.com game+league'
-p123
-I303000
+sS'fifa.com aids'
+p121
+I4620
 sS'diabetes.org walking'
-p124
+p122
 I10800
-sS'fifa.com patients+treatment'
+sS'diabetes.org avg+nba'
+p123
+I5
+sS'fifa.com pacers'
+p124
+I10
+sS'diabetes.org radiation+treatment'
 p125
-I39
-sS'fifa.com card+drivers'
-p126
-I45
-sS'fifa.com championship+team'
-p127
-I298000
+I3760
 sS'fifa.com ncaa'
-p128
+p126
 I74
-sS'fifa.com calories+fat'
-p129
-I8
+sS'diabetes.org hiv'
+p127
+I25000
 sS'diabetes.org ncaa'
-p130
+p128
 I8
 sS'diabetes.org game+league'
-p131
+p129
 I2000
+sS'diabetes.org application+windows'
+p130
+I47
 sS'diabetes.org calories+weight'
-p132
+p131
 I125000
 sS'diabetes.org blazers+game'
-p133
+p132
 I3
+sS'diabetes.org wnba'
+p133
+I17
 sS'fifa.com kobe'
 p134
 I2310
-sS'fifa.com vb'
+sS'diabetes.org aerobic'
 p135
-I92
-sS'diabetes.org aspirin+cardiologist'
+I6690
+sS'diabetes.org avi+file'
 p136
-I21100
+I0
 sS'diabetes.org ball+team'
 p137
 I100
 sS'diabetes.org medical+treatment'
 p138
 I104000
-sS'fifa.com aids'
+sS'fifa.com game+league'
 p139
-I4620
+I303000
 sS'fifa.com medical+treatment'
 p140
 I12300
@@ -446,15 +446,15 @@ I20000
 sS'fifa.com hospital+patients'
 p149
 I44
-sS'fifa.com fitness'
+sS'fifa.com liverpool'
 p150
-I5020
-sS'fifa.com lazio'
+I14400
+sS'fifa.com championship+team'
 p151
-I4140
-sS'diabetes.org blood+heart'
+I298000
+sS'diabetes.org ball+league'
 p152
-I125000
+I16
 sS'diabetes.org doctor+health'
 p153
 I140000
@@ -509,9 +509,9 @@ I9980
 sS'fifa.com rebounds'
 p170
 I40
-sS'diabetes.org avi+file'
+sS'diabetes.org aspirin+cardiologist'
 p171
-I0
+I21100
 sS'fifa.com cardiology'
 p172
 I13
