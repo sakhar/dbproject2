@@ -4,6 +4,7 @@ import base64
 import sys
 import xml.etree.ElementTree as ET
 # Just to test code (will not be submitted)
+import pickle
 
 class Category:
     def __init__(self, name, parent):
@@ -13,6 +14,24 @@ class Category:
         self.docs = []
         self.matches = 0
         self.parent = parent
+        self.especi = 0
+
+
+def compute_especificity(cat):
+    if cat.name == 'Root':
+        cat.especi = 1
+    else:
+        parent_sum = 0
+        for category in cat.parent.subcats:
+            parent_sum += cat.parent.subcats[category].matches
+        parent_spec = cat.parent.especi
+        cat.especi = float(parent_spec*cat.matches)/parent_sum
+        print 'Specificity for category:', cat.name, ' is:', cat.especi
+        print 'Coverage for category: ', cat.name, 'is:', cat.matches
+    if cat.especi < t_es or cat.matches < t_ec:
+        return
+    for category in cat.subcats:
+        compute_especificity(cat.subcats[category])
 
 def parse_file(cat, file):
     f = open(file,'r')
@@ -58,76 +77,53 @@ def print_subcats(root, i):
         print_subcats(root.subcats[cat],i+1)
 
 def compute_ecoverage(cat):
+    d_size = 0
     for query in cat.queries:
         cat.matches += get_matches(host, query)
-    print cat.name, cat.matches
+    d_size += cat.matches
     for category in cat.subcats:
-        compute_ecoverage(cat.subcats[category])
+        d_size += compute_ecoverage(cat.subcats[category])
+    return d_size
 
+def classify(cat):
+    results = []
+    if len(cat.subcats) == 0:
+        return [cat]
+    for c in cat.subcats:
+        if cat.subcats[c].especi >= t_es and cat.subcats[c].matches >= t_ec:
+            print cat.subcats[c].name
+            results.extend(classify(cat.subcats[c]))
+    if len(results) == 0:
+        return [cat]
+    return results
 
+def print_class(c):
+    path = []
+    current = c
+    while current != None:
+        path.append(current.name)
+        current = current.parent
+    path.reverse()
+    print '/'.join(path)
 
 if __name__ == '__main__':
-    t_es = 0
-    t_ec = 0
+    t_es = 0.8
+    t_ec = 100
     #host = 'fifa.com'
     host = 'fifa.com'
-    query = 'premiership'
-    '''try:
-        t_es = float(sys.argv[1])
-        t_ec = int(sys.argv[2])
-        host = sys.argv[3]
-
-        if t_es > 1 or t_es < 0:
-            raise Exception()
-        if t_ec < 1:
-            raise Exception()
-    except:
-        print 'Usage: python main.py <t_es> <t_ec> <host>'
-        print 'example: python main.py 0.6 100 health.com'
     '''
-    'https://api.datamarket.azure.com/Data.ashx/Bing/SearchWeb/v1/Composite?Query=' \
-    '%27site%3a' \
-    'fifa.com%20premiership%27&$top=10&$format=Atom'
-
-
-
-    url = 'https://api.datamarket.azure.com/Data.ashx/Bing/SearchWeb/v1/Composite?Query=' \
-          '%27site%3a' \
-          +host+\
-          '%20' \
-          +'+'.join(query.split(' '))+\
-          '%27&$top=10&$format=Atom'
-
-
-    #bingUrl = 'https://api.datamarket.azure.com/Bing/Search/Web?Query=%27'\
-    #              + '+'.join(query) + '%27&$top=10&$format=Atom'
-    #url = 'https://api.datamarket.azure.com/Data.ashx/Bing/SearchWeb/v1/Composite?Query=%27site%3afifa.com%20premiership%27&$top=10&$format=Atom'
-    #url = 'https://api.datamarket.azure.com/Data.ashx/Bing/SearchWeb/v1/Web?Query=%27site%3afifa.com%20premiership%27&$top=10&$format=Atom'
-#    req = urllib2.Request(url, headers=headers)
-#    response = urllib2.urlopen(req)
-    #content = response.read()
-
-#    root = ET.parse(response)
-
-    #f = open('rr.xml','w')
-    #f.write(content)
-    #root = ET.parse('r.xml')
-    #root = ET.parse(root)
-    #
-
-    #entry = root.find('{http://www.w3.org/2005/Atom}entry')
-    #content = entry.find('{http://www.w3.org/2005/Atom}content')
-    #properties = content.find('{http://schemas.microsoft.com/ado/2007/08/dataservices/metadata}properties')
-    #total = properties.find('{http://schemas.microsoft.com/ado/2007/08/dataservices}WebTotal').text
-    #print total
-
     root = Category('Root', None)
     parse_file(root,'root.txt')
     for cat in root.subcats:
         parse_file(root.subcats[cat],cat+'.txt')
-    #print_subcats(root,0)
-    #for cat in root.subcats:
-    #    print root.subcats[cat].queries
-    compute_ecoverage(root)
-
+    pickle.dump(root, open(host+'-test.p','wb'))
+    '''
+    #
+    root = pickle.load(open(host+'-test.p','rb'))
+    print "Classifying..."
+    root.matches = compute_ecoverage(root)
+    compute_especificity(root)
+    classes = classify(root)
+    for c in classes:
+        print_class(c)
 
