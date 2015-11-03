@@ -53,7 +53,6 @@ def get_matches(host, query):
         content = entry.find('{http://www.w3.org/2005/Atom}content')
         properties = content.find('{http://schemas.microsoft.com/ado/2007/08/dataservices/metadata}properties')
         total = properties.find('{http://schemas.microsoft.com/ado/2007/08/dataservices}WebTotal').text
-        query_history[host+'_'+'+'.join(query)] = int(total)
 
         link = entry.find('{http://www.w3.org/2005/Atom}link')
         inline = link.find('{http://schemas.microsoft.com/ado/2007/08/dataservices/metadata}inline')
@@ -91,11 +90,11 @@ def classify(cat, t_es, t_ec):
         return [cat]
     for c in cat.subcats:
         for query in cat.subcats[c].queries:
-            cat.docs.update(query_history['+'.join(query)][1])
+            cat.associated.append('+'.join(query))
         if cat.subcats[c].especi >= t_es and cat.subcats[c].matches >= t_ec:
             results.extend(classify(cat.subcats[c], t_es, t_ec))
             print cat.name, len(cat.docs)
-            cat.docs.update(cat.subcats[c].docs)
+            cat.associated.extend(cat.subcats[c].associated)
     if len(results) == 0:
         return [cat]
     return results
@@ -150,21 +149,10 @@ def run(host, t_es, t_ec):
     l = 1
     i = 1
     sports = root.subcats['sports']
-    print sports.name
-    for c in sports.subcats:
-        for query in sports.subcats[c].queries:
-                print i,'/',l
-                #print query_history['+'.join(query)][1]
-                i += 1
+    print len(sports.associated)
 
-    l = 1
-    i = 1
     sports = root
     print
-    print sports.name
-    for c in sports.subcats:
-        for query in sports.subcats[c].queries:
-                print i,'/',l
-                #print query_history['+'.join(query)][1]
-                i += 1
-    return root
+    print len(sports.associated)
+
+    return root, query_history

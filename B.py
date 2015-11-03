@@ -10,7 +10,7 @@ def samping(cat, t_es, t_ec):
     if len(results) == 0:
         return [cat]
     return results
-def run(root, t_es, t_ec):
+def run(root, t_es, t_ec, query_history):
 
     for cat in root.subcats:
         print root.subcats[cat].name, len(root.subcats[cat].docs)

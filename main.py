@@ -36,6 +36,7 @@ class Category:
         self.matches = 0
         self.parent = parent
         self.especi = 0
+        self.associated = []
 
 
 # Class Document to store each document information
@@ -69,8 +70,8 @@ if __name__ == "__main__":
 
     print 'Part A:'
     print
-    root = A.run(host, t_es, t_ec)
+    root, query_history = A.run(host, t_es, t_ec)
     print
     print 'Part B:'
     print
-    B.run(root, t_es, t_ec)
+    B.run(root, t_es, t_ec, query_history)
