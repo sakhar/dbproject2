@@ -77,9 +77,7 @@ def get_matches(host, query):
 
 def compute_ecoverage(host, cat):
     d_size = 0
-    doc = {}
     for query in cat.queries:
-        #cat.matches += get_matches(host, query)
         matches, docs = get_matches(host, query)
         cat.matches = matches
     d_size += cat.matches
@@ -96,6 +94,7 @@ def classify(cat, t_es, t_ec):
             cat.docs.update(query_history['+'.join(query)][1])
         if cat.subcats[c].especi >= t_es and cat.subcats[c].matches >= t_ec:
             results.extend(classify(cat.subcats[c], t_es, t_ec))
+            print cat.name, len(cat.docs)
             cat.docs.update(cat.subcats[c].docs)
     if len(results) == 0:
         return [cat]
@@ -148,11 +147,24 @@ def run(host, t_es, t_ec):
     print
     print
     print
-    l = 0
-    i = 0
-    for c in root.subcats:
-        for query in root.subcats[c].queries:
+    l = 1
+    i = 1
+    sports = root.subcats['sports']
+    print sports.name
+    for c in sports.subcats:
+        for query in sports.subcats[c].queries:
                 print i,'/',l
-                print query_history['+'.join(query)][1]
+                #print query_history['+'.join(query)][1]
+                i += 1
+
+    l = 1
+    i = 1
+    sports = root
+    print
+    print sports.name
+    for c in sports.subcats:
+        for query in sports.subcats[c].queries:
+                print i,'/',l
+                #print query_history['+'.join(query)][1]
                 i += 1
     return root
