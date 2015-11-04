@@ -3,7 +3,7 @@ __author__ = 'sakhar'
 from bs4 import BeautifulSoup
 import urllib
 
-url = 'http://www.cs.columbia.edu/~gravano/cs6111/proj2.html'
+url = 'http://www.fifa.com/'
 html = urllib.urlopen(url).read()
 soup = BeautifulSoup(html,"html.parser")
 

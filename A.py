@@ -58,8 +58,7 @@ def get_matches(host, query):
         inline = link.find('{http://schemas.microsoft.com/ado/2007/08/dataservices/metadata}inline')
         feed = inline.find('{http://www.w3.org/2005/Atom}feed')
         entries = feed.findall('{http://www.w3.org/2005/Atom}entry')
-        print 'query:', query
-        print 'len:', len(entries)
+
         for entry in entries:
             content = entry.find('{http://www.w3.org/2005/Atom}content')
             properties = content.find('{http://schemas.microsoft.com/ado/2007/08/dataservices/metadata}properties')
@@ -78,7 +77,7 @@ def compute_ecoverage(host, cat):
     d_size = 0
     for query in cat.queries:
         matches, docs = get_matches(host, query)
-        cat.matches = matches
+        cat.matches += matches
     d_size += cat.matches
     for category in cat.subcats:
         d_size += compute_ecoverage(host, cat.subcats[category])
@@ -93,7 +92,6 @@ def classify(cat, t_es, t_ec):
             cat.associated.append('+'.join(query))
         if cat.subcats[c].especi >= t_es and cat.subcats[c].matches >= t_ec:
             results.extend(classify(cat.subcats[c], t_es, t_ec))
-            print cat.name, len(cat.docs)
             cat.associated.extend(cat.subcats[c].associated)
     if len(results) == 0:
         return [cat]
@@ -112,6 +110,7 @@ def print_class(c):
         current = current.parent
     path.reverse()
     print '/'.join(path)
+
 
 def run(host, t_es, t_ec):
 
@@ -143,16 +142,5 @@ def run(host, t_es, t_ec):
     for c in classes:
         print_class(c)
 
-    print
-    print
-    print
-    l = 1
-    i = 1
-    sports = root.subcats['sports']
-    print len(sports.associated)
 
-    sports = root
-    print
-    print len(sports.associated)
-
-    return root, query_history
+    return root, query_history, classes

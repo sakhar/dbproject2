@@ -70,8 +70,8 @@ if __name__ == "__main__":
 
     print 'Part A:'
     print
-    root, query_history = A.run(host, t_es, t_ec)
+    root, query_history, classes = A.run(host, t_es, t_ec)
     print
     print 'Part B:'
     print
-    B.run(root, t_es, t_ec, query_history)
+    B.run(root, t_es, t_ec, query_history,classes)
