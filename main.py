@@ -74,4 +74,4 @@ if __name__ == "__main__":
     print
     print 'Part B:'
     print
-    B.run(root, t_es, t_ec, query_history,classes)
+    B.run(root, t_es, t_ec, query_history,classes, host)

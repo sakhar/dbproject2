@@ -1,4 +1,7 @@
-def samping(cat, query_history):
+import operator
+
+def samping(cat, query_history,host):
+    output = open(cat.name+'-'+host+'.txt', 'w')
     words = {}
     print 'Creating Content Summary for:', cat.name
     l = len(cat.associated)
@@ -18,9 +21,15 @@ def samping(cat, query_history):
                 except:
                     words[word] = 0
                 words[word] += 1
+    sorted_list = sorted(words.items(), key=operator.itemgetter(0), reverse=False)
+    for word in sorted_list:
+        line = word[0]+'#'+str(word[1])+'#-1.0\n'
+        output.write(line)
+        print(line)
+    output.close()
+
 def process_url(url):
-    '''TODO'''
-    pass
+    return list(set(['z', 'x', 'a','a','b','c']))
 
 def get_path(cat):
     path = []
@@ -31,7 +40,7 @@ def get_path(cat):
     path.reverse()
     return path
 
-def run(root, t_es, t_ec, query_history, classes):
+def run(root, t_es, t_ec, query_history, classes, host):
     '''
     for c in classes:
         print c.name, len(root.associated)
@@ -47,6 +56,6 @@ def run(root, t_es, t_ec, query_history, classes):
     for cat in classes:
         path = get_path(cat)
         for c in path:
-            samping(c, query_history)
+            samping(c, query_history, host)
 
 
