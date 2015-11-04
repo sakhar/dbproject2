@@ -1,13 +1,26 @@
 def samping(cat, query_history):
+    words = {}
     print 'Creating Content Summary for:', cat.name
     l = len(cat.associated)
     i = 1
     for query in cat.associated:
-        print i,'/',l
+        print str(i)+'/'+str(l)
         i+=1
         docs = query_history[query][1]
         for doc in docs:
+            print
             print 'Getting page:', docs[doc].url
+            print
+            words_doc = process_url(docs[doc].url)
+            for word in words_doc:
+                try:
+                    words[word]
+                except:
+                    words[word] = 0
+                words[word] += 1
+def process_url(url):
+    '''TODO'''
+    pass
 
 def get_path(cat):
     path = []
