@@ -133,45 +133,45 @@ p51
 sg13
 S'Walking through fire and water together - FIFA.com'
 p52
-sbsS'http://www.fifa.com/worldcup/news/y=2014/m=7/news=fontaine-just-indetronable-2398000-2398220.html'
+sbsS'http://www.fifa.com/world-match-centre/news/newsid/139/933/5/index.html'
 p53
 (imain
 Document
 p54
 (dp55
 g6
-S'www.fifa.com/worldcup/news/y=2014/m=7/news=fontaine-just...'
+S'www.fifa.com/world-match-centre/news/newsid/139/933/5/index.html'
 p56
 sg8
 g53
 sg9
-S"The race for the adidas Golden Boot is hotting up with multiple players in the hunt for the coveted award, but one thing is certain: Just Fontaine's 1958 tally ..."
+S"British football risks having no representatives in the quarter-finals of the UEFA Europa League as all three remaining sides go into Thursday's last 16 second leg ..."
 p57
 sg11
-S'3bef0dd0-68d3-46b0-9866-2366d01fb37c'
+S'27d9c3bf-9568-4f45-aa89-15c9068bbe20'
 p58
 sg13
-S"Fontaine: I was walking on water in '58 - FIFA.com"
+S'British trio walking Europa tightrope - FIFA.com'
 p59
-sbsS'http://www.fifa.com/world-match-centre/news/newsid/139/933/5/index.html'
+sbsS'http://www.fifa.com/worldcup/news/y=2014/m=7/news=fontaine-just-indetronable-2398000-2398220.html'
 p60
 (imain
 Document
 p61
 (dp62
 g6
-S'www.fifa.com/world-match-centre/news/newsid/139/933/5/index.html'
+S'www.fifa.com/worldcup/news/y=2014/m=7/news=fontaine-just...'
 p63
 sg8
 g60
 sg9
-S"British football risks having no representatives in the quarter-finals of the UEFA Europa League as all three remaining sides go into Thursday's last 16 second leg ..."
+S"The race for the adidas Golden Boot is hotting up with multiple players in the hunt for the coveted award, but one thing is certain: Just Fontaine's 1958 tally ..."
 p64
 sg11
-S'27d9c3bf-9568-4f45-aa89-15c9068bbe20'
+S'3bef0dd0-68d3-46b0-9866-2366d01fb37c'
 p65
 sg13
-S'British trio walking Europa tightrope - FIFA.com'
+S"Fontaine: I was walking on water in '58 - FIFA.com"
 p66
 sbstp67
 sS'code'
@@ -438,25 +438,25 @@ p164
 sg13
 S'FIFA Nutrition for Football booklet'
 p165
-sbsS'http://www.fifa.com/mm/document/afdeveloping/medical/1.%5ffootball%5ffor%5fhealth%5fenglish%5f1613.pdf'
+sbsS'http://www.fifa.com/development/news/y=2007/m=5/news=glossary-nutrition-514037.html'
 p166
 (imain
 Document
 p167
 (dp168
 g6
-S'www.fifa.com/mm/document/afdeveloping/medical/1._football_for...'
+S'www.fifa.com/development/news/y=2007/m=5/news=glossary-nutrition...'
 p169
 sg8
 g166
 sg9
-S'FOOTBALL FOR HEALTH Football is the ... body mass index (weight in kg/height in m2) ... 3,000 calories, which corresponds to'
+S'Carbohydrate: One of the nutrients that supply calories to the body. ... The fat-free mass is calculated by subtracting your body fat from your body weight.'
 p170
 sg11
-S'c095cad3-1292-44a1-9832-5730411177f3'
+S'67cdf9bd-7329-4e93-a6ce-04517d4d270a'
 p171
 sg13
-VFOOTBALL FOR HEALTH - Fédération Internationale de ...
+S'Glossary nutrition - FIFA.com'
 p172
 sbsS'http://www.fifa.com/news/y=2009/m=3/news=larger-than-life-successes-1037735.html'
 p173
@@ -478,25 +478,25 @@ p178
 sg13
 S'Larger-than-life successes - FIFA.com'
 p179
-sbsS'http://www.fifa.com/development/news/y=2007/m=5/news=glossary-nutrition-514037.html'
+sbsS'http://www.fifa.com/mm/document/afdeveloping/medical/1.%5ffootball%5ffor%5fhealth%5fenglish%5f1613.pdf'
 p180
 (imain
 Document
 p181
 (dp182
 g6
-S'www.fifa.com/development/news/y=2007/m=5/news=glossary-nutrition...'
+S'www.fifa.com/mm/document/afdeveloping/medical/1._football_for...'
 p183
 sg8
 g180
 sg9
-S'Carbohydrate: One of the nutrients that supply calories to the body. ... The fat-free mass is calculated by subtracting your body fat from your body weight.'
+S'FOOTBALL FOR HEALTH Football is the ... body mass index (weight in kg/height in m2) ... 3,000 calories, which corresponds to'
 p184
 sg11
-S'67cdf9bd-7329-4e93-a6ce-04517d4d270a'
+S'c095cad3-1292-44a1-9832-5730411177f3'
 p185
 sg13
-S'Glossary nutrition - FIFA.com'
+VFOOTBALL FOR HEALTH - Fédération Internationale de ...
 p186
 sbstp187
 sS'array+code'
@@ -523,65 +523,65 @@ p195
 sg13
 S'The FIFA Weekly - FIFA.com'
 p196
-sbsS'http://resources.fifa.com/mm/document/fifaworldcup/generic/02/11/19/13/footballforhopeforumprogrammeen_neutral.pdf'
+sbsS'http://www.fifa.com/worldcup/news/y=2014/m=1/news=world-cup-wildcards-out-catch-the-eye-2266096.html'
 p197
 (imain
 Document
 p198
 (dp199
 g6
-S'resources.fifa.com/mm/document/fifaworldcup/generic/02/11/19/13/...'
+S'www.fifa.com/worldcup/news/y=2014/m=1/news=world-cup-wildcards-out...'
 p200
 sg8
 g197
 sg9
-S'From the beauty of its green areas to the careful city-planning; from the wide array of cultural activities to the ... The dress code at the forum is casual.'
+S'One coach blessed with an array of untested talents is France coach Didier Deschamps, ... The adidas Bronze ball winner at the FIFA U-17 World Cup Mexico 2011, ...'
 p201
 sg11
-S'af137b02-4a35-428a-aa5f-b68f8e9fac2c'
+S'068c606a-01e2-4e08-9419-de9a01dd9204'
 p202
 sg13
-S'Football for Hope Forum 2013 - FIFA.com'
+S'World Cup wildcards out to catch the eye - FIFA.com'
 p203
-sbsS'http://www.fifa.com/worldcup/news/y=2014/m=1/news=world-cup-wildcards-out-catch-the-eye-2266096.html'
+sbsS'http://www.fifa.com/womensworldcup/destination/cities/city=18908/index.html'
 p204
 (imain
 Document
 p205
 (dp206
 g6
-S'www.fifa.com/worldcup/news/y=2014/m=1/news=world-cup-wildcards-out...'
+S'www.fifa.com/womensworldcup/destination/cities/city=18908/index.html'
 p207
 sg8
 g204
 sg9
-S'One coach blessed with an array of untested talents is France coach Didier Deschamps, ... The adidas Bronze ball winner at the FIFA U-17 World Cup Mexico 2011, ...'
+S"Winnipeg is one of the Host Cities for FIFA Women's World Cup ... Winnipeg is home to a great array ... Discover ancient Masonic mysteries with a Hermetic Code Tour ..."
 p208
 sg11
-S'068c606a-01e2-4e08-9419-de9a01dd9204'
+S'e5da43d7-0343-47e1-a719-f6abc9523dd4'
 p209
 sg13
-S'World Cup wildcards out to catch the eye - FIFA.com'
+VFIFA Women's World Cup Canada 2015\u2122 - Winnipeg - FIFA.com
 p210
-sbsS'http://www.fifa.com/womensworldcup/destination/cities/city=18908/index.html'
+sbsS'http://resources.fifa.com/mm/document/fifaworldcup/generic/02/11/19/13/footballforhopeforumprogrammeen_neutral.pdf'
 p211
 (imain
 Document
 p212
 (dp213
 g6
-S'www.fifa.com/womensworldcup/destination/cities/city=18908/index.html'
+S'resources.fifa.com/mm/document/fifaworldcup/generic/02/11/19/13/...'
 p214
 sg8
 g211
 sg9
-S"Winnipeg is one of the Host Cities for FIFA Women's World Cup ... Winnipeg is home to a great array ... Discover ancient Masonic mysteries with a Hermetic Code Tour ..."
+S'From the beauty of its green areas to the careful city-planning; from the wide array of cultural activities to the ... The dress code at the forum is casual.'
 p215
 sg11
-S'e5da43d7-0343-47e1-a719-f6abc9523dd4'
+S'af137b02-4a35-428a-aa5f-b68f8e9fac2c'
 p216
 sg13
-VFIFA Women's World Cup Canada 2015\u2122 - Winnipeg - FIFA.com
+S'Football for Hope Forum 2013 - FIFA.com'
 p217
 sbstp218
 sS'calories+protein'
@@ -608,45 +608,45 @@ p226
 sg13
 VF-MARC Nutrition Guide for Football \u2013 FIFA
 p227
-sbsS'http://www.fifa.com/development/news/y=2007/m=5/news=glossary-nutrition-514037.html'
+sbsS'http://www.fifa.com/mm/Document/AF-Magazine/FIFAWeekly/02/67/21/02/33_EN_Weekly_Lowres_33_EN_Neutral.PDF'
 p228
 (imain
 Document
 p229
 (dp230
 g6
-S'www.fifa.com/development/news/y=2007/m=5/news=glossary-nutrition...'
+S'www.fifa.com/mm/Document/AF-Magazine/FIFAWeekly/02/67/21/02/33_EN...'
 p231
 sg8
 g228
 sg9
-S'Carbohydrate: One of the nutrients that supply calories to the body. ... Protein: Proteins are the major building blocks of all living tissues.'
+Vcalories per game. Never has the term \u201chigh performance\u201d seemed so appropriate! ... sume protein for tissue and muscle growth and fat for energy, ...
 p232
 sg11
-S'f0daaa00-1f17-4380-9728-32753cbbd4b2'
+S'c5857d6d-3f7b-49ec-a295-9f61c7ab0a26'
 p233
 sg13
-S'Glossary nutrition - FIFA.com'
+VFOODBALL - Fédération Internationale de Football ...
 p234
-sbsS'http://www.fifa.com/mm/Document/AF-Magazine/FIFAWeekly/02/67/21/02/33_EN_Weekly_Lowres_33_EN_Neutral.PDF'
+sbsS'http://www.fifa.com/development/news/y=2007/m=5/news=glossary-nutrition-514037.html'
 p235
 (imain
 Document
 p236
 (dp237
 g6
-S'www.fifa.com/mm/Document/AF-Magazine/FIFAWeekly/02/67/21/02/33_EN...'
+S'www.fifa.com/development/news/y=2007/m=5/news=glossary-nutrition...'
 p238
 sg8
 g235
 sg9
-Vcalories per game. Never has the term \u201chigh performance\u201d seemed so appropriate! ... sume protein for tissue and muscle growth and fat for energy, ...
+S'Carbohydrate: One of the nutrients that supply calories to the body. ... Protein: Proteins are the major building blocks of all living tissues.'
 p239
 sg11
-S'c5857d6d-3f7b-49ec-a295-9f61c7ab0a26'
+S'f0daaa00-1f17-4380-9728-32753cbbd4b2'
 p240
 sg13
-VFOODBALL - Fédération Internationale de Football ...
+S'Glossary nutrition - FIFA.com'
 p241
 sbstp242
 sS'audio+file'
@@ -1808,70 +1808,70 @@ p666
 sg13
 S'Football Development - Medical - FIFA.com'
 p667
-sbsS'http://resources.fifa.com/mm/document/tournament/competition/02/27/87/85/background_medicalservices2014fwc_eng_neutral.pdf'
+sbsS'http://www.fifa.com/development/news/y=2015/m=4/news=carolina-medical-center-distinguished-by-fifa-2591380.html'
 p668
 (imain
 Document
 p669
 (dp670
 g6
-S'resources.fifa.com/.../02/27/...medicalservices2014fwc_eng_neutral.pdf'
+S'www.fifa.com/development/news/y=2015/m=4/news=carolina-medical...'
 p671
 sg8
 g668
 sg9
-S'The aim of the Medical Services Department of the Local Organising Committee (LOC) of the 2014 FIFA World Cup BrazilTM is to offer medical treatment to all those ...'
+VCarolina Medical Center has been awarded a FIFA Medical Clinic of Excellence title. The prestigious certificate was handed over by doctor Michel D\u2019Hooghe, Chairman ...
 p672
 sg11
-S'8ac6487d-b106-4222-8044-87d253d55e1b'
+S'b6dc036c-be46-436c-9b47-0725ad1daf00'
 p673
 sg13
-S'Portrait Event Template'
+S'Carolina Medical Center distinguished by FIFA - FIFA.com'
 p674
-sbsS'http://www.fifa.com/development/news/y=2015/m=4/news=carolina-medical-center-distinguished-by-fifa-2591380.html'
+sbsS'http://resources.fifa.com/mm/document/tournament/competition/02/27/87/85/background_medicalservices2014fwc_eng_neutral.pdf'
 p675
 (imain
 Document
 p676
 (dp677
 g6
-S'www.fifa.com/development/news/y=2015/m=4/news=carolina-medical...'
+S'resources.fifa.com/.../02/27/...medicalservices2014fwc_eng_neutral.pdf'
 p678
 sg8
 g675
 sg9
-VCarolina Medical Center has been awarded a FIFA Medical Clinic of Excellence title. The prestigious certificate was handed over by doctor Michel D\u2019Hooghe, Chairman ...
+S'The aim of the Medical Services Department of the Local Organising Committee (LOC) of the 2014 FIFA World Cup BrazilTM is to offer medical treatment to all those ...'
 p679
 sg11
-S'b6dc036c-be46-436c-9b47-0725ad1daf00'
+S'8ac6487d-b106-4222-8044-87d253d55e1b'
 p680
 sg13
-S'Carolina Medical Center distinguished by FIFA - FIFA.com'
+S'Portrait Event Template'
 p681
 sbstp682
 sS'rebounds'
 p683
 (I40
 (dp684
-S'http://resources.fifa.com/mm/document/affederation/ifab/02/00/08/29/finalifabagenda01022013.pdf'
+S'http://www.fifa.com/mm/document/afdeveloping/refereeing/law%5f11%5foffside%5fen%5f47383.pdf'
 p685
 (imain
 Document
 p686
 (dp687
 g6
-S'resources.fifa.com/mm/document/affederation/ifab/02/00/08/29/final...'
+S'www.fifa.com/mm/document/afdeveloping/refereeing/law_11_offside_en...'
 p688
 sg8
 g685
 sg9
-Vrebounds to him off an opponent having been in an offside positionsave by an opponent having been In the context of Law 11 \u2013 Offside, the
+V2 Topics \u2022 Elements of the Law \u2022 Offside Position \u2022 Involvement in Active Play Interfering with an opponent Interfering with play Gaining an advantage
 p689
 sg11
-S'1f2fc4a5-ce73-4bd1-bf3b-25c479207886'
+S'3340ccfb-545f-4881-a673-3bb9e243c5dd'
 p690
 sg13
-S'Please contact Marketing Services (gqu)'
+S'Law 11 - Offside - FIFA'
 p691
 sbsS'http://www.fifa.com/mm/document/afdeveloping/refereeing/law%5f17%5fthe%5fcorner%5fkick%5fen%5f47358.pdf'
 p692
@@ -1913,25 +1913,25 @@ p704
 sg13
 S'How does it assist the referee? - FIFA Quality Programme'
 p705
-sbsS'http://www.fifa.com/mm/document/afdeveloping/refereeing/law%5f11%5foffside%5fen%5f47383.pdf'
+sbsS'http://resources.fifa.com/mm/document/affederation/ifab/02/00/08/29/finalifabagenda01022013.pdf'
 p706
 (imain
 Document
 p707
 (dp708
 g6
-S'www.fifa.com/mm/document/afdeveloping/refereeing/law_11_offside_en...'
+S'resources.fifa.com/mm/document/affederation/ifab/02/00/08/29/final...'
 p709
 sg8
 g706
 sg9
-V2 Topics \u2022 Elements of the Law \u2022 Offside Position \u2022 Involvement in Active Play Interfering with an opponent Interfering with play Gaining an advantage
+Vrebounds to him off an opponent having been in an offside positionsave by an opponent having been In the context of Law 11 \u2013 Offside, the
 p710
 sg11
-S'3340ccfb-545f-4881-a673-3bb9e243c5dd'
+S'1f2fc4a5-ce73-4bd1-bf3b-25c479207886'
 p711
 sg13
-S'Law 11 - Offside - FIFA'
+S'Please contact Marketing Services (gqu)'
 p712
 sbstp713
 sS'compiler'
@@ -1978,45 +1978,45 @@ p728
 sg13
 VRapport d\u2019audience télévisuelle de la Coupe du Monde de la ...
 p729
-sbsS'http://fr.fifa.com/worldcup/news/y=2010/m=10/news=fifa-remporte-prix-audience-1317509.html'
+sbsS'http://fr.fifa.com/about-fifa/ifab/about-ifab.html'
 p730
 (imain
 Document
 p731
 (dp732
 g6
-S'fr.fifa.com/worldcup/news/y=2010/m=10/news=fifa-remporte-prix...'
+S'fr.fifa.com/about-fifa/ifab/about-ifab.html'
 p733
 sg8
 g730
 sg9
-VLa FIFA a reçu le Prix de l'Audience TV Sportive Européenne grâce à la formidable popularité de la Coupe du Monde de la FIFA, Afrique du Sud 2010.
+VL'IFAB est l'organe universel en charge des modifications des Lois du Jeux (LoG) de football association. Ses objectifs consistent à protéger, compiler et ...
 p734
 sg11
-S'33de6db9-0eaf-4ecc-9470-62b879706c2b'
+S'b77f84ef-2298-4949-9828-536155eaeae5'
 p735
 sg13
-S"La FIFA remporte le prix de l'audience TV - FIFA.com"
+S'A propos de la FIFA : Organisation - FIFA.com'
 p736
-sbsS'http://fr.fifa.com/about-fifa/ifab/about-ifab.html'
+sbsS'http://fr.fifa.com/worldcup/news/y=2010/m=10/news=fifa-remporte-prix-audience-1317509.html'
 p737
 (imain
 Document
 p738
 (dp739
 g6
-S'fr.fifa.com/about-fifa/ifab/about-ifab.html'
+S'fr.fifa.com/worldcup/news/y=2010/m=10/news=fifa-remporte-prix...'
 p740
 sg8
 g737
 sg9
-VL'IFAB est l'organe universel en charge des modifications des Lois du Jeux (LoG) de football association. Ses objectifs consistent à protéger, compiler et ...
+VLa FIFA a reçu le Prix de l'Audience TV Sportive Européenne grâce à la formidable popularité de la Coupe du Monde de la FIFA, Afrique du Sud 2010.
 p741
 sg11
-S'b77f84ef-2298-4949-9828-536155eaeae5'
+S'33de6db9-0eaf-4ecc-9470-62b879706c2b'
 p742
 sg13
-S'A propos de la FIFA : Organisation - FIFA.com'
+S"La FIFA remporte le prix de l'audience TV - FIFA.com"
 p743
 sbstp744
 sS'game+league'
@@ -2128,7 +2128,7 @@ p783
 sg13
 S'Lazio: Matches - World Match Centre - FIFA.com'
 p784
-sbsS'http://www.fifa.com/world-match-centre/clubs/club=italy-lazio-1890313/index.html'
+sbsS'http://www.fifa.com/world-match-centre/clubs/club=italy-lazio-1890313/news/index,page=2.htmx'
 p785
 (imain
 Document
@@ -2140,15 +2140,15 @@ p788
 sg8
 g785
 sg9
-S'Find out the latest information of Lazio ... Pioli better put Klose on in the early 2nd half'
+S'Check out the latest news from Lazio. Toggle navigation. About FIFA; Development; Governance; Sustainability'
 p789
 sg11
-S'5bf9fcb2-8d90-4962-93a2-d9363420933e'
+S'e3d39ab2-a65a-4a04-870c-7bed7d1bdb0b'
 p790
 sg13
-S'Lazio - World Match Centre - FIFA.com'
+S'Lazio: Latest News - World Match Centre - FIFA.com'
 p791
-sbsS'http://www.fifa.com/world-match-centre/clubs/club=italy-lazio-1890313/news/index,page=2.htmx'
+sbsS'http://www.fifa.com/world-match-centre/clubs/club=italy-lazio-1890313/index.html'
 p792
 (imain
 Document
@@ -2160,13 +2160,13 @@ p795
 sg8
 g792
 sg9
-S'Check out the latest news from Lazio. Toggle navigation. About FIFA; Development; Governance; Sustainability'
+S'Find out the latest information of Lazio ... Pioli better put Klose on in the early 2nd half'
 p796
 sg11
-S'e3d39ab2-a65a-4a04-870c-7bed7d1bdb0b'
+S'5bf9fcb2-8d90-4962-93a2-d9363420933e'
 p797
 sg13
-S'Lazio: Latest News - World Match Centre - FIFA.com'
+S'Lazio - World Match Centre - FIFA.com'
 p798
 sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=italy-serie-a-2000000026/matches/match=lazio-juventus-300291503/index.html'
 p799
@@ -2189,1149 +2189,1149 @@ sg13
 S'Italy Serie A: Lazio - Juventus - FIFA.com'
 p805
 sbstp806
-sS'teams'
+sS'aspirin+cardiologist'
 p807
-(I440000
+(I0
 (dp808
-S'http://www.fifa.com/confederationscup/teams/index.html'
-p809
-(imain
-Document
+tp809
+sS'boolean'
 p810
+(I2
 (dp811
-g6
-S'www.fifa.com/confederationscup/teams/index.html'
+S'http://de.fifa.com/governance/agents/association=nga/players-agents/index.html'
 p812
-sg8
-g809
-sg9
-S'An introduction to the teams playing at FIFA Confederations Cup Russia 2017'
+(imain
+Document
 p813
-sg11
-S'047f734b-0a55-44ff-a87e-0f12173134e5'
-p814
-sg13
-S'FIFA Confederations Cup Russia 2017 - Teams - FIFA.com'
+(dp814
+g6
+S'de.fifa.com/governance/agents/association=nga/players-agents/index...'
 p815
-sbsS'http://www.fifa.com/futsalworldcup/teams/index.html'
+sg8
+g812
+sg9
+S'Boolean Consult Limited: 5, Fakoya Street, Ikosi-Ketu, LAGOS: E-Mail adebola.ogunpitan@yahoo.com; Telefon +234-805/818 77 13; Fax; Handy; OKWUDILI Umeh Johnson:'
 p816
-(imain
-Document
+sg11
+S'446c819d-2eac-45ed-b872-cbf48d4b8d47'
 p817
-(dp818
-g6
-S'www.fifa.com/futsalworldcup/teams/index.html'
+sg13
+S'Spieleragenten - Nigeria - FIFA.com'
+p818
+sbsS'http://ar.fifa.com/governance/agents/association=nga/players-agents/index.html'
 p819
-sg8
-g816
-sg9
-S'The 2016 AFC Futsal Championship will be played in Uzbekistan from 10-21 February. The top five teams will qualify for the FIFA Futsal World Cup Colombia 2016.'
+(imain
+Document
 p820
-sg11
-S'57271eb3-c955-4702-b687-8e63d2af5bfb'
-p821
-sg13
-VFIFA Futsal World Cup Colombia 2016\u2122 - Teams - FIFA.com
+(dp821
+g6
+S'ar.fifa.com/governance/agents/association=nga/players-agents/index...'
 p822
-sbsS'http://www.fifa.com/womensworldcup/teams/index.html'
+sg8
+g819
+sg9
+VBoolean Consult Limited: 5, Fakoya Street, Ikosi-Ketu, LAGOS: \u0627\u0644\u0628\u0631\u064a\u062f ...
 p823
-(imain
-Document
+sg11
+S'e3235adf-fccb-4404-b50e-6600f4ad33ed'
 p824
-(dp825
-g6
-S'www.fifa.com/womensworldcup/teams/index.html'
-p826
-sg8
-g823
-sg9
-VAn introduction to the teams playing at FIFA Women's World Cup Canada 2015\u2122
+sg13
+V\u0648\u0643\u0644\u0627\u0621 \u0627\u0644\u0644\u0627\u0639\u0628\u064a\u0646 - \u0646\u064a\u062c\u064a\u0631\u064a\u0627 - FIFA.com
+p825
+sbstp826
+sS'fitness'
 p827
-sg11
-S'a8f0a607-8385-4f21-8202-85591654a575'
-p828
-sg13
-VFIFA Women's World Cup Canada 2015\u2122 - Teams - FIFA.com
+(I5020
+(dp828
+S'http://www.fifa.com/worldcup/news/y=2014/m=6/news=postiga-provides-ronaldo-fitness-update-2378705.html'
 p829
-sbsS'http://www.fifa.com/worldcup/teams/index.html'
+(imain
+Document
 p830
-(imain
-Document
-p831
-(dp832
+(dp831
 g6
-S'www.fifa.com/worldcup/teams'
+S'www.fifa.com/worldcup/...provides-ronaldo-fitness-update-2378705.html'
+p832
+sg8
+g829
+sg9
+VPortugal's Helder Postiga dismissed fears over Cristiano Ronaldo's long-term fitness as the injury-affected star trained for the vital FIFA World Cup\u2122 match against ...
 p833
-sg8
-g830
-sg9
-VThe Asian Football Confederation's Preliminary Competition offers four and a half berths at the 2018 FIFA World Cup Russia\u2122.
+sg11
+S'c31b2ba2-4cd8-456c-aee9-224bd35ae0a6'
 p834
-sg11
-S'32e7d413-f208-49e6-b9ff-d93574d145e8'
+sg13
+S'Postiga provides Ronaldo fitness update - FIFA.com'
 p835
-sg13
-V2018 FIFA World Cup Russia\u2122 - Teams - FIFA.com
+sbsS'http://www.fifa.com/mm/document/afdeveloping/women/9%5fhealth%5ffitness%5fof%5fthe%5ffemale%5ffootball%5fplayer%5f55025.pdf'
 p836
-sbstp837
-sS'api'
-p838
-(I44
-(dp839
-S'http://ump.webapi.fifa.com/'
+(imain
+Document
+p837
+(dp838
+g6
+S'www.fifa.com/mm/document/afdeveloping/women/9_health_fitness_of_the...'
+p839
+sg8
+g836
+sg9
+VHealth and Fitness of the female football player Football for Health....Health for Football Benefits and Challenges of Women\u2019s Football
 p840
-(imain
-Document
+sg11
+S'20cc5855-a272-40d5-8609-f0c5823901b7'
 p841
-(dp842
-g6
-S'ump.webapi.fifa.com'
+sg13
+S'9 Health Fitness of the female football player - e - FIFA'
+p842
+sbsS'http://www.fifa.com/mm/document/footballdevelopment/medical/01/45/25/72/femalfootballplayerbooklet_en_web.pdf'
 p843
-sg8
-g840
-sg9
-S'Im Fine WEB1! Im Fine WEB1!'
+(imain
+Document
 p844
-sg11
-S'b7930f3c-14d7-4aaf-89e2-94bfd713d7ca'
-p845
-sg13
-S'ump.webapi.fifa.com'
+(dp845
+g6
+S'www.fifa.com/mm/document/footballdevelopment/medical/01/45/25/72/...'
 p846
-sbsS'http://www.fifa.com/rss-feeds/index.html'
+sg8
+g843
+sg9
+V3 Health and Fitness for the Female Football Player Foreword from the FIFA President 4 Introduction 6 Injuries to women \u2013 when and why you are at risk 8
 p847
-(imain
-Document
+sg11
+S'2e57bc81-44cc-4da6-813e-a48e25a51355'
 p848
-(dp849
-g6
-S'www.fifa.com/rss-feeds/index.html'
+sg13
+S'Healt and Fitness for the Female Football Player'
+p849
+sbsS'http://www.fifa.com/mm/document/affederation/administration/01/67/83/26/circularno.1317-2013fifalistofinternationalreferees.pdf'
 p850
-sg8
-g847
-sg9
-S'With FIFA.com RSS Feeds you can get the latest football news, photos and videos in one place, as soon as they are published.'
+(imain
+Document
 p851
-sg11
-S'1b25b4a2-f8ba-4a0d-b3af-5db2e3830a27'
-p852
-sg13
-S'RSS Feeds - FIFA.com'
+(dp852
+g6
+S'www.fifa.com/mm/document/affederation/administration/01/67/83/26/...'
 p853
-sbsS'http://www.fifa.com/development/index.html'
+sg8
+g850
+sg9
+S'fitness test and FIFA has received official notification of the results. 10. The member associations shall supply FIFA with the rankings of the proposed referees ...'
 p854
-(imain
-Document
+sg11
+S'4c038300-796f-4e45-b0ed-3c21a482af3e'
 p855
-(dp856
-g6
-S'www.fifa.com/development'
-p857
-sg8
-g854
-sg9
-S"Learn more about what FIFA is doing to develop the game, most notably in women's football, futsal and beach soccer"
-p858
-sg11
-S'834b0cca-e5fa-4c92-8a94-92b21e39f321'
-p859
 sg13
-S'FIFA Developing - FIFA.com'
-p860
-sbsS'http://www.fifa.com/worldcup/preliminaries/africa/index.html'
-p861
-(imain
-Document
-p862
-(dp863
-g6
-S'www.fifa.com/worldcup/preliminaries/africa/index.html'
-p864
-sg8
-g861
-sg9
-VThe draw for the 2018 FIFA World Cup\u2122 Preliminary Competition for the African Zone took place on 25 July in Saint Petersburg, Russia.
-p865
-sg11
-S'4041467a-3958-4fd6-b273-2c241a16e0ad'
-p866
-sg13
-V2018 FIFA World Cup Russia\u2122 - Qualifiers - Africa - FIFA.com
-p867
-sbstp868
-sS'cholesterol'
-p869
-(I8
-(dp870
-S'http://www.fifa.com/mm/document/afdeveloping/medical/6.10.2.%20anabolic-androgenic%20steroids%20-%20muscle%20and%20man%5f1509.pdf'
-p871
-(imain
-Document
-p872
-(dp873
-g6
-S'www.fifa.com/mm/document/afdeveloping/medical/6.10.2.%20anabolic...'
-p874
-sg8
-g871
-sg9
-VAnabolic-androgenic steroids \u2013 muscle and man ... Testosterone is a steroid hormone synthesised in the human body from cholesterol. In the
-p875
-sg11
-S'ef3506b1-dee7-4f65-9298-1c6eb6e609ed'
-p876
-sg13
-VAnabolic-androgenic steroids \u2013 muscle and man
-p877
-sbsS'http://www.fifa.com/development/medical/football-for-health/11-for-health/index.html'
-p878
-(imain
-Document
-p879
-(dp880
-g6
-S'www.fifa.com/development/medical/football-for-health/11-for-health/...'
-p881
-sg8
-g878
-sg9
-S'Health message. Football skill. Risk factors influenced. Play football (physical exercise) Playing football . High blood pressure, cholesterol, body mass index ...'
-p882
-sg11
-S'5885d264-7915-47d9-a9bd-ea663a57acd4'
-p883
-sg13
-S"Players' Health - The 11 for Health - FIFA.com"
-p884
-sbsS'http://resources.fifa.com/mm/document/afdeveloping/medical/01/07/26/86/fifapcmaform.pdf'
-p885
-(imain
-Document
-p886
-(dp887
-g6
-S'resources.fifa.com/mm/document/afdeveloping/medical/01/07/26/86/...'
-p888
-sg8
-g885
-sg9
-S'Cholesterol (total) _____ mmol/L LDL Cholesterol _____ mmol/L HDL Cholesterol _____ mmol/L Triglycerides _____ mmol/l Glucose _____ mmol/l C ...'
-p889
-sg11
-S'3199d824-dfab-473e-aaef-5e039ee110ab'
-p890
-sg13
-S'FIFA PRE-COMPETITION MEDICAL ASSESSMENT'
-p891
-sbsS'http://www.fifa.com/mm/document/afdeveloping/medical/1.%5ffootball%5ffor%5fhealth%5fenglish%5f1613.pdf'
-p892
-(imain
-Document
-p893
-(dp894
-g6
-S'www.fifa.com/mm/document/afdeveloping/medical/1._football_for...'
-p895
-sg8
-g892
-sg9
-VFOOTBALL FOR HEALTH mentally healthy, and do so with fun and passion. ... cholesterol increases Metabolic syndrome In\ufb02 ammation \u201cGood\u201d cholesterol falls
-p896
-sg11
-S'59689f17-d4be-4e1d-b543-120c168c2a5d'
-p897
-sg13
-S'FOOTBALL FOR HEALTH'
-p898
-sbstp899
+S'FIF~'
+p856
+sbstp857
 sS'health+nutritional'
-p900
+p858
 (I3170
-(dp901
+(dp859
 S'http://www.fifa.com/development/medical/players-health/food-for-football/supplements.html'
-p902
+p860
 (imain
 Document
-p903
-(dp904
+p861
+(dp862
 g6
 S'www.fifa.com/development/medical/players-health/food-for-football/...'
-p905
+p863
 sg8
-g902
+g860
 sg9
 S"The reality is that many of the products are either on the Prohibited List or carry serious health risks ... please refer to the 'Nutrition for Football' PDF (pages ..."
-p906
+p864
 sg11
 S'53e3a3a4-6d7c-4659-b3ca-115c2be67b68'
-p907
+p865
 sg13
 S"Players' Health - Supplements - FIFA.com"
-p908
+p866
 sbsS'http://www.fifa.com/mm/document/footballdevelopment/medical/51/55/15/nutritionbooklet_neue2010.pdf'
-p909
+p867
 (imain
 Document
-p910
-(dp911
+p868
+(dp869
 g6
 S'www.fifa.com/.../medical/51/55/15/nutritionbooklet_neue2010.pdf'
-p912
+p870
 sg8
-g909
+g867
 sg9
 S'8 NUTRITION FOR FOOTBALL | iNtroductioN NUTRITION FOR FOOTBALL | iNtroductioN 9 Nutrition for football This booklet contains information that will help players at'
-p913
+p871
 sg11
 S'00c57f8c-8655-4504-b17b-7a02df91d14d'
-p914
+p872
 sg13
 VF-MARC Nutrition Guide for Football \u2013 FIFA
-p915
+p873
 sbsS'http://www.fifa.com/mm/document/afdeveloping/medical/nutrition_booklet_e_1830.pdf'
-p916
+p874
 (imain
 Document
-p917
-(dp918
+p875
+(dp876
 g6
 S'www.fifa.com/mm/document/afdeveloping/medical/nutrition_booklet_e...'
-p919
+p877
 sg8
-g916
+g874
 sg9
 S'NUTRITION FOR FOOTBALL | FOREWORD 3 The food and drink that players choose to consume can affect how they perform in sport and help them to stay fit and healthy.'
-p920
+p878
 sg11
 S'a3e051f3-171f-4a00-bb8b-15926cb1bb9c'
-p921
+p879
 sg13
 S'FIFA COCA Nutrition E RZ'
-p922
+p880
 sbsS'http://www.fifa.com/development/medical/players-health/food-for-football/preparation-for-completion.html'
-p923
+p881
 (imain
 Document
-p924
-(dp925
+p882
+(dp883
 g6
 S'www.fifa.com/development/medical/players-health/food-for-football/...'
-p926
+p884
 sg8
-g923
+g881
 sg9
 S'In order to avoid fatigue during an important match it is important for you to adjust your diet. The amount of food you need to eat differs depending on your level of ...'
-p927
+p885
 sg11
 S'7de8af73-222f-4cfc-8dd2-a724c227950b'
-p928
+p886
 sg13
 S"Players' Health - Nutrition for Football - FIFA.com"
-p929
-sbstp930
+p887
+sbstp888
 sS'doctor+health'
-p931
+p889
 (I13100
-(dp932
+(dp890
 S'http://www.fifa.com/development/news/y=2015/m=4/news=carolina-medical-center-distinguished-by-fifa-2591380.html'
-p933
+p891
 (imain
 Document
-p934
-(dp935
+p892
+(dp893
 g6
 S'www.fifa.com/development/news/y=2015/m=4/news=carolina-medical...'
-p936
+p894
 sg8
-g933
+g891
 sg9
 VCarolina Medical Center has been awarded a FIFA Medical Clinic of Excellence title. The prestigious certificate was handed over by doctor Michel D\u2019Hooghe, Chairman ...
-p937
+p895
 sg11
 S'd07d44b6-eca8-428d-a4f2-2a91c16f9975'
-p938
+p896
 sg13
 S'Carolina Medical Center distinguished by FIFA - FIFA.com'
-p939
-sbsS'http://www.fifa.com/development/news/y=2015/m=5/news=third-medical-conference-focuses-on-prevention-2608795.html'
-p940
-(imain
-Document
-p941
-(dp942
-g6
-S'www.fifa.com/development/news/y=2015/m=5/news=third-medical...'
-p943
-sg8
-g940
-sg9
-S"'Prevention' was the key word of the third FIFA Medical Conference, which took place ahead of the FIFA Congress at the Home of FIFA in Zurich."
-p944
-sg11
-S'3a7e5f93-2d88-4e59-b79b-fa855d2eb219'
-p945
-sg13
-S'Third Medical Conference focuses on prevention - FIFA.com'
-p946
-sbsS'http://www.fifa.com/development/news/y=2015/m=8/news=dvorak-the-team-doctor-s-decision-must-be-respected-2670852.html'
-p947
-(imain
-Document
-p948
-(dp949
-g6
-S'www.fifa.com/.../m=8/news=dvorak-the-team-doctor-s-decision-must-be...'
-p950
-sg8
-g947
-sg9
-VFollowing recent discussions around the role of medical staff and their relation with the coach, FIFA\u2019s Chief Medical Officer Prof. Ji\u0159í Dvo\u0159ák ...
-p951
-sg11
-S'34b46413-d3d8-43a7-97ac-9076cedce2c9'
-p952
-sg13
-S"Dvorak: The team doctor's decision must be respected ..."
-p953
+p897
 sbsS'http://www.fifa.com/development/news/y=2015/m=9/news=fifa-s-medical-committee-to-continue-work-on-improving-team-relationsh-2676981.html'
-p954
+p898
 (imain
 Document
-p955
-(dp956
+p899
+(dp900
 g6
 S'www.fifa.com/development/news/y=2015/m=9/news=fifa-s-medical...'
-p957
+p901
 sg8
-g954
+g898
 sg9
 S'The FIFA Medical Committee met today and received an update about an initiative aimed at building stronger relationships between football teams, coaches and medical ...'
-p958
+p902
 sg11
 S'7ee8c3fb-fc1a-4e62-a268-97102e822cb6'
-p959
+p903
 sg13
 S"FIFA's Medical Committee to continue work on improving ..."
-p960
-sbstp961
-sS'motherboard'
-p962
-(I0
-(dp963
-tp964
-sS'challenge+walk'
-p965
-(I96
-(dp966
-S'http://www.fifa.com/theclub/news/newsid=1478628/index.html'
-p967
+p904
+sbsS'http://www.fifa.com/development/news/y=2015/m=8/news=dvorak-the-team-doctor-s-decision-must-be-respected-2670852.html'
+p905
 (imain
 Document
-p968
-(dp969
+p906
+(dp907
+g6
+S'www.fifa.com/.../m=8/news=dvorak-the-team-doctor-s-decision-must-be...'
+p908
+sg8
+g905
+sg9
+VFollowing recent discussions around the role of medical staff and their relation with the coach, FIFA\u2019s Chief Medical Officer Prof. Ji\u0159í Dvo\u0159ák ...
+p909
+sg11
+S'34b46413-d3d8-43a7-97ac-9076cedce2c9'
+p910
+sg13
+S"Dvorak: The team doctor's decision must be respected ..."
+p911
+sbsS'http://www.fifa.com/development/news/y=2015/m=5/news=third-medical-conference-focuses-on-prevention-2608795.html'
+p912
+(imain
+Document
+p913
+(dp914
+g6
+S'www.fifa.com/development/news/y=2015/m=5/news=third-medical...'
+p915
+sg8
+g912
+sg9
+S"'Prevention' was the key word of the third FIFA Medical Conference, which took place ahead of the FIFA Congress at the Home of FIFA in Zurich."
+p916
+sg11
+S'3a7e5f93-2d88-4e59-b79b-fa855d2eb219'
+p917
+sg13
+S'Third Medical Conference focuses on prevention - FIFA.com'
+p918
+sbstp919
+sS'motherboard'
+p920
+(I0
+(dp921
+tp922
+sS'challenge+walk'
+p923
+(I96
+(dp924
+S'http://www.fifa.com/theclub/news/newsid=1478628/index.html'
+p925
+(imain
+Document
+p926
+(dp927
 g6
 S'www.fifa.com/theclub/news/newsid=1478628/index.html'
-p970
+p928
 sg8
-g967
+g925
 sg9
 S'There are some spectacular FIFA tournaments and events taking place over the next few weeks and to celebrate the FIFA.com Club has an exciting new contest. Every few ...'
-p971
+p929
 sg11
 S'57069bf1-5668-4e05-86d6-e97dafd5d8e9'
-p972
+p930
 sg13
 S'The Club - FIFA.com'
-p973
+p931
 sbsS'http://www.fifa.com/worldcup/news/y=2015/m=7/news=scotland-rivalry-sparks-hodgson-s-imagination-2667965.html'
-p974
+p932
 (imain
 Document
-p975
-(dp976
+p933
+(dp934
 g6
 S'www.fifa.com/worldcup/news/y=2015/m=7/news=scotland-rivalry-sparks...'
-p977
+p935
 sg8
-g974
+g932
 sg9
 S'"It\'s not a walk in the park, ... Scotland are likely to have to overcome a strong challenge from Slovakia and Slovenia to claim at least a play-off place.'
-p978
+p936
 sg11
 S'e720336b-e915-44f5-8c6a-13ac24d3a9ee'
-p979
+p937
 sg13
 S"Scotland rivalry sparks Hodgson's imagination - FIFA.com"
-p980
+p938
 sbsS'http://www.fifa.com/worldcup/index.html'
-p981
+p939
 (imain
 Document
-p982
-(dp983
+p940
+(dp941
 g6
 S'www.fifa.com/worldcup/index.html'
-p984
+p942
 sg8
-g981
+g939
 sg9
 VThe draw for the 2018 FIFA World Cup\u2122 Preliminary Competition for the African Zone took place on 25 July in Saint Petersburg, Russia.
-p985
+p943
 sg11
 S'25885ba8-4da1-4b5c-8aec-51118d6162eb'
-p986
+p944
 sg13
 V2018 FIFA World Cup Russia\u2122 - FIFA.com
-p987
+p945
 sbsS'http://www.fifa.com/beachsoccerworldcup/news/y=2015/m=4/news=acuna-i-still-get-butterflies-2591749.html'
-p988
+p946
 (imain
 Document
-p989
-(dp990
+p947
+(dp948
 g6
 S'www.fifa.com/beachsoccerworldcup/news/y=2015/m=4/news=acuna-i...'
-p991
+p949
 sg8
-g988
+g946
 sg9
 S'On the walk from the dressing room to the pitch I got those butterflies that you always get when you pull this shirt on. ... A new challenge'
-p992
+p950
 sg11
 S'e4ff72f1-1564-4a31-b1f4-1ad98ce0535a'
-p993
+p951
 sg13
 S'Acuna: I still get butterflies - FIFA.com'
-p994
-sbstp995
+p952
+sbstp953
 sS'module'
-p996
+p954
 (I85400
-(dp997
+(dp955
 S'http://store.fifa.com/?intcmp=fifacom_hp_module_fifastore'
-p998
+p956
 (imain
 Document
-p999
-(dp1000
+p957
+(dp958
 g6
 S'store.fifa.com/?intcmp=fifacom_hp_module_fifastore'
-p1001
+p959
 sg8
-g998
+g956
 sg9
 S'Official FIFA Online Store. Shop in: Shop by Tournament: Home; Departments. FIFA U-17 World Cup Chile 2015; FIFA Club World Cup Japan 2015; FIFA Interactive World Cup ...'
-p1002
+p960
 sg11
 S'271569a6-2ca8-4dbe-a3f2-2cd02a36de6d'
-p1003
+p961
 sg13
 S'The Official FIFA Online Store'
-p1004
+p962
 sbsS'http://www.fifa.com/fifa-world-ranking/ranking-table/men/index.html'
-p1005
+p963
 (imain
 Document
-p1006
-(dp1007
+p964
+(dp965
 g6
 S'www.fifa.com/fifa-world-ranking/ranking-table/men'
-p1008
+p966
 sg8
-g1005
+g963
 sg9
 S'The FIFA/Coca World Ranking - Find out where your team are in the latest standings.'
-p1009
+p967
 sg11
 S'1a71c151-49b6-47b8-b92f-9cb1a45f51ca'
-p1010
+p968
 sg13
 S'The FIFA/Coca-Cola World Ranking - Ranking Table - FIFA.com'
-p1011
+p969
 sbsS'http://www.fifa.com/womens-football/news/y=2015/m=9/news=female-leaders-to-meet-in-zurich-as-part-of-fifa-development-programme-2695770.html'
-p1012
+p970
 (imain
 Document
-p1013
-(dp1014
+p971
+(dp972
 g6
 S'www.fifa.com/womens-football/news/y=2015/m=9/news=female-leaders...'
-p1015
+p973
 sg8
-g1012
+g970
 sg9
 VThe talented women involved in the inaugural edition of FIFA\u2019s Female Leadership Development Programme will head to Zurich next week as module two of the nine-month ...
-p1016
+p974
 sg11
 S'e3ce031e-1a34-4953-93f8-fb0a86dfd0a5'
-p1017
+p975
 sg13
 S'Female leaders to meet in Zurich as part of FIFA ...'
-p1018
+p976
 sbsS'http://en.predictor.fifa.com/?intcmp=fifacom_hp_module_games'
-p1019
+p977
 (imain
 Document
-p1020
-(dp1021
+p978
+(dp979
 g6
 S'en.predictor.fifa.com/?intcmp=fifacom_hp_module_games'
-p1022
+p980
 sg8
-g1019
+g977
 sg9
 S'FIFA Predictor is the football match prediction game with a twist. Predict match results from leagues around the world and win FIFA.com Club prizes.'
-p1023
+p981
 sg11
 S'51564fb4-12ab-4f08-8875-df4ff175ef3c'
-p1024
+p982
 sg13
 S'FIFA Predictor - The football match prediction game'
-p1025
-sbstp1026
+p983
+sbstp984
 sS'championship+team'
-p1027
+p985
 (I298000
-(dp1028
+(dp986
 S'http://www.fifa.com/mensolympic/teams/index.html'
-p1029
+p987
 (imain
 Document
-p1030
-(dp1031
+p988
+(dp989
 g6
 S'www.fifa.com/mensolympic/teams'
-p1032
+p990
 sg8
-g1029
+g987
 sg9
 S'The 2016 AFC U-23 Championship, to be played in January 2016, will serve as the qualifying tournament for Rio 2016. The top three teams will qualify for the final ...'
-p1033
+p991
 sg11
 S'4662b0d7-7b21-4516-aaec-d0d21a7ea175'
-p1034
+p992
 sg13
 S'Olympic Football Tournament Rio 2016 - Teams - FIFA.com'
-p1035
+p993
 sbsS'http://www.fifa.com/u20worldcup/teams/index.html'
-p1036
+p994
 (imain
 Document
-p1037
-(dp1038
+p995
+(dp996
 g6
 S'www.fifa.com/u20worldcup/teams/index.html'
-p1039
+p997
 sg8
-g1036
+g994
 sg9
 S'An introduction to the teams playing at FIFA U-20 World Cup New Zealand 2015'
-p1040
+p998
 sg11
 S'9b13f463-61f6-47dd-b302-f75ad143e6c4'
-p1041
+p999
 sg13
 S'FIFA U-20 World Cup New Zealand 2015 - Teams - FIFA.com'
-p1042
+p1000
 sbsS'http://www.fifa.com/womensworldcup/teams/team=1882884/index.html'
-p1043
+p1001
 (imain
 Document
-p1044
-(dp1045
+p1002
+(dp1003
 g6
 S'www.fifa.com/womensworldcup/teams/team=1882884/index.html'
-p1046
+p1004
 sg8
-g1043
+g1001
 sg9
 VUSA team at FIFA Women's World Cup Canada 2015\u2122
-p1047
+p1005
 sg11
 S'dd157400-6daa-4cd3-8339-11d1b3f21356'
-p1048
+p1006
 sg13
 VFIFA Women's World Cup Canada 2015\u2122 - USA - FIFA.com
-p1049
+p1007
 sbsS'http://www.fifa.com/worldcup/teams/index.html'
-p1050
+p1008
 (imain
 Document
-p1051
-(dp1052
+p1009
+(dp1010
 g6
 S'www.fifa.com/worldcup/teams'
-p1053
+p1011
 sg8
-g1050
+g1008
 sg9
 V2018 FIFA World Cup Russia\u2122 - Teams. 2018 FIFA World Cup Russia\u2122 - Teams. Toggle navigation. About FIFA; Development; Governance; Sustainability
-p1054
+p1012
 sg11
 S'f9ebada1-967c-48ae-91e4-14cea0e8c583'
-p1055
+p1013
 sg13
 V2018 FIFA World Cup Russia\u2122 - Teams - FIFA.com
-p1056
-sbstp1057
+p1014
+sbstp1015
 sS'aids'
-p1058
+p1016
 (I4620
-(dp1059
+(dp1017
 S'http://www.fifa.com/sustainability/news/y=2014/m=5/news=adidas-takes-its-exchange-programme-to-brazil-2336597.html'
-p1060
+p1018
 (imain
 Document
-p1061
-(dp1062
+p1019
+(dp1020
 g6
 S'www.fifa.com/sustainability/news/y=2014/m=5/news=adidas-takes-its...'
-p1063
+p1021
 sg8
-g1060
+g1018
 sg9
 S'The Football for Hope adidas Exchange Programme arrived in Brazil this week, with a three-day workshop held in Rio de Janeiro on 7-9 May. Bringing together nearly 100 ...'
-p1064
+p1022
 sg11
 S'8e717545-933a-48cc-b730-27e98ac77a02'
-p1065
+p1023
 sg13
 S'Football for Hope aids social organisations in Brazil ...'
-p1066
+p1024
 sbsS'http://www.fifa.com/sustainability/news/y=2014/m=3/news=fifa-aids-philippines-football-renewal-2292654.html'
-p1067
+p1025
 (imain
 Document
-p1068
-(dp1069
+p1026
+(dp1027
 g6
 S'www.fifa.com/sustainability/news/y=2014/m=3/news=fifa-aids...'
-p1070
+p1028
 sg8
-g1067
+g1025
 sg9
 VWhile Tuesday\u2019s high-profile FIFA-supported Annual Match against Poverty in Bern provided much needed money in the wake of November\u2019s devastating Typhoon Haiyan ...
-p1071
+p1029
 sg11
 S'2e37c017-1732-4a8f-9c8d-2c9ee92ace75'
-p1072
+p1030
 sg13
 VFIFA aids Philippines\u2019 football renewal - FIFA.com
-p1073
+p1031
 sbsS'http://www.fifa.com/fifa-world-ranking/news/y=2014/m=11/news=tchanile-entrustment-aids-togolese-ascent-2471312.html'
-p1074
+p1032
 (imain
 Document
-p1075
-(dp1076
+p1033
+(dp1034
 g6
 S'www.fifa.com/fifa-world-ranking/...aids-togolese-ascent-2471312.html'
-p1077
+p1035
 sg8
-g1074
+g1032
 sg9
 S'After five successive foreign coaches, Togo turned to Tchakala Tchanile. Their early reward has been some promising results and a 73-place leap up the global ladder.'
-p1078
+p1036
 sg11
 S'958a55b4-625a-4c48-99a7-4f7004158c0f'
-p1079
+p1037
 sg13
 S'Tchanile entrustment aids Togolese ascent - FIFA.com'
-p1080
+p1038
 sbsS'http://store.fifa.com/77964.html'
-p1081
+p1039
 (imain
 Document
-p1082
-(dp1083
+p1040
+(dp1041
 g6
 S'store.fifa.com/77964.html'
-p1084
+p1042
 sg8
-g1081
+g1039
 sg9
 S'Techfit material around the collar of the shoe aids in comfort and fit. A CG or Cage outsole provides incredible traction on artificial grass surfaces.'
-p1085
+p1043
 sg11
 S'42b2e47e-a734-4d65-a084-f7df3144cbf7'
-p1086
+p1044
 sg13
 S'adidas X 15.1 CG (Black/Base Green/Dark Gray) - The ...'
-p1087
-sbstp1088
+p1045
+sbstp1046
 sS'nba'
-p1089
+p1047
 (I51800
-(dp1090
+(dp1048
 S'http://www.fifa.com/ballon-dor/photos/galleries/y=2012/m=11/gallery=nba-players-talk-about-fifa-ballon-1928928.html'
-p1091
+p1049
 (imain
 Document
-p1092
-(dp1093
+p1050
+(dp1051
 g6
 S'www.fifa.com/.../m=11/gallery=nba-players-talk-about-fifa-ballon...'
-p1094
+p1052
 sg8
-g1091
+g1049
 sg9
 VBrazilian basketball star Leandrinho Barbosa, from the Brazilian National Team and NBA's Indiana Pacers. Credit:Gaspar Nóbrega/Inovafoto/CBB
-p1095
+p1053
 sg11
 S'2b39bf82-632b-4de6-8d38-9f8a71306da7'
-p1096
+p1054
 sg13
 S"NBA players talk about FIFA Ballon d'Or - FIFA.com"
-p1097
+p1055
 sbsS'http://www.fifa.com/worldcup/news/y=2014/m=6/news=kobe-bryant-football-is-my-favourite-sport-2374985.html'
-p1098
+p1056
 (imain
 Document
-p1099
-(dp1100
+p1057
+(dp1058
 g6
 S'www.fifa.com/worldcup/news/y=2014/m=6/news=kobe-bryant-football-is...'
-p1101
+p1059
 sg8
-g1098
+g1056
 sg9
 S'One of the greats of the basketball world, when away from the court and out of his LA Lakers jersey Kobe Bryant is a familiar face in the stands of football stadia ...'
-p1102
+p1060
 sg11
 S'00e0e367-8b5d-4cab-8879-49ccee6e8c07'
-p1103
+p1061
 sg13
 S'Kobe Bryant: Football is my favourite sport - FIFA.com'
-p1104
+p1062
 sbsS'http://www.fifa.com/ballon-dor/news/y=2015/m=1/news=nowitzki-neuer-was-magnificent-in-brazil-2504304.html'
-p1105
+p1063
 (imain
 Document
-p1106
-(dp1107
+p1064
+(dp1065
 g6
 S'www.fifa.com/.../m=1/news=nowitzki-neuer-was-magnificent-in-brazil...'
-p1108
+p1066
 sg8
-g1105
+g1063
 sg9
 VJust a few days ago, Dirk Nowitzki made basketball history once more as his 27,412 career points lifted him to seventh in the NBA\u2019s all-time scoring list.
-p1109
+p1067
 sg11
 S'20787200-a084-4428-bc08-28790e6ccfab'
-p1110
+p1068
 sg13
 S'Nowitzki: Neuer was magnificent in Brazil - FIFA.com'
-p1111
+p1069
 sbsS'http://www.fifa.com/worldcup/news/y=2012/m=6/news=leandrinho-the-nba-soccer-missionary-1654752.html'
-p1112
+p1070
 (imain
 Document
-p1113
-(dp1114
+p1071
+(dp1072
 g6
 S'www.fifa.com/worldcup/news/y=2012/m=6/news=leandrinho-the-nba...'
-p1115
+p1073
 sg8
-g1112
+g1070
 sg9
 S'In signing for NBA franchise Phoenix Suns in 2003, Leandro Barbosa knew he was taking up the position as an ambassador for Brazilian basketball.'
-p1116
+p1074
 sg11
 S'85d0b508-9821-47be-83f6-da65831868f4'
-p1117
+p1075
 sg13
 VLeandrinho, the NBA\u2019s soccer missionary - FIFA.com
-p1118
-sbstp1119
-sS'aspirin+cardiologist'
-p1120
-(I0
-(dp1121
-tp1122
+p1076
+sbstp1077
+sS'teams'
+p1078
+(I440000
+(dp1079
+S'http://www.fifa.com/futsalworldcup/teams/index.html'
+p1080
+(imain
+Document
+p1081
+(dp1082
+g6
+S'www.fifa.com/futsalworldcup/teams/index.html'
+p1083
+sg8
+g1080
+sg9
+S'The 2016 AFC Futsal Championship will be played in Uzbekistan from 10-21 February. The top five teams will qualify for the FIFA Futsal World Cup Colombia 2016.'
+p1084
+sg11
+S'57271eb3-c955-4702-b687-8e63d2af5bfb'
+p1085
+sg13
+VFIFA Futsal World Cup Colombia 2016\u2122 - Teams - FIFA.com
+p1086
+sbsS'http://www.fifa.com/confederationscup/teams/index.html'
+p1087
+(imain
+Document
+p1088
+(dp1089
+g6
+S'www.fifa.com/confederationscup/teams/index.html'
+p1090
+sg8
+g1087
+sg9
+S'An introduction to the teams playing at FIFA Confederations Cup Russia 2017'
+p1091
+sg11
+S'047f734b-0a55-44ff-a87e-0f12173134e5'
+p1092
+sg13
+S'FIFA Confederations Cup Russia 2017 - Teams - FIFA.com'
+p1093
+sbsS'http://www.fifa.com/womensworldcup/teams/index.html'
+p1094
+(imain
+Document
+p1095
+(dp1096
+g6
+S'www.fifa.com/womensworldcup/teams/index.html'
+p1097
+sg8
+g1094
+sg9
+VAn introduction to the teams playing at FIFA Women's World Cup Canada 2015\u2122
+p1098
+sg11
+S'a8f0a607-8385-4f21-8202-85591654a575'
+p1099
+sg13
+VFIFA Women's World Cup Canada 2015\u2122 - Teams - FIFA.com
+p1100
+sbsS'http://www.fifa.com/worldcup/teams/index.html'
+p1101
+(imain
+Document
+p1102
+(dp1103
+g6
+S'www.fifa.com/worldcup/teams'
+p1104
+sg8
+g1101
+sg9
+VThe Asian Football Confederation's Preliminary Competition offers four and a half berths at the 2018 FIFA World Cup Russia\u2122.
+p1105
+sg11
+S'32e7d413-f208-49e6-b9ff-d93574d145e8'
+p1106
+sg13
+V2018 FIFA World Cup Russia\u2122 - Teams - FIFA.com
+p1107
+sbstp1108
 sS'container'
-p1123
+p1109
 (I63
-(dp1124
+(dp1110
 S'http://resources.fifa.com/mm/document/tournament/loc/02/60/21/04/fu20wc-venueregulationsconditionsofentry_neutral.pdf'
+p1111
+(imain
+Document
+p1112
+(dp1113
+g6
+S'resources.fifa.com/mm/document/tournament/loc/02/60/21/04/fu20wc...'
+p1114
+sg8
+g1111
+sg9
+S'Cans (including aerosol cans), glass bottles, thermos flasks and any breakable container.'
+p1115
+sg11
+S'54865c20-8c6a-4312-9b30-fb98a4c7a819'
+p1116
+sg13
+S'Venue Regulations and Conditions Of Entry to Stadia for ...'
+p1117
+sbsS'http://m.fifa.com/poll/pollid=2123842/_pollContainer.html'
+p1118
+(imain
+Document
+p1119
+(dp1120
+g6
+S'm.fifa.com/poll/pollid=2123842/_pollContainer.html'
+p1121
+sg8
+g1118
+sg9
+S'Who will win the 2013 FIFA Confederations Cup final? Brazil; Spain; Vote'
+p1122
+sg11
+S'6add604c-7ceb-46c4-9a28-7dbf4adc3c04'
+p1123
+sg13
+S'm.fifa.com'
+p1124
+sbsS'http://www.fifa.com/fifa-tournaments/teams/library/_top_stats/idcup=108/_container.html'
 p1125
 (imain
 Document
 p1126
 (dp1127
 g6
-S'resources.fifa.com/mm/document/tournament/loc/02/60/21/04/fu20wc...'
+S'www.fifa.com/.../teams/library/_top_stats/idcup=108/_container.html'
 p1128
 sg8
 g1125
 sg9
-S'Cans (including aerosol cans), glass bottles, thermos flasks and any breakable container.'
+S'2004, 2010, 2014. Editions wins . 1'
 p1129
 sg11
-S'54865c20-8c6a-4312-9b30-fb98a4c7a819'
+S'caa8cdb1-dccd-438e-a0f3-722e4287fbfe'
 p1130
 sg13
-S'Venue Regulations and Conditions Of Entry to Stadia for ...'
+S'Most Victories'
 p1131
-sbsS'http://m.fifa.com/poll/pollid=2123842/_pollContainer.html'
+sbsS'http://www.fifa.com/mm/document/afdeveloping/medical/6.6.%20what%20happens%20to%20your%20urine%20sample%20v2%5f1505.pdf'
 p1132
 (imain
 Document
 p1133
 (dp1134
 g6
-S'm.fifa.com/poll/pollid=2123842/_pollContainer.html'
+S'www.fifa.com/mm/document/afdeveloping/medical/6.6.%20what%20happens...'
 p1135
 sg8
 g1132
 sg9
-S'Who will win the 2013 FIFA Confederations Cup final? Brazil; Spain; Vote'
+VWhat happens to your urine sample? Now, you have given your urine sample \u2013 or any other bodily specimen as required - and it has been sealed in the respective vessel.
 p1136
 sg11
-S'6add604c-7ceb-46c4-9a28-7dbf4adc3c04'
+S'40987b56-3576-4909-9f5e-2e267fe3deef'
 p1137
 sg13
-S'm.fifa.com'
-p1138
-sbsS'http://www.fifa.com/fifa-tournaments/teams/library/_top_stats/idcup=108/_container.html'
-p1139
-(imain
-Document
-p1140
-(dp1141
-g6
-S'www.fifa.com/.../teams/library/_top_stats/idcup=108/_container.html'
-p1142
-sg8
-g1139
-sg9
-S'2004, 2010, 2014. Editions wins . 1'
-p1143
-sg11
-S'caa8cdb1-dccd-438e-a0f3-722e4287fbfe'
-p1144
-sg13
-S'Most Victories'
-p1145
-sbsS'http://www.fifa.com/mm/document/afdeveloping/medical/6.6.%20what%20happens%20to%20your%20urine%20sample%20v2%5f1505.pdf'
-p1146
-(imain
-Document
-p1147
-(dp1148
-g6
-S'www.fifa.com/mm/document/afdeveloping/medical/6.6.%20what%20happens...'
-p1149
-sg8
-g1146
-sg9
-VWhat happens to your urine sample? Now, you have given your urine sample \u2013 or any other bodily specimen as required - and it has been sealed in the respective vessel.
-p1150
-sg11
-S'40987b56-3576-4909-9f5e-2e267fe3deef'
-p1151
-sg13
 S'What happens to your urine sample? - FIFA'
-p1152
-sbstp1153
+p1138
+sbstp1139
 sS'borland'
-p1154
+p1140
 (I0
-(dp1155
-tp1156
+(dp1141
+tp1142
 sS'aerobic'
-p1157
+p1143
 (I20
-(dp1158
+(dp1144
 S'http://www.fifa.com/mm/document/afdeveloping/medical/6.11.1.%20what%20you%20need%20to%20know%20about%20asthma%20treatment,kgr%5f1513.pdf'
+p1145
+(imain
+Document
+p1146
+(dp1147
+g6
+S'www.fifa.com/mm/document/afdeveloping/medical/6.11.1.%20what%20you...'
+p1148
+sg8
+g1145
+sg9
+S'What you need to know about asthma treatment What is Asthma? ... been published that have looked at the effect of inhaled beta-2 agonists on the aerobic'
+p1149
+sg11
+S'94e1893f-c214-4609-b02b-b14630edd1df'
+p1150
+sg13
+S'What you need to know about asthma treatment - FIFA'
+p1151
+sbsS'http://www.fifa.com/development/news/y=2008/m=4/news=the-importance-good-warm-748722.html'
+p1152
+(imain
+Document
+p1153
+(dp1154
+g6
+S'www.fifa.com/development/news/y=2008/m=4/news=the-importance-good...'
+p1155
+sg8
+g1152
+sg9
+S'... about half an hour before kick-off to go through their final warm-up routines. These normally include a series of aerobic exercises without the use of a ...'
+p1156
+sg11
+S'1da09c95-f7c7-492b-9ae4-d035dfd64224'
+p1157
+sg13
+S'The importance of a good warm-up - FIFA.com'
+p1158
+sbsS'http://www.fifa.com/mm/document/afdeveloping/medical/4.%209.5.%20young%20player%20p%2034-35%5f1501.pdf'
 p1159
 (imain
 Document
 p1160
 (dp1161
 g6
-S'www.fifa.com/mm/document/afdeveloping/medical/6.11.1.%20what%20you...'
+S'www.fifa.com/mm/document/afdeveloping/medical/4.%209.5.%20young...'
 p1162
 sg8
 g1159
 sg9
-S'What you need to know about asthma treatment What is Asthma? ... been published that have looked at the effect of inhaled beta-2 agonists on the aerobic'
+S'benefits of aerobic fitness, skill development and a team environment without the risks of a contact sport. Girls and boys can start playing at an early age, often with'
 p1163
 sg11
-S'94e1893f-c214-4609-b02b-b14630edd1df'
+S'2ca447e6-11fd-417d-9c71-65f98a454cbc'
 p1164
 sg13
-S'What you need to know about asthma treatment - FIFA'
+S'Special needs of the young player - FIFA'
 p1165
-sbsS'http://www.fifa.com/development/news/y=2008/m=4/news=the-importance-good-warm-748722.html'
+sbsS'http://www.fifa.com/mm/document/afdeveloping/medical/4.4.3.%20vitamins%20p%2016-17%5f1491.pdf'
 p1166
 (imain
 Document
 p1167
 (dp1168
 g6
-S'www.fifa.com/development/news/y=2008/m=4/news=the-importance-good...'
+S'www.fifa.com/mm/document/afdeveloping/medical/4.4.3.%20vitamins%20p...'
 p1169
 sg8
 g1166
 sg9
-S'... about half an hour before kick-off to go through their final warm-up routines. These normally include a series of aerobic exercises without the use of a ...'
+S'NUTRITION FOR FOOTBALL | VITAMINS, MINERALS AND ANTI-OXIDANTS 17 Strenuous bouts of prolonged exercise and heavy train-ing, particularly aerobic exercise, stress the ...'
 p1170
 sg11
-S'1da09c95-f7c7-492b-9ae4-d035dfd64224'
+S'e6864ec5-ee70-4723-9b84-bded025fb1f9'
 p1171
 sg13
-S'The importance of a good warm-up - FIFA.com'
-p1172
-sbsS'http://www.fifa.com/mm/document/afdeveloping/medical/4.%209.5.%20young%20player%20p%2034-35%5f1501.pdf'
-p1173
-(imain
-Document
-p1174
-(dp1175
-g6
-S'www.fifa.com/mm/document/afdeveloping/medical/4.%209.5.%20young...'
-p1176
-sg8
-g1173
-sg9
-S'benefits of aerobic fitness, skill development and a team environment without the risks of a contact sport. Girls and boys can start playing at an early age, often with'
-p1177
-sg11
-S'2ca447e6-11fd-417d-9c71-65f98a454cbc'
-p1178
-sg13
-S'Special needs of the young player - FIFA'
-p1179
-sbsS'http://www.fifa.com/mm/document/afdeveloping/medical/4.4.3.%20vitamins%20p%2016-17%5f1491.pdf'
-p1180
-(imain
-Document
-p1181
-(dp1182
-g6
-S'www.fifa.com/mm/document/afdeveloping/medical/4.4.3.%20vitamins%20p...'
-p1183
-sg8
-g1180
-sg9
-S'NUTRITION FOR FOOTBALL | VITAMINS, MINERALS AND ANTI-OXIDANTS 17 Strenuous bouts of prolonged exercise and heavy train-ing, particularly aerobic exercise, stress the ...'
-p1184
-sg11
-S'e6864ec5-ee70-4723-9b84-bded025fb1f9'
-p1185
-sg13
 S'Vitamins, minerals and anti-oxidants for training and ...'
-p1186
-sbstp1187
+p1172
+sbstp1173
 sS'bundesliga'
-p1188
+p1174
 (I53500
-(dp1189
+(dp1175
 S'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=germany-bundesliga-2000000019/news/index.html'
+p1176
+(imain
+Document
+p1177
+(dp1178
+g6
+S'www.fifa.com/...bundesliga-2000000019/news/index.html'
+p1179
+sg8
+g1176
+sg9
+S'Check out the latest news from the Germany Bundesliga'
+p1180
+sg11
+S'fd576e7c-a6cb-4497-944c-f1c0dac6e7da'
+p1181
+sg13
+S'Germany Bundesliga: Latest News - World Match Centre ...'
+p1182
+sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=germany-bundesliga-2000000019/standings/index.html'
+p1183
+(imain
+Document
+p1184
+(dp1185
+g6
+S'www.fifa.com/...bundesliga-2000000019/standings/index.html'
+p1186
+sg8
+g1183
+sg9
+S'Check out the latest standings from the Germany Bundesliga'
+p1187
+sg11
+S'40a7d38d-e358-4236-8e0a-6a13e4ea71b2'
+p1188
+sg13
+S'Germany Bundesliga: Standings - FIFA.com'
+p1189
+sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=germany-bundesliga-2000000019/matches/match=fc-bayern-munchen-borussia-dortmund-300322374/index.html'
 p1190
 (imain
 Document
 p1191
 (dp1192
 g6
-S'www.fifa.com/...bundesliga-2000000019/news/index.html'
+S'www.fifa.com/...bundesliga-2000000019/...dortmund-300322374/index.html'
 p1193
 sg8
 g1190
 sg9
-S'Check out the latest news from the Germany Bundesliga'
+VFollow the Germany Bundesliga match between FC Bayern München - Borussia Dortmund
 p1194
 sg11
-S'fd576e7c-a6cb-4497-944c-f1c0dac6e7da'
+S'880595b6-6b6d-46e1-87ba-d05554d00760'
 p1195
 sg13
-S'Germany Bundesliga: Latest News - World Match Centre ...'
+VGermany Bundesliga: FC Bayern München - Borussia Dortmund ...
 p1196
-sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=germany-bundesliga-2000000019/standings/index.html'
+sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=germany-bundesliga-2000000019/matches/calendar.html'
 p1197
 (imain
 Document
 p1198
 (dp1199
 g6
-S'www.fifa.com/...bundesliga-2000000019/standings/index.html'
+S'www.fifa.com/world-match-centre/...bundesliga.../matches/calendar.html'
 p1200
 sg8
 g1197
 sg9
-S'Check out the latest standings from the Germany Bundesliga'
+S'Check ot the calendar of matches from the Germany Bundesliga'
 p1201
 sg11
-S'40a7d38d-e358-4236-8e0a-6a13e4ea71b2'
+S'df2be123-ba20-4630-b2c8-d548a1b3289e'
 p1202
 sg13
-S'Germany Bundesliga: Standings - FIFA.com'
-p1203
-sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=germany-bundesliga-2000000019/matches/calendar.html'
-p1204
-(imain
-Document
-p1205
-(dp1206
-g6
-S'www.fifa.com/world-match-centre/...bundesliga.../matches/calendar.html'
-p1207
-sg8
-g1204
-sg9
-S'Check ot the calendar of matches from the Germany Bundesliga'
-p1208
-sg11
-S'df2be123-ba20-4630-b2c8-d548a1b3289e'
-p1209
-sg13
 S'Germany Bundesliga: Fixtures and Results - World Match ...'
-p1210
-sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=germany-bundesliga-2000000019/matches/match=fc-bayern-munchen-borussia-dortmund-300322374/index.html'
-p1211
+p1203
+sbstp1204
+sS'multimedia'
+p1205
+(I2500
+(dp1206
+S'http://www.fifa.com/development/news/y=2014/m=11/news=top-players-fifa-caf-and-health-experts-unite-in-the-fight-against-ebo-2475755.html'
+p1207
 (imain
 Document
-p1212
-(dp1213
+p1208
+(dp1209
 g6
-S'www.fifa.com/...bundesliga-2000000019/...dortmund-300322374/index.html'
-p1214
+S'www.fifa.com/development/news/y=2014/m=11/news=top-players-fifa...'
+p1210
 sg8
-g1211
+g1207
 sg9
-VFollow the Germany Bundesliga match between FC Bayern München - Borussia Dortmund
-p1215
+S'... players share each message with the help of animated films, radio content, banners, posters and pictures in a multimedia campaign launched on Monday, ...'
+p1211
 sg11
-S'880595b6-6b6d-46e1-87ba-d05554d00760'
-p1216
+S'73bb8aaa-387e-4513-b2f1-60a7543f22be'
+p1212
 sg13
-VGermany Bundesliga: FC Bayern München - Borussia Dortmund ...
+S'Top players, FIFA, CAF and health experts unite in the ...'
+p1213
+sbsS'http://de.fifa.com/worldcup/news/y=2015/m=7/news=multimedia-als-deutschland-im-maracana-den-vierten-stern-holte-2663720.html'
+p1214
+(imain
+Document
+p1215
+(dp1216
+g6
+S'de.fifa.com/worldcup/news/y=2015/m=7/news=multimedia-als...'
 p1217
-sbstp1218
-sS'multimedia'
+sg8
+g1214
+sg9
+VHeute vor einem Jahr blickte die Fussballwelt gebannt nach Rio de Janeiro. Exakt vor 365 Tagen feierte Deutschland im Maracanã den WM-Titel. Unvergessen, wie der ...
+p1218
+sg11
+S'12ac17c4-6aed-4532-a6f8-9707dc858c88'
 p1219
-(I2500
-(dp1220
-S'http://de.fifa.com/worldcup/news/y=2015/m=7/news=multimedia-als-deutschland-im-maracana-den-vierten-stern-holte-2663720.html'
+sg13
+VMULTIMEDIA Als Deutschland im Maracanã den vierten Stern ...
+p1220
+sbsS'http://www.fifa.com/mm/document/tournament/competition/02/40/14/46/tv%5fnumbers%5fen%5fneutral.pdf'
 p1221
 (imain
 Document
 p1222
 (dp1223
 g6
-S'de.fifa.com/worldcup/news/y=2015/m=7/news=multimedia-als...'
+S'www.fifa.com/mm/document/tournament/competition/02/40/14/46/tv...'
 p1224
 sg8
 g1221
 sg9
-VHeute vor einem Jahr blickte die Fussballwelt gebannt nach Rio de Janeiro. Exakt vor 365 Tagen feierte Deutschland im Maracanã den WM-Titel. Unvergessen, wie der ...
+V1 Facts & figures about the FIFA TV multimedia production of the 2014 FIFA World Cup\u2122 Multimedia production \u2022 Overall about 70 people are involved in the ...
 p1225
 sg11
-S'12ac17c4-6aed-4532-a6f8-9707dc858c88'
+S'e5c15581-ee23-46ce-ba45-c11156dd37a5'
 p1226
 sg13
-VMULTIMEDIA Als Deutschland im Maracanã den vierten Stern ...
+S'Facts & figures about the FIFA TV multimedia production of ...'
 p1227
 sbsS'http://www.fifa.com/about-fifa/news/y=2015/m=5/news=fifa-world-football-museum-opens-showroom-2602979.html'
 p1228
@@ -3353,852 +3353,852 @@ p1233
 sg13
 S'FIFA World Football Museum opens showroom - FIFA.com'
 p1234
-sbsS'http://www.fifa.com/development/news/y=2014/m=11/news=top-players-fifa-caf-and-health-experts-unite-in-the-fight-against-ebo-2475755.html'
-p1235
-(imain
-Document
+sbstp1235
+sS'pacers'
 p1236
+(I10
 (dp1237
-g6
-S'www.fifa.com/development/news/y=2014/m=11/news=top-players-fifa...'
+S'http://www.fifa.com/worldcup/photos/galleries/y=2012/m=6/gallery=leandrinho-barbosa-brazilian-basketball-star-1654665.html'
 p1238
-sg8
-g1235
-sg9
-S'... players share each message with the help of animated films, radio content, banners, posters and pictures in a multimedia campaign launched on Monday, ...'
-p1239
-sg11
-S'73bb8aaa-387e-4513-b2f1-60a7543f22be'
-p1240
-sg13
-S'Top players, FIFA, CAF and health experts unite in the ...'
-p1241
-sbsS'http://www.fifa.com/mm/document/tournament/competition/02/40/14/46/tv%5fnumbers%5fen%5fneutral.pdf'
-p1242
 (imain
 Document
-p1243
-(dp1244
+p1239
+(dp1240
 g6
-S'www.fifa.com/mm/document/tournament/competition/02/40/14/46/tv...'
-p1245
+S'www.fifa.com/worldcup/photos/galleries/y=2012/m=6/gallery=...'
+p1241
 sg8
-g1242
+g1238
 sg9
-V1 Facts & figures about the FIFA TV multimedia production of the 2014 FIFA World Cup\u2122 Multimedia production \u2022 Overall about 70 people are involved in the ...
-p1246
+S'Leandrinho Barbosa, Brazilian basketball star Leandrinho Barbosa, Brazilian basketball star. Toggle navigation. About FIFA; Development; Governance; Sustainability'
+p1242
 sg11
-S'e5c15581-ee23-46ce-ba45-c11156dd37a5'
-p1247
+S'a19ff85d-157d-4513-9c34-81ea138be17a'
+p1243
 sg13
-S'Facts & figures about the FIFA TV multimedia production of ...'
+S'Leandrinho Barbosa, Brazilian basketball star - FIFA.com'
+p1244
+sbsS'http://www.fifa.com/ballon-dor/photos/galleries/y=2012/m=11/gallery=nba-players-talk-about-fifa-ballon-1928928.html'
+p1245
+(imain
+Document
+p1246
+(dp1247
+g6
+S'www.fifa.com/.../m=11/gallery=nba-players-talk-about-fifa-ballon...'
 p1248
-sbstp1249
-sS'applet'
+sg8
+g1245
+sg9
+VBrazilian basketball star Leandrinho Barbosa, from the Brazilian National Team and NBA's Indiana Pacers. Credit:Gaspar Nóbrega/Inovafoto/CBB
+p1249
+sg11
+S'fda47212-e699-4d82-b41f-4e8cf247961b'
 p1250
-(I1
-(dp1251
-S'http://www.fifa.com/index.html'
+sg13
+S"NBA players talk about FIFA Ballon d'Or - FIFA.com"
+p1251
+sbsS'http://fr.fifa.com/news/y=2015/m=4/news=l-hebdo-des-bons-mots-2581487.html'
 p1252
 (imain
 Document
 p1253
 (dp1254
 g6
-S'www.fifa.com/index.html'
+S'fr.fifa.com/news/y=2015/m=4/news=l-hebdo-des-bons-mots-2581487.html'
 p1255
 sg8
 g1252
 sg9
-S'The FIFA Emergency Committee has decided, in consultation with the AFC, to extend the mandate of the normalisation committee of the Football Association of Maldives ...'
+VWith all these #Pacers posting pics w/ Messi, don't expect to see one from D. West. Asked if he was going to meet the star: "Who's that?!" \u2014 Candace Buckner ...
 p1256
 sg11
-S'4a987aaa-813e-4b72-aac1-1dac8c007796'
+S'916259da-8b47-42df-bca2-5307bac5a2aa'
 p1257
 sg13
-VFédération Internationale de Football Association (FIFA ...
+S"L'hebdo des bons mots - FIFA.com"
 p1258
-sbstp1259
-sS'treadmill'
-p1260
-(I14
-(dp1261
-S'http://www.fifa.com/governance/news/y=2012/m=7/news=transfer-treadmill-slowing-down-1666516.html'
-p1262
+sbsS'http://es.fifa.com/news/y=2015/m=3/news=promesas-propuestas-y-un-tipo-flexible-2580381.html'
+p1259
 (imain
 Document
-p1263
-(dp1264
+p1260
+(dp1261
 g6
-S'www.fifa.com/governance/news/y=2012/m=7/news=transfer-treadmill...'
-p1265
+S'es.fifa.com/news/y=2015/m=3/news=promesas-propuestas-y-un-tipo...'
+p1262
 sg8
-g1262
+g1259
 sg9
-S"Constantly improving, FIFA's Transfer Matching System (TMS) continues to provide an ever clearer picture of the frenetic activity that takes place during each ..."
-p1266
+VWith all these #Pacers posting pics w/ Messi, don't expect to see one from D. West. Asked if he was going to meet the star: "Who's that?!" \u2014 Candace Buckner ...
+p1263
 sg11
-S'27efa889-219a-48b1-9fcc-9fa24692dfd7'
-p1267
+S'e43be53f-4aec-4ed3-8c6b-f0d106dc918e'
+p1264
 sg13
-S'Transfer treadmill slowing down - FIFA.com'
-p1268
-sbsS'http://www.fifa.com/worldcup/news/y=2014/m=1/news=injured-khedira-world-cup-fitness-battle-2262905.html'
+S'Promesas, propuestas y ... un tipo flexible - FIFA.com'
+p1265
+sbstp1266
+sS'treadmill'
+p1267
+(I14
+(dp1268
+S'http://www.fifa.com/governance/news/y=2012/m=7/news=transfer-treadmill-slowing-down-1666516.html'
 p1269
 (imain
 Document
 p1270
 (dp1271
 g6
-S'www.fifa.com/worldcup/news/y=2014/m=1/news=injured-khedira-world...'
+S'www.fifa.com/governance/news/y=2012/m=7/news=transfer-treadmill...'
 p1272
 sg8
 g1269
 sg9
-VGermany midfielder Sami Khedira is facing a race against time to recover from injury and enter coach Joachim Low's FIFA World Cup\u2122 calculations. The Real Madrid ...
+S"Constantly improving, FIFA's Transfer Matching System (TMS) continues to provide an ever clearer picture of the frenetic activity that takes place during each ..."
 p1273
 sg11
-S'f9f24c5b-bdfc-4367-9cb8-426bd35a2b18'
+S'27efa889-219a-48b1-9fcc-9fa24692dfd7'
 p1274
 sg13
-S'Khedira faces World Cup fitness battle - FIFA.com'
+S'Transfer treadmill slowing down - FIFA.com'
 p1275
-sbsS'http://www.fifa.com/aboutfifa/organisation/administration/news/rss.xml'
+sbsS'http://www.fifa.com/worldcup/news/y=2014/m=1/news=injured-khedira-world-cup-fitness-battle-2262905.html'
 p1276
 (imain
 Document
 p1277
 (dp1278
 g6
-S'www.fifa.com/aboutfifa/organisation/administration/news/rss.xml'
+S'www.fifa.com/worldcup/news/y=2014/m=1/news=injured-khedira-world...'
 p1279
 sg8
 g1276
 sg9
-S'/about-fifa/news/y=2012/m=7/news=transfer-treadmill-slowing-down-1666516.html Mon, 23 Jul 2012 09:15:00 GMT Area=Organisation Section=Football Governance Kind=News ...'
+VGermany midfielder Sami Khedira is facing a race against time to recover from injury and enter coach Joachim Low's FIFA World Cup\u2122 calculations. The Real Madrid ...
 p1280
 sg11
-S'31e4a39f-178a-43e4-9525-c8a8b4026779'
+S'f9f24c5b-bdfc-4367-9cb8-426bd35a2b18'
 p1281
 sg13
-S'CDATA[FIFA.com - About FIFA - News]]>'
+S'Khedira faces World Cup fitness battle - FIFA.com'
 p1282
-sbsS'http://www.fifa.com/governance/library/edition2014/news,page=7.htmx'
+sbsS'http://www.fifa.com/aboutfifa/organisation/administration/news/rss.xml'
 p1283
 (imain
 Document
 p1284
 (dp1285
 g6
-S'www.fifa.com/governance/library/edition2014/news,page=7.htmx'
+S'www.fifa.com/aboutfifa/organisation/administration/news/rss.xml'
 p1286
 sg8
 g1283
 sg9
-S'Transfer treadmill slowing down; ISL: Five questions for FIFA President Joseph S. Blatter; FIFA statement on Oman ; FIFA participates in gambling regulation seminar;'
+S'/about-fifa/news/y=2012/m=7/news=transfer-treadmill-slowing-down-1666516.html Mon, 23 Jul 2012 09:15:00 GMT Area=Organisation Section=Football Governance Kind=News ...'
 p1287
 sg11
-S'ad72bf35-61fb-43bc-a459-256632ff8c2a'
+S'31e4a39f-178a-43e4-9525-c8a8b4026779'
 p1288
 sg13
-S'Three Guatemalan players banned for life - FIFA'
+S'CDATA[FIFA.com - About FIFA - News]]>'
 p1289
-sbstp1290
-sS'carb+carbs'
-p1291
-(I1
-(dp1292
-S'http://www.fifa.com/development/medical/index.html'
-p1293
+sbsS'http://www.fifa.com/governance/library/edition2014/news,page=7.htmx'
+p1290
 (imain
 Document
+p1291
+(dp1292
+g6
+S'www.fifa.com/governance/library/edition2014/news,page=7.htmx'
+p1293
+sg8
+g1290
+sg9
+S'Transfer treadmill slowing down; ISL: Five questions for FIFA President Joseph S. Blatter; FIFA statement on Oman ; FIFA participates in gambling regulation seminar;'
 p1294
-(dp1295
+sg11
+S'ad72bf35-61fb-43bc-a459-256632ff8c2a'
+p1295
+sg13
+S'Three Guatemalan players banned for life - FIFA'
+p1296
+sbstp1297
+sS'carb+carbs'
+p1298
+(I1
+(dp1299
+S'http://www.fifa.com/development/medical/index.html'
+p1300
+(imain
+Document
+p1301
+(dp1302
 g6
 S'www.fifa.com/development/medical/index.html'
-p1296
+p1303
 sg8
-g1293
+g1300
 sg9
 S"Information regarding FIFA's efforts to improve medical care in football."
-p1297
+p1304
 sg11
 S'90839b40-6bff-485c-9ad9-1b12d6e450e0'
-p1298
+p1305
 sg13
 S'Football Development - Medical - FIFA.com'
-p1299
-sbstp1300
-sS'nurse'
-p1301
-(I6370
-(dp1302
-S'http://www.fifa.com/fifa-tournaments/players-coaches/people=214151/index.html'
-p1303
-(imain
-Document
-p1304
-(dp1305
-g6
-S'www.fifa.com/fifa-tournaments/players-coaches/people=214151/index.html'
 p1306
-sg8
-g1303
-sg9
-S'FIFA Tournaments - Players & Coaches - Aiden NURSE, Aiden Nurse,Aiden NURSE'
-p1307
-sg11
-S'20e6e92d-ea4b-498c-95c6-602c712cd54e'
+sbstp1307
+sS'nurse'
 p1308
-sg13
-S'FIFA Tournaments - Players & Coaches - Aiden NURSE'
-p1309
-sbsS'http://www.fifa.com/fifa-tournaments/players-coaches/people=347667/index.html'
+(I6370
+(dp1309
+S'http://www.fifa.com/fifa-tournaments/players-coaches/people=214151/index.html'
 p1310
 (imain
 Document
 p1311
 (dp1312
 g6
-S'www.fifa.com/fifa-tournaments/players-coaches/people=347667/index.html'
+S'www.fifa.com/fifa-tournaments/players-coaches/people=214151/index.html'
 p1313
 sg8
 g1310
 sg9
-S'FIFA Tournaments - Players & Coaches - Chris NURSE, Chris NURSE,Christopher Ronald NURSE'
+S'FIFA Tournaments - Players & Coaches - Aiden NURSE, Aiden Nurse,Aiden NURSE'
 p1314
 sg11
-S'410fbb78-ac04-499d-8e19-1b9f158031b0'
+S'20e6e92d-ea4b-498c-95c6-602c712cd54e'
 p1315
 sg13
-S'FIFA Tournaments - Players & Coaches - Chris NURSE'
+S'FIFA Tournaments - Players & Coaches - Aiden NURSE'
 p1316
-sbsS'http://www.fifa.com/fifa-tournaments/players-coaches/people=295351/index.html'
+sbsS'http://www.fifa.com/fifa-tournaments/players-coaches/people=347667/index.html'
 p1317
 (imain
 Document
 p1318
 (dp1319
 g6
-S'www.fifa.com/fifa-tournaments/players-coaches/people=295351/index.html'
+S'www.fifa.com/fifa-tournaments/players-coaches/people=347667/index.html'
 p1320
 sg8
 g1317
 sg9
-S'FIFA Tournaments - Players & Coaches - Jonathan NURSE, Jonathan NURSE,Jonathan NURSE'
+S'FIFA Tournaments - Players & Coaches - Chris NURSE, Chris NURSE,Christopher Ronald NURSE'
 p1321
 sg11
-S'185ac52b-bc05-46ad-b0d1-6222f09fd840'
+S'410fbb78-ac04-499d-8e19-1b9f158031b0'
 p1322
 sg13
-S'FIFA Tournaments - Players & Coaches - Jonathan NURSE'
+S'FIFA Tournaments - Players & Coaches - Chris NURSE'
 p1323
-sbsS'http://www.fifa.com/worldcup/matches/round=274831/match=300310115/index.html'
+sbsS'http://www.fifa.com/fifa-tournaments/players-coaches/people=295351/index.html'
 p1324
 (imain
 Document
 p1325
 (dp1326
 g6
-S'www.fifa.com/worldcup/matches/round=274831/match=300310115/index.html'
+S'www.fifa.com/fifa-tournaments/players-coaches/people=295351/index.html'
 p1327
 sg8
 g1324
 sg9
-V2018 FIFA World Cup Russia\u2122 - Matches. 2018 FIFA World Cup Russia\u2122 ... Chris NURSE (C) 9. Myron Samuel. 9. Sheldon HOLDER. 69' 10. Oalex ANDERSON. 81' 10. Emery ...
+S'FIFA Tournaments - Players & Coaches - Jonathan NURSE, Jonathan NURSE,Jonathan NURSE'
 p1328
 sg11
-S'ca191545-33fb-4058-9575-e128bfcb61ff'
+S'185ac52b-bc05-46ad-b0d1-6222f09fd840'
 p1329
 sg13
-V2018 FIFA World Cup Russia\u2122 - Matches - FIFA.com
+S'FIFA Tournaments - Players & Coaches - Jonathan NURSE'
 p1330
-sbstp1331
-sS'dairy+milk'
-p1332
-(I1
-(dp1333
-S'http://www.fifa.com/mm/document/afdeveloping/medical/4.9.4.%20female%20player%20p%2032-33%5f1499.pdf'
-p1334
+sbsS'http://www.fifa.com/worldcup/matches/round=274831/match=300310115/index.html'
+p1331
 (imain
 Document
+p1332
+(dp1333
+g6
+S'www.fifa.com/worldcup/matches/round=274831/match=300310115/index.html'
+p1334
+sg8
+g1331
+sg9
+V2018 FIFA World Cup Russia\u2122 - Matches. 2018 FIFA World Cup Russia\u2122 ... Chris NURSE (C) 9. Myron Samuel. 9. Sheldon HOLDER. 69' 10. Oalex ANDERSON. 81' 10. Emery ...
 p1335
-(dp1336
+sg11
+S'ca191545-33fb-4058-9575-e128bfcb61ff'
+p1336
+sg13
+V2018 FIFA World Cup Russia\u2122 - Matches - FIFA.com
+p1337
+sbstp1338
+sS'dairy+milk'
+p1339
+(I1
+(dp1340
+S'http://www.fifa.com/mm/document/afdeveloping/medical/4.9.4.%20female%20player%20p%2032-33%5f1499.pdf'
+p1341
+(imain
+Document
+p1342
+(dp1343
 g6
 S'www.fifa.com/mm/document/afdeveloping/medical/4.9.4.%20female...'
-p1337
+p1344
 sg8
-g1334
+g1341
 sg9
 Vof dairy foods in their daily eating plans \u2013 e.g. 200 ml of low fat milk, 30 g cheese or a 200 ml carton of low fat yoghurt.
-p1338
+p1345
 sg11
 S'29d839ac-1887-4f58-b326-65b20c0c839e'
-p1339
+p1346
 sg13
 S'Special needs of the female player - FIFA'
-p1340
-sbstp1341
-sS'blood+insulin'
-p1342
-(I2
-(dp1343
-S'http://www.fifa.com/development/news/y=2007/m=5/news=glossary-and-abbreviations-514058.html'
-p1344
-(imain
-Document
-p1345
-(dp1346
-g6
-S'www.fifa.com/development/news/y=2007/m=5/news=glossary-and...'
 p1347
-sg8
-g1344
-sg9
-S'Blood doping The term refers to all methods of manipulation of the blood. ... Insulin-like Growth Factor Binding Protein: Involved in the biocascade of growth'
-p1348
-sg11
-S'57a3f26a-0f31-4178-9228-12246780ef67'
+sbstp1348
+sS'blood+insulin'
 p1349
-sg13
-S'Glossary and abbreviations - FIFA.com'
-p1350
-sbsS'http://www.fifa.com/mm/document/afdeveloping/medical/1.%5ffootball%5ffor%5fhealth%5fenglish%5f1613.pdf'
+(I2
+(dp1350
+S'http://www.fifa.com/development/news/y=2007/m=5/news=glossary-and-abbreviations-514058.html'
 p1351
 (imain
 Document
 p1352
 (dp1353
 g6
-S'www.fifa.com/mm/document/afdeveloping/medical/1._football_for...'
+S'www.fifa.com/development/news/y=2007/m=5/news=glossary-and...'
 p1354
 sg8
 g1351
 sg9
-VFOOTBALL FOR HEALTH Football is the ... e\ufb00 ect on blood lipid and insulin levels, clot formation, in\ufb02 ammation and the nervous system \u2013 even below
+S'Blood doping The term refers to all methods of manipulation of the blood. ... Insulin-like Growth Factor Binding Protein: Involved in the biocascade of growth'
 p1355
 sg11
-S'8fc6ed85-fc64-4e3d-bf3e-d6780757e8af'
+S'57a3f26a-0f31-4178-9228-12246780ef67'
 p1356
 sg13
-VFOOTBALL FOR HEALTH - Fédération Internationale de ...
+S'Glossary and abbreviations - FIFA.com'
 p1357
-sbstp1358
-sS'ball+team'
-p1359
-(I428000
-(dp1360
-S'http://www.fifa.com/ballon-dor/news/y=2015/m=10/news=women-s-football-shortlists-for-fifa-ballon-d-or-2015-revealed-2719030.html'
-p1361
+sbsS'http://www.fifa.com/mm/document/afdeveloping/medical/1.%5ffootball%5ffor%5fhealth%5fenglish%5f1613.pdf'
+p1358
 (imain
 Document
-p1362
-(dp1363
+p1359
+(dp1360
 g6
-S'www.fifa.com/ballon-dor/...football-shortlists-for-fifa-ballon-d-or...'
-p1364
+S'www.fifa.com/mm/document/afdeveloping/medical/1._football_for...'
+p1361
 sg8
-g1361
+g1358
 sg9
-VFIFA and France Football have today announced the names of the players and coaches on the shortlists for the 2015 FIFA Women\u2019s World Player of the Year and FIFA ...
-p1365
+VFOOTBALL FOR HEALTH Football is the ... e\ufb00 ect on blood lipid and insulin levels, clot formation, in\ufb02 ammation and the nervous system \u2013 even below
+p1362
 sg11
-S'e7ab964f-51d1-41cb-871d-a099fb2e8611'
-p1366
+S'8fc6ed85-fc64-4e3d-bf3e-d6780757e8af'
+p1363
 sg13
-VWomen\u2019s Football shortlists for FIFA Ballon d\u2019Or 2015 ...
-p1367
-sbsS'http://www.fifa.com/u17worldcup/news/y=2015/m=10/news=best-foot-forward-for-juliano-2722490.html'
+VFOOTBALL FOR HEALTH - Fédération Internationale de ...
+p1364
+sbstp1365
+sS'ball+team'
+p1366
+(I428000
+(dp1367
+S'http://www.fifa.com/ballon-dor/news/y=2015/m=10/news=women-s-football-shortlists-for-fifa-ballon-d-or-2015-revealed-2719030.html'
 p1368
 (imain
 Document
 p1369
 (dp1370
 g6
-S'www.fifa.com/u17worldcup/news/y=2015/m=10/news=best-foot-forward...'
+S'www.fifa.com/ballon-dor/...football-shortlists-for-fifa-ballon-d-or...'
 p1371
 sg8
 g1368
 sg9
-V\u201cIt\u2019s all about teamwork. You create a problem for yourself if the team\u2019s not ready. If you get the ball and you don\u2019t have a pass on, then ...
+VFIFA and France Football have today announced the names of the players and coaches on the shortlists for the 2015 FIFA Women\u2019s World Player of the Year and FIFA ...
 p1372
 sg11
-S'6afb140e-3a5c-4bf5-ba78-bd8168281d00'
+S'e7ab964f-51d1-41cb-871d-a099fb2e8611'
 p1373
 sg13
-S'Best foot forward for Juliano - FIFA.com'
+VWomen\u2019s Football shortlists for FIFA Ballon d\u2019Or 2015 ...
 p1374
-sbsS'http://www.fifa.com/worldcup/teams/team=43922/_index_default.html'
+sbsS'http://www.fifa.com/u17worldcup/news/y=2015/m=10/news=best-foot-forward-for-juliano-2722490.html'
 p1375
 (imain
 Document
 p1376
 (dp1377
 g6
-S'www.fifa.com/worldcup/teams/team=43922/_index_default.html'
+S'www.fifa.com/u17worldcup/news/y=2015/m=10/news=best-foot-forward...'
 p1378
 sg8
 g1375
 sg9
-S"Paraguay's Pablo Cesar Aguilar (4) and his teammate Miguel Angel Samudio (L) vie for the ball with Argentina's forward Angel Di Maria"
+V\u201cIt\u2019s all about teamwork. You create a problem for yourself if the team\u2019s not ready. If you get the ball and you don\u2019t have a pass on, then ...
 p1379
 sg11
-S'11fa3f83-6d1e-4bfa-aa5e-4a755896e652'
+S'6afb140e-3a5c-4bf5-ba78-bd8168281d00'
 p1380
 sg13
-V2018 FIFA World Cup Russia\u2122 - Teams - Argentina - FIFA.com
+S'Best foot forward for Juliano - FIFA.com'
 p1381
-sbsS'http://www.fifa.com/worldcup/news/y=2015/m=10/news=faaiuaso-samoa-s-ageless-all-rounder-2723495.html'
+sbsS'http://www.fifa.com/worldcup/teams/team=43922/_index_default.html'
 p1382
 (imain
 Document
 p1383
 (dp1384
 g6
-S'www.fifa.com/worldcup/news/y=2015/m=10/news=faaiuaso-samoa-s...'
+S'www.fifa.com/worldcup/teams/team=43922/_index_default.html'
 p1385
 sg8
 g1382
 sg9
-VThe team failed to make a major impact at the tournament, ... \u201cWe have the fitness but we need more ball skills and technique ...
+S"Paraguay's Pablo Cesar Aguilar (4) and his teammate Miguel Angel Samudio (L) vie for the ball with Argentina's forward Angel Di Maria"
 p1386
 sg11
-S'0b815428-e74f-4444-8377-e946f496ea9c'
+S'11fa3f83-6d1e-4bfa-aa5e-4a755896e652'
 p1387
 sg13
-VFaaiuaso, Samoa\u2019s ageless all-rounder - FIFA.com
+V2018 FIFA World Cup Russia\u2122 - Teams - Argentina - FIFA.com
 p1388
-sbstp1389
-sS'component'
-p1390
-(I4240
-(dp1391
-S'http://www.fifa.com/womensworldcup/organisation/ticketing/index.html'
-p1392
+sbsS'http://www.fifa.com/worldcup/news/y=2015/m=10/news=faaiuaso-samoa-s-ageless-all-rounder-2723495.html'
+p1389
 (imain
 Document
-p1393
-(dp1394
+p1390
+(dp1391
 g6
-S'www.fifa.com/womensworldcup/organisation/ticketing/index.html'
-p1395
+S'www.fifa.com/worldcup/news/y=2015/m=10/news=faaiuaso-samoa-s...'
+p1392
 sg8
-g1392
+g1389
 sg9
-VBuy your tickets for FIFA Women's World Cup Canada 2015\u2122 exclusively on FIFA.com
-p1396
+VThe team failed to make a major impact at the tournament, ... \u201cWe have the fitness but we need more ball skills and technique ...
+p1393
 sg11
-S'7e03ecdd-0f3f-49f2-864d-1cc5aad6933e'
-p1397
+S'0b815428-e74f-4444-8377-e946f496ea9c'
+p1394
 sg13
-VFIFA Women's World Cup Canada 2015\u2122 - Ticketing - FIFA.com
-p1398
-sbsS'http://www.fifa.com/worldcup/officialemblem/index.html'
+VFaaiuaso, Samoa\u2019s ageless all-rounder - FIFA.com
+p1395
+sbstp1396
+sS'laker'
+p1397
+(I2
+(dp1398
+S'http://es.fifa.com/world-match-centre/news/newsid/132/474/0/index.html'
 p1399
 (imain
 Document
 p1400
 (dp1401
 g6
-S'www.fifa.com/worldcup/officialemblem/index.html'
+S'es.fifa.com/world-match-centre/news/newsid/132/474/0/index.html'
 p1402
 sg8
 g1399
 sg9
-V2018 FIFA World Cup Russia ... An essential component of this image is the Official Emblem which forms the cornerstone of the event\u2019s brand identity.
+V... el Real Salt Laker tendrá que anular el peligro que plantea en ataque Jeff Cunningham, el internacional estadounidense nacido en Jamaica, ...
 p1403
 sg11
-S'84669cf6-a6fb-48c0-8a32-07b887d2bb8d'
+S'f2d9f3be-29c3-4e62-b447-b69aa6cded0c'
 p1404
 sg13
-V2018 FIFA World Cup Russia\u2122 - FIFA.com
+S'Dos pesos pesados parten como favoritos - FIFA.com'
 p1405
-sbsS'http://www.fifa.com/womensworldcup/news/y=2015/m=6/news=iwashimizu-leads-japan-s-defence-from-the-front-2654388.html'
+sbsS'http://www.fifa.com/u20worldcup/photos/galleries/y=2011/m=8/gallery=the-tunnels-and-locker-rooms-1490441.html'
 p1406
 (imain
 Document
 p1407
 (dp1408
 g6
-S'www.fifa.com/womensworldcup/news/y=2015/m=6/news=iwashimizu-leads...'
+S'www.fifa.com/u20worldcup/photos/galleries/y=2011/m=8/gallery=the...'
 p1409
 sg8
 g1406
 sg9
-S"A sometimes unheralded component for Japan, central defender Azusa Iwashimizu has been at the heart of the Nadeshiko's biggest triumphs in recent years and tells FIFA ..."
+S'Check out the unique shots taken by the FIFA photographers before and after the games in Colombia, including pictures from the locker rooms or the tunnel.'
 p1410
 sg11
-S'60755b90-15cb-4859-ac3e-3cd0e7527d19'
+S'6ddd4527-d8d1-4903-96ca-8e470e239d40'
 p1411
 sg13
-VIwashimizu leading Japan\u2019s defence from the front - FIFA.com
+S'In the tunnels and locker rooms - FIFA.com'
 p1412
-sbsS'http://www.fifa.com/mm/document/afdeveloping/refereeing/law%5f11%5foffside%5fen%5f47383.pdf'
-p1413
+sbstp1413
+sS'dental'
+p1414
+(I20
+(dp1415
+S'http://resources.fifa.com/mm/document/footballdevelopment/medical/02/67/46/18/firstaidwebpdffinal2015_neutral.pdf'
+p1416
 (imain
 Document
-p1414
-(dp1415
-g6
-S'www.fifa.com/mm/document/afdeveloping/refereeing/law_11_offside_en...'
-p1416
-sg8
-g1413
-sg9
-V2 Topics \u2022 Elements of the Law \u2022 Offside Position \u2022 Involvement in Active Play Interfering with an opponent Interfering with play Gaining an advantage
 p1417
-sg11
-S'93995c59-4ce8-42ed-87e2-f6eae3d2a407'
-p1418
-sg13
-S'Law 11 - Offside'
+(dp1418
+g6
+S'resources.fifa.com/mm/document/footballdevelopment/medical/02/67/...'
 p1419
-sbstp1420
-sS'dental'
+sg8
+g1416
+sg9
+S'dental injuries 116 medical emergencies that may occur in football 119 asthma and exercise-induced bronchospasm (eib) 121 diabetes and hypoglycaemia 123'
+p1420
+sg11
+S'fa2680e7-6654-40db-8f3b-c333943f071e'
 p1421
-(I20
-(dp1422
-S'http://resources.fifa.com/mm/document/footballdevelopment/medical/02/67/46/18/firstaidwebpdffinal2015_neutral.pdf'
+sg13
+S'FIRST AID MANUAL AND RELATED HEALTHCARE ISSUES FOR FOOTBALL'
+p1422
+sbsS'http://www.fifa.com/news/y=2012/m=2/news=shouldn-happen-footballer-930321.html'
 p1423
 (imain
 Document
 p1424
 (dp1425
 g6
-S'resources.fifa.com/mm/document/footballdevelopment/medical/02/67/...'
+S'www.fifa.com/news/y=2012/m=2/news=shouldn-happen-footballer-930321...'
 p1426
 sg8
 g1423
 sg9
-S'dental injuries 116 medical emergencies that may occur in football 119 asthma and exercise-induced bronchospasm (eib) 121 diabetes and hypoglycaemia 123'
+S'... teeth, while Brazilian Ramalho was forced to stay in bed for three days after swallowing a suppository meant to treat a dental infection. ...'
 p1427
 sg11
-S'fa2680e7-6654-40db-8f3b-c333943f071e'
+S'014a9b09-c43a-4847-bdd1-3995dfc7e598'
 p1428
 sg13
-S'FIRST AID MANUAL AND RELATED HEALTHCARE ISSUES FOR FOOTBALL'
+S"It shouldn't happen to a footballer - FIFA.com"
 p1429
-sbsS'http://www.fifa.com/news/y=2012/m=2/news=shouldn-happen-footballer-930321.html'
+sbsS'http://www.fifa.com/mm/document/affederation/administration/drclabour/310335.pdf'
 p1430
 (imain
 Document
 p1431
 (dp1432
 g6
-S'www.fifa.com/news/y=2012/m=2/news=shouldn-happen-footballer-930321...'
+S'www.fifa.com/mm/document/affederation/administration/drclabour/...'
 p1433
 sg8
 g1430
 sg9
-S'... teeth, while Brazilian Ramalho was forced to stay in bed for three days after swallowing a suppository meant to treat a dental infection. ...'
+S'the circumstances to club immediately and club should provide medical and dental . 8/14 cares for player. Club is responsible to pay all treatment expenses, ...'
 p1434
 sg11
-S'014a9b09-c43a-4847-bdd1-3995dfc7e598'
+S'ac0ac53a-cb7e-4149-ba4b-8d3a2c0e82a6'
 p1435
 sg13
-S"It shouldn't happen to a footballer - FIFA.com"
+S'Decision of the Dispute Resolution Chamber'
 p1436
-sbsS'http://www.fifa.com/mm/document/affederation/administration/drclabour/310335.pdf'
+sbsS'http://www.fifa.com/mm/document/affederation/administration/01/56/40/71/circularno.1288-2012prohibitedlistinternationalstandardfortherapeuticuseexemptionsandfifatuepolicy.pdf'
 p1437
 (imain
 Document
 p1438
 (dp1439
 g6
-S'www.fifa.com/mm/document/affederation/administration/drclabour/...'
+S'www.fifa.com/mm/document/affederation/administration/01/56/40/71/...'
 p1440
 sg8
 g1437
 sg9
-S'the circumstances to club immediately and club should provide medical and dental . 8/14 cares for player. Club is responsible to pay all treatment expenses, ...'
+S'Felypressin used in dental anaesthesia has been added as an exception to the indusion of products having a similar effeet to desmopressin. An ...'
 p1441
 sg11
-S'ac0ac53a-cb7e-4149-ba4b-8d3a2c0e82a6'
+S'd9db864b-289b-44ab-bf77-7540a9db49c0'
 p1442
 sg13
-S'Decision of the Dispute Resolution Chamber'
+S'FIF~'
 p1443
-sbsS'http://www.fifa.com/mm/document/affederation/administration/01/56/40/71/circularno.1288-2012prohibitedlistinternationalstandardfortherapeuticuseexemptionsandfifatuepolicy.pdf'
-p1444
+sbstp1444
+sS'cholesterol'
+p1445
+(I8
+(dp1446
+S'http://www.fifa.com/mm/document/afdeveloping/medical/6.10.2.%20anabolic-androgenic%20steroids%20-%20muscle%20and%20man%5f1509.pdf'
+p1447
 (imain
 Document
-p1445
-(dp1446
-g6
-S'www.fifa.com/mm/document/affederation/administration/01/56/40/71/...'
-p1447
-sg8
-g1444
-sg9
-S'Felypressin used in dental anaesthesia has been added as an exception to the indusion of products having a similar effeet to desmopressin. An ...'
 p1448
-sg11
-S'd9db864b-289b-44ab-bf77-7540a9db49c0'
-p1449
-sg13
-S'FIF~'
+(dp1449
+g6
+S'www.fifa.com/mm/document/afdeveloping/medical/6.10.2.%20anabolic...'
 p1450
-sbstp1451
-sS'fitness'
+sg8
+g1447
+sg9
+VAnabolic-androgenic steroids \u2013 muscle and man ... Testosterone is a steroid hormone synthesised in the human body from cholesterol. In the
+p1451
+sg11
+S'ef3506b1-dee7-4f65-9298-1c6eb6e609ed'
 p1452
-(I5020
-(dp1453
-S'http://www.fifa.com/worldcup/news/y=2014/m=6/news=postiga-provides-ronaldo-fitness-update-2378705.html'
+sg13
+VAnabolic-androgenic steroids \u2013 muscle and man
+p1453
+sbsS'http://www.fifa.com/development/medical/football-for-health/11-for-health/index.html'
 p1454
 (imain
 Document
 p1455
 (dp1456
 g6
-S'www.fifa.com/worldcup/...provides-ronaldo-fitness-update-2378705.html'
+S'www.fifa.com/development/medical/football-for-health/11-for-health/...'
 p1457
 sg8
 g1454
 sg9
-VPortugal's Helder Postiga dismissed fears over Cristiano Ronaldo's long-term fitness as the injury-affected star trained for the vital FIFA World Cup\u2122 match against ...
+S'Health message. Football skill. Risk factors influenced. Play football (physical exercise) Playing football . High blood pressure, cholesterol, body mass index ...'
 p1458
 sg11
-S'c31b2ba2-4cd8-456c-aee9-224bd35ae0a6'
+S'5885d264-7915-47d9-a9bd-ea663a57acd4'
 p1459
 sg13
-S'Postiga provides Ronaldo fitness update - FIFA.com'
+S"Players' Health - The 11 for Health - FIFA.com"
 p1460
-sbsS'http://www.fifa.com/mm/document/affederation/administration/01/67/83/26/circularno.1317-2013fifalistofinternationalreferees.pdf'
+sbsS'http://resources.fifa.com/mm/document/afdeveloping/medical/01/07/26/86/fifapcmaform.pdf'
 p1461
 (imain
 Document
 p1462
 (dp1463
 g6
-S'www.fifa.com/mm/document/affederation/administration/01/67/83/26/...'
+S'resources.fifa.com/mm/document/afdeveloping/medical/01/07/26/86/...'
 p1464
 sg8
 g1461
 sg9
-S'fitness test and FIFA has received official notification of the results. 10. The member associations shall supply FIFA with the rankings of the proposed referees ...'
+S'Cholesterol (total) _____ mmol/L LDL Cholesterol _____ mmol/L HDL Cholesterol _____ mmol/L Triglycerides _____ mmol/l Glucose _____ mmol/l C ...'
 p1465
 sg11
-S'4c038300-796f-4e45-b0ed-3c21a482af3e'
+S'3199d824-dfab-473e-aaef-5e039ee110ab'
 p1466
 sg13
-S'FIF~'
+S'FIFA PRE-COMPETITION MEDICAL ASSESSMENT'
 p1467
-sbsS'http://www.fifa.com/mm/document/footballdevelopment/medical/01/45/25/72/femalfootballplayerbooklet_en_web.pdf'
+sbsS'http://www.fifa.com/mm/document/afdeveloping/medical/1.%5ffootball%5ffor%5fhealth%5fenglish%5f1613.pdf'
 p1468
 (imain
 Document
 p1469
 (dp1470
 g6
-S'www.fifa.com/mm/document/footballdevelopment/medical/01/45/25/72/...'
+S'www.fifa.com/mm/document/afdeveloping/medical/1._football_for...'
 p1471
 sg8
 g1468
 sg9
-V3 Health and Fitness for the Female Football Player Foreword from the FIFA President 4 Introduction 6 Injuries to women \u2013 when and why you are at risk 8
+VFOOTBALL FOR HEALTH mentally healthy, and do so with fun and passion. ... cholesterol increases Metabolic syndrome In\ufb02 ammation \u201cGood\u201d cholesterol falls
 p1472
 sg11
-S'2e57bc81-44cc-4da6-813e-a48e25a51355'
+S'59689f17-d4be-4e1d-b543-120c168c2a5d'
 p1473
 sg13
-S'Healt and Fitness for the Female Football Player'
+S'FOOTBALL FOR HEALTH'
 p1474
-sbsS'http://www.fifa.com/mm/document/afdeveloping/women/9%5fhealth%5ffitness%5fof%5fthe%5ffemale%5ffootball%5fplayer%5f55025.pdf'
-p1475
+sbstp1475
+sS'component'
+p1476
+(I4240
+(dp1477
+S'http://www.fifa.com/womensworldcup/organisation/ticketing/index.html'
+p1478
 (imain
 Document
-p1476
-(dp1477
-g6
-S'www.fifa.com/mm/document/afdeveloping/women/9_health_fitness_of_the...'
-p1478
-sg8
-g1475
-sg9
-VHealth and Fitness of the female football player Football for Health....Health for Football Benefits and Challenges of Women\u2019s Football
 p1479
-sg11
-S'20cc5855-a272-40d5-8609-f0c5823901b7'
-p1480
-sg13
-S'9 Health Fitness of the female football player - e - FIFA'
+(dp1480
+g6
+S'www.fifa.com/womensworldcup/organisation/ticketing/index.html'
 p1481
-sbstp1482
-sS'laker'
+sg8
+g1478
+sg9
+VBuy your tickets for FIFA Women's World Cup Canada 2015\u2122 exclusively on FIFA.com
+p1482
+sg11
+S'7e03ecdd-0f3f-49f2-864d-1cc5aad6933e'
 p1483
-(I2
-(dp1484
-S'http://es.fifa.com/world-match-centre/news/newsid/132/474/0/index.html'
+sg13
+VFIFA Women's World Cup Canada 2015\u2122 - Ticketing - FIFA.com
+p1484
+sbsS'http://www.fifa.com/worldcup/officialemblem/index.html'
 p1485
 (imain
 Document
 p1486
 (dp1487
 g6
-S'es.fifa.com/world-match-centre/news/newsid/132/474/0/index.html'
+S'www.fifa.com/worldcup/officialemblem/index.html'
 p1488
 sg8
 g1485
 sg9
-V... el Real Salt Laker tendrá que anular el peligro que plantea en ataque Jeff Cunningham, el internacional estadounidense nacido en Jamaica, ...
+V2018 FIFA World Cup Russia ... An essential component of this image is the Official Emblem which forms the cornerstone of the event\u2019s brand identity.
 p1489
 sg11
-S'f2d9f3be-29c3-4e62-b447-b69aa6cded0c'
+S'84669cf6-a6fb-48c0-8a32-07b887d2bb8d'
 p1490
 sg13
-S'Dos pesos pesados parten como favoritos - FIFA.com'
+V2018 FIFA World Cup Russia\u2122 - FIFA.com
 p1491
-sbsS'http://www.fifa.com/u20worldcup/photos/galleries/y=2011/m=8/gallery=the-tunnels-and-locker-rooms-1490441.html'
+sbsS'http://www.fifa.com/womensworldcup/news/y=2015/m=6/news=iwashimizu-leads-japan-s-defence-from-the-front-2654388.html'
 p1492
 (imain
 Document
 p1493
 (dp1494
 g6
-S'www.fifa.com/u20worldcup/photos/galleries/y=2011/m=8/gallery=the...'
+S'www.fifa.com/womensworldcup/news/y=2015/m=6/news=iwashimizu-leads...'
 p1495
 sg8
 g1492
 sg9
-S'Check out the unique shots taken by the FIFA photographers before and after the games in Colombia, including pictures from the locker rooms or the tunnel.'
+S"A sometimes unheralded component for Japan, central defender Azusa Iwashimizu has been at the heart of the Nadeshiko's biggest triumphs in recent years and tells FIFA ..."
 p1496
 sg11
-S'6ddd4527-d8d1-4903-96ca-8e470e239d40'
+S'60755b90-15cb-4859-ac3e-3cd0e7527d19'
 p1497
 sg13
-S'In the tunnels and locker rooms - FIFA.com'
+VIwashimizu leading Japan\u2019s defence from the front - FIFA.com
 p1498
-sbstp1499
-sS'card+graphics'
-p1500
-(I3400
-(dp1501
-S'http://store.fifa.com/67686.html'
-p1502
+sbsS'http://www.fifa.com/mm/document/afdeveloping/refereeing/law%5f11%5foffside%5fen%5f47383.pdf'
+p1499
 (imain
 Document
-p1503
-(dp1504
+p1500
+(dp1501
 g6
-S'store.fifa.com/67686.html'
-p1505
+S'www.fifa.com/mm/document/afdeveloping/refereeing/law_11_offside_en...'
+p1502
 sg8
-g1502
+g1499
 sg9
-S'The Panini 2014 FIFA World Cup Brazil album will leave collectors with an equally impressive assortment of un-swappable, lifelong memories. Official Panini sticker ...'
-p1506
+V2 Topics \u2022 Elements of the Law \u2022 Offside Position \u2022 Involvement in Active Play Interfering with an opponent Interfering with play Gaining an advantage
+p1503
 sg11
-S'6e5b4a8b-4ea8-47bd-bc9b-bbeacda2b043'
-p1507
+S'93995c59-4ce8-42ed-87e2-f6eae3d2a407'
+p1504
 sg13
-S'2014 FIFA World Cup Panini Sticker Album - The Official ...'
-p1508
-sbsS'http://www.fifa.com/mm/document/footballdevelopment/refereeing/81/42/36/lawsofthegame_2012_e.pdf'
+S'Law 11 - Offside'
+p1505
+sbstp1506
+sS'card+graphics'
+p1507
+(I3400
+(dp1508
+S'http://store.fifa.com/67686.html'
 p1509
 (imain
 Document
 p1510
 (dp1511
 g6
-S'www.fifa.com/.../refereeing/81/42/36/lawsofthegame_2012_e.pdf'
+S'store.fifa.com/67686.html'
 p1512
 sg8
 g1509
 sg9
-S'Laws of the Game has been committed previously by ... The yellow card is used to communicate ... The positions suggested in the following graphics are basic and ...'
+S'The Panini 2014 FIFA World Cup Brazil album will leave collectors with an equally impressive assortment of un-swappable, lifelong memories. Official Panini sticker ...'
 p1513
 sg11
-S'a6368cf6-0120-4f01-9a19-957aefbde52b'
+S'6e5b4a8b-4ea8-47bd-bc9b-bbeacda2b043'
 p1514
 sg13
-S'FIFA Laws of the Game - 2012/2013'
+S'2014 FIFA World Cup Panini Sticker Album - The Official ...'
 p1515
-sbsS'http://www.fifa.com/mm/document/afdeveloping/refereeing/law%5f5%5fthe%5freferee%5fen%5f47411.pdf'
+sbsS'http://www.fifa.com/mm/document/footballdevelopment/refereeing/81/42/36/lawsofthegame_2012_e.pdf'
 p1516
 (imain
 Document
 p1517
 (dp1518
 g6
-S'www.fifa.com/mm/document/afdeveloping/refereeing/law_5_the_referee...'
+S'www.fifa.com/.../refereeing/81/42/36/lawsofthegame_2012_e.pdf'
 p1519
 sg8
 g1516
 sg9
-S'treatment, the referee shall issue the card before the player leaves the field of play. 20 ... The positions suggested in the following graphics are basic'
+S'Laws of the Game has been committed previously by ... The yellow card is used to communicate ... The positions suggested in the following graphics are basic and ...'
 p1520
 sg11
-S'1ef95ca6-69d7-4aa8-96eb-1c9e5697bbf8'
+S'a6368cf6-0120-4f01-9a19-957aefbde52b'
 p1521
 sg13
-S'FIFA The Referee - Law 5 of the Game.'
+S'FIFA Laws of the Game - 2012/2013'
 p1522
-sbsS'http://www.fifa.com/womensworldcup/players/player=387275/comments.html'
+sbsS'http://www.fifa.com/mm/document/afdeveloping/refereeing/law%5f5%5fthe%5freferee%5fen%5f47411.pdf'
 p1523
 (imain
 Document
 p1524
 (dp1525
 g6
-S'www.fifa.com/womensworldcup/players/player=387275/comments.html'
+S'www.fifa.com/mm/document/afdeveloping/refereeing/law_5_the_referee...'
 p1526
 sg8
 g1523
 sg9
-VYellow cards: 1: Fouls Committed: 3: Red Cards: 0: Second yellow card and red card: 0: Comments. English. English; Deutsch; Français; Español; Português;
+S'treatment, the referee shall issue the card before the player leaves the field of play. 20 ... The positions suggested in the following graphics are basic'
 p1527
 sg11
-S'7cbb16e0-340d-4cb3-a460-25f183f6d445'
+S'1ef95ca6-69d7-4aa8-96eb-1c9e5697bbf8'
 p1528
 sg13
-VFIFA Women's World Cup Canada 2015\u2122 - Sophie-AGUIE ...
+S'FIFA The Referee - Law 5 of the Game.'
 p1529
-sbstp1530
-sS'leeds'
-p1531
-(I1760
-(dp1532
-S'http://www.fifa.com/world-match-centre/clubs/club=england-leeds-united-2000006865/matches/index.html'
-p1533
+sbsS'http://www.fifa.com/womensworldcup/players/player=387275/comments.html'
+p1530
 (imain
 Document
-p1534
-(dp1535
+p1531
+(dp1532
 g6
-S'www.fifa.com/world-match-centre/clubs/club=england-leeds-united...'
-p1536
+S'www.fifa.com/womensworldcup/players/player=387275/comments.html'
+p1533
 sg8
-g1533
+g1530
 sg9
-S'Check out the Leeds United fixtures and results'
-p1537
+VYellow cards: 1: Fouls Committed: 3: Red Cards: 0: Second yellow card and red card: 0: Comments. English. English; Deutsch; Français; Español; Português;
+p1534
 sg11
-S'615a284a-ee67-4173-9718-ced468ba33f5'
-p1538
+S'7cbb16e0-340d-4cb3-a460-25f183f6d445'
+p1535
 sg13
-S'Leeds United: Matches - World Match Centre - FIFA.com'
-p1539
-sbsS'http://www.fifa.com/world-match-centre/clubs/club=england-leeds-33744/news/index.html'
+VFIFA Women's World Cup Canada 2015\u2122 - Sophie-AGUIE ...
+p1536
+sbstp1537
+sS'leeds'
+p1538
+(I1760
+(dp1539
+S'http://www.fifa.com/world-match-centre/clubs/club=england-leeds-united-2000006865/matches/index.html'
 p1540
 (imain
 Document
 p1541
 (dp1542
 g6
-S'www.fifa.com/world-match-centre/clubs/club=england-leeds-33744/...'
+S'www.fifa.com/world-match-centre/clubs/club=england-leeds-united...'
 p1543
 sg8
 g1540
 sg9
-S'Check out the latest news from Leeds. Toggle navigation. About FIFA; Development; Governance; Sustainability'
+S'Check out the Leeds United fixtures and results'
 p1544
 sg11
-S'4e16474c-b8fa-44fa-8f50-224f4db07f09'
+S'615a284a-ee67-4173-9718-ced468ba33f5'
 p1545
 sg13
-S'Leeds: Latest News - World Match Centre - FIFA.com'
+S'Leeds United: Matches - World Match Centre - FIFA.com'
 p1546
-sbsS'http://www.fifa.com/world-match-centre/clubs/club=england-leeds-33744/index.html'
+sbsS'http://www.fifa.com/world-match-centre/clubs/club=england-leeds-33744/news/index.html'
 p1547
 (imain
 Document
@@ -4210,15 +4210,15 @@ p1550
 sg8
 g1547
 sg9
-S'Find out the latest information of Leeds. Toggle navigation. About FIFA; Development; Governance; Sustainability'
+S'Check out the latest news from Leeds. Toggle navigation. About FIFA; Development; Governance; Sustainability'
 p1551
 sg11
-S'36b5e3a0-d8b2-4b2e-8f17-17fa17a3f1a2'
+S'4e16474c-b8fa-44fa-8f50-224f4db07f09'
 p1552
 sg13
-S'Leeds - World Match Centre - FIFA.com'
+S'Leeds: Latest News - World Match Centre - FIFA.com'
 p1553
-sbsS'http://www.fifa.com/world-match-centre/clubs/club=england-leeds-33744/matches/index.html'
+sbsS'http://www.fifa.com/world-match-centre/clubs/club=england-leeds-33744/index.html'
 p1554
 (imain
 Document
@@ -4230,40 +4230,40 @@ p1557
 sg8
 g1554
 sg9
-S'Check out the Leeds fixtures and results. Toggle navigation. About FIFA; Development; Governance; Sustainability'
+S'Find out the latest information of Leeds. Toggle navigation. About FIFA; Development; Governance; Sustainability'
 p1558
 sg11
-S'abdbcc22-8687-4520-9181-9b18c67a0d1f'
+S'36b5e3a0-d8b2-4b2e-8f17-17fa17a3f1a2'
 p1559
 sg13
-S'Leeds: Matches - World Match Centre - FIFA.com'
+S'Leeds - World Match Centre - FIFA.com'
 p1560
-sbstp1561
-sS'shaquille'
-p1562
-(I88
-(dp1563
-S'http://www.fifa.com/news/y=2015/m=3/news=wax-steel-and-the-eiffel-tower-2540966.html'
-p1564
+sbsS'http://www.fifa.com/world-match-centre/clubs/club=england-leeds-33744/matches/index.html'
+p1561
 (imain
 Document
-p1565
-(dp1566
+p1562
+(dp1563
 g6
-S'www.fifa.com/news/y=2015/m=3/news=wax-steel-and-the-eiffel-tower...'
-p1567
+S'www.fifa.com/world-match-centre/clubs/club=england-leeds-33744/...'
+p1564
 sg8
-g1564
+g1561
 sg9
-V... Rihanna, Boris Becker, Pablo Picasso, Angelina Jolie, Shaquille O\u2019Neal, Steven Spielberg, Simon Cowell, Bruce Lee, Usain Bolt, Sigmund Freud, ...
-p1568
+S'Check out the Leeds fixtures and results. Toggle navigation. About FIFA; Development; Governance; Sustainability'
+p1565
 sg11
-S'050af07e-e3c7-4b25-bcac-5dc69014424a'
-p1569
+S'abdbcc22-8687-4520-9181-9b18c67a0d1f'
+p1566
 sg13
-S'Wax, steel and the Eiffel Tower - FIFA.com'
-p1570
-sbsS'http://es.fifa.com/fifa-tournaments/players-coaches/people=348083/index.html'
+S'Leeds: Matches - World Match Centre - FIFA.com'
+p1567
+sbstp1568
+sS'shaquille'
+p1569
+(I88
+(dp1570
+S'http://es.fifa.com/fifa-tournaments/players-coaches/people=348083/index.html'
 p1571
 (imain
 Document
@@ -4283,25 +4283,25 @@ p1576
 sg13
 S'Torneos FIFA Jugadores y Entrenadores - Shaquille ADAMS'
 p1577
-sbsS'http://www.fifa.com/fifa-tournaments/players-coaches/people=348083/index.html'
+sbsS'http://www.fifa.com/news/y=2015/m=3/news=wax-steel-and-the-eiffel-tower-2540966.html'
 p1578
 (imain
 Document
 p1579
 (dp1580
 g6
-S'www.fifa.com/fifa-tournaments/players-coaches/people=348083/index.html'
+S'www.fifa.com/news/y=2015/m=3/news=wax-steel-and-the-eiffel-tower...'
 p1581
 sg8
 g1578
 sg9
-S'FIFA Tournaments - Players & Coaches - Shaquille ADAMS, Shaquille ADAMS,Shaquille ADAMS'
+V... Rihanna, Boris Becker, Pablo Picasso, Angelina Jolie, Shaquille O\u2019Neal, Steven Spielberg, Simon Cowell, Bruce Lee, Usain Bolt, Sigmund Freud, ...
 p1582
 sg11
-S'0492ffc5-adc1-4a2e-8482-e23a92ebed3e'
+S'050af07e-e3c7-4b25-bcac-5dc69014424a'
 p1583
 sg13
-S'FIFA Tournaments - Players & Coaches - Shaquille ADAMS'
+S'Wax, steel and the Eiffel Tower - FIFA.com'
 p1584
 sbsS'http://fr.fifa.com/fifa-tournaments/players-coaches/people=336703/index.html'
 p1585
@@ -4323,250 +4323,250 @@ p1590
 sg13
 VTournois FIFA Joueurs & Entraîneurs - Shaquille CORONADO
 p1591
-sbstp1592
-sS'bayern'
-p1593
-(I22100
-(dp1594
-S'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=germany-bundesliga-2000000019/news/newsid/272/194/1/index.html'
-p1595
+sbsS'http://www.fifa.com/fifa-tournaments/players-coaches/people=348083/index.html'
+p1592
 (imain
 Document
-p1596
-(dp1597
+p1593
+(dp1594
 g6
-S'www.fifa.com/world-match-centre/nationalleagues/nationalleague...'
-p1598
+S'www.fifa.com/fifa-tournaments/players-coaches/people=348083/index.html'
+p1595
 sg8
-g1595
+g1592
 sg9
-S'Dortmund trimmed the gap at the top to seven points behind run-away leaders Bayern Munich as Aubameyang took his tally to 13 goals in 10 league games to become the ...'
-p1599
+S'FIFA Tournaments - Players & Coaches - Shaquille ADAMS, Shaquille ADAMS,Shaquille ADAMS'
+p1596
 sg11
-S'd0f365f3-62fe-4066-bba2-2f19cb2228c2'
-p1600
+S'0492ffc5-adc1-4a2e-8482-e23a92ebed3e'
+p1597
 sg13
-S'Aubameyang hat-trick sinks Augsburg, Schalke stay third ...'
-p1601
-sbsS'http://www.fifa.com/world-match-centre/uefachampionsleague/news/newsid/273/003/7/index.html'
+S'FIFA Tournaments - Players & Coaches - Shaquille ADAMS'
+p1598
+sbstp1599
+sS'bayern'
+p1600
+(I22100
+(dp1601
+S'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=germany-bundesliga-2000000019/news/newsid/272/194/1/index.html'
 p1602
 (imain
 Document
 p1603
 (dp1604
 g6
-S'www.fifa.com/world-match-centre/uefachampionsleague/news/newsid/...'
+S'www.fifa.com/world-match-centre/nationalleagues/nationalleague...'
 p1605
 sg8
 g1602
 sg9
-S"Javi Martinez expects the goals to fly in Wednesday's crunch UEFA Champions League clash between Bayern Munich and Arsenal. The Gunners beat the Bavarians 2-0 at the ..."
+S'Dortmund trimmed the gap at the top to seven points behind run-away leaders Bayern Munich as Aubameyang took his tally to 13 goals in 10 league games to become the ...'
 p1606
 sg11
-S'1276569e-067b-4df7-9cac-9817ce4159c7'
+S'd0f365f3-62fe-4066-bba2-2f19cb2228c2'
 p1607
 sg13
-S'Martinez: Arsenal will try to attack Bayern - FIFA.com'
+S'Aubameyang hat-trick sinks Augsburg, Schalke stay third ...'
 p1608
-sbsS'http://www.fifa.com/womens-football/news/y=2015/m=11/news=bayern-melbourne-city-lay-down-markers-2730025.html'
+sbsS'http://www.fifa.com/world-match-centre/uefachampionsleague/news/newsid/273/003/7/index.html'
 p1609
 (imain
 Document
 p1610
 (dp1611
 g6
-S'www.fifa.com/womens-football/news/y=2015/m=11/news=bayern...'
+S'www.fifa.com/world-match-centre/uefachampionsleague/news/newsid/...'
 p1612
 sg8
 g1609
 sg9
-S'While the picture has become clearer in Spain and Australia, while the holders in France and Germany both registered key wins over direct rivals. FIFA.com gives you ...'
+S"Javi Martinez expects the goals to fly in Wednesday's crunch UEFA Champions League clash between Bayern Munich and Arsenal. The Gunners beat the Bavarians 2-0 at the ..."
 p1613
 sg11
-S'8c4af167-bfa7-4392-843e-4fedc867b6b8'
+S'1276569e-067b-4df7-9cac-9817ce4159c7'
 p1614
 sg13
-S'Bayern, Melbourne City lay down markers - FIFA.com'
+S'Martinez: Arsenal will try to attack Bayern - FIFA.com'
 p1615
-sbsS'http://www.fifa.com/world-match-centre/uefachampionsleague/news/newsid/272/937/4/index.html'
+sbsS'http://www.fifa.com/womens-football/news/y=2015/m=11/news=bayern-melbourne-city-lay-down-markers-2730025.html'
 p1616
 (imain
 Document
 p1617
 (dp1618
 g6
-S'www.fifa.com/world-match-centre/uefachampionsleague/news/newsid/272...'
+S'www.fifa.com/womens-football/news/y=2015/m=11/news=bayern...'
 p1619
 sg8
 g1616
 sg9
-S"Chile midfielder Arturo Vidal says Bayern Munich can prove a point by beating Arsenal in the UEFA Champions League on Wednesday. Pep Guardiola's Bavarian giants ..."
+S'While the picture has become clearer in Spain and Australia, while the holders in France and Germany both registered key wins over direct rivals. FIFA.com gives you ...'
 p1620
 sg11
-S'5338a44e-3a15-408d-8c74-d78d8ee24c24'
+S'8c4af167-bfa7-4392-843e-4fedc867b6b8'
 p1621
 sg13
-S"Vidal: We'll show Arsenal the real Bayern - FIFA.com"
+S'Bayern, Melbourne City lay down markers - FIFA.com'
 p1622
-sbstp1623
-sS'laettner'
-p1624
-(I0
-(dp1625
-tp1626
-sS'club+league'
-p1627
-(I385000
-(dp1628
-S'http://www.fifa.com/clubworldcup/clubs/index.html'
-p1629
+sbsS'http://www.fifa.com/world-match-centre/uefachampionsleague/news/newsid/272/937/4/index.html'
+p1623
 (imain
 Document
-p1630
-(dp1631
+p1624
+(dp1625
 g6
-S'www.fifa.com/clubworldcup/clubs/index.html'
-p1632
+S'www.fifa.com/world-match-centre/uefachampionsleague/news/newsid/272...'
+p1626
 sg8
-g1629
+g1623
 sg9
-S"The winner of the CAF Champions League final on 7 November will secure Africa's seat at the FIFA Club World Cup Japan 2015."
-p1633
+S"Chile midfielder Arturo Vidal says Bayern Munich can prove a point by beating Arsenal in the UEFA Champions League on Wednesday. Pep Guardiola's Bavarian giants ..."
+p1627
 sg11
-S'fde5e30c-746c-4b5b-873b-3367b02b81ba'
-p1634
+S'5338a44e-3a15-408d-8c74-d78d8ee24c24'
+p1628
 sg13
-S'FIFA Club World Cup Japan 2015 - Clubs - FIFA.com'
-p1635
-sbsS'http://www.fifa.com/world-match-centre/news/newsid/272/359/8/index.html'
+S"Vidal: We'll show Arsenal the real Bayern - FIFA.com"
+p1629
+sbstp1630
+sS'laettner'
+p1631
+(I0
+(dp1632
+tp1633
+sS'club+league'
+p1634
+(I385000
+(dp1635
+S'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=thailand-thailand-league-2000000094/standings/index.html'
 p1636
 (imain
 Document
 p1637
 (dp1638
 g6
-S'www.fifa.com/world-match-centre/news/newsid/272/359/8/index.html'
+S'www.fifa.com/world-match-centre/nationalleagues/nationalleague=...'
 p1639
 sg8
 g1636
 sg9
-S"Russian striker Artyom Dzyuba was once told he'd never be world class, but star turns for his club Zenit St. Petersburg and goals for the national team in qualifying ..."
+S'Check out the latest standings from the Thailand Thailand League. Toggle navigation. About FIFA; Development; ... Club Competition International Tournaments. National ...'
 p1640
 sg11
-S'04ebb1b4-7a4b-423a-a677-580182487132'
+S'c624d9e0-d7f5-4865-b986-165b4c58ff7b'
 p1641
 sg13
-S'Dzyuba coming good for club and country - FIFA.com'
+S'Thailand Thailand League: Standings - World Match Centre ...'
 p1642
-sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=thailand-thailand-league-2000000094/standings/index.html'
+sbsS'http://www.fifa.com/world-match-centre/news/newsid/272/359/8/index.html'
 p1643
 (imain
 Document
 p1644
 (dp1645
 g6
-S'www.fifa.com/world-match-centre/nationalleagues/nationalleague=...'
+S'www.fifa.com/world-match-centre/news/newsid/272/359/8/index.html'
 p1646
 sg8
 g1643
 sg9
-S'Check out the latest standings from the Thailand Thailand League. Toggle navigation. About FIFA; Development; ... Club Competition International Tournaments. National ...'
+S"Russian striker Artyom Dzyuba was once told he'd never be world class, but star turns for his club Zenit St. Petersburg and goals for the national team in qualifying ..."
 p1647
 sg11
-S'c624d9e0-d7f5-4865-b986-165b4c58ff7b'
+S'04ebb1b4-7a4b-423a-a677-580182487132'
 p1648
 sg13
-S'Thailand Thailand League: Standings - World Match Centre ...'
+S'Dzyuba coming good for club and country - FIFA.com'
 p1649
-sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=france-ligue-1-2000000018/standings/index.html'
+sbsS'http://www.fifa.com/clubworldcup/clubs/index.html'
 p1650
 (imain
 Document
 p1651
 (dp1652
 g6
-S'www.fifa.com/world-match-centre/nationalleagues/nationalleague=...'
+S'www.fifa.com/clubworldcup/clubs/index.html'
 p1653
 sg8
 g1650
 sg9
-S'Check out the latest standings from the France Ligue 1. Toggle navigation. About FIFA; ... Club Competition International ... UEFA Champions League'
+S"The winner of the CAF Champions League final on 7 November will secure Africa's seat at the FIFA Club World Cup Japan 2015."
 p1654
 sg11
-S'4d6c789f-ff00-4a92-9b8f-3d033066f5e6'
+S'fde5e30c-746c-4b5b-873b-3367b02b81ba'
 p1655
 sg13
-S'France Ligue 1: Standings - World Match Centre - FIFA.com'
+S'FIFA Club World Cup Japan 2015 - Clubs - FIFA.com'
 p1656
-sbstp1657
-sS'fsb+overclocking'
-p1658
-(I0
-(dp1659
-tp1660
-sS'eating+protein'
-p1661
-(I23
-(dp1662
-S'http://www.fifa.com/mm/document/afdeveloping/medical/4.4.1.%20carbohydrates%20p12-13%5f1489.pdf'
-p1663
+sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=france-ligue-1-2000000018/standings/index.html'
+p1657
 (imain
 Document
-p1664
-(dp1665
+p1658
+(dp1659
 g6
-S'www.fifa.com/mm/document/afdeveloping/medical/4.4.1...'
-p1666
+S'www.fifa.com/world-match-centre/nationalleagues/nationalleague=...'
+p1660
 sg8
-g1663
+g1657
 sg9
-S'everyday eating and drinking plan needs to provide ... vide a good source of protein and other nutrients. ... Carbohydrate-rich foods and drinks with a moderate to'
-p1667
+S'Check out the latest standings from the France Ligue 1. Toggle navigation. About FIFA; ... Club Competition International ... UEFA Champions League'
+p1661
 sg11
-S'f3546303-7593-43c0-b8bc-77bd83cb6f39'
-p1668
+S'4d6c789f-ff00-4a92-9b8f-3d033066f5e6'
+p1662
 sg13
-S'Carbohydrates in the diet - FIFA'
-p1669
-sbsS'http://www.fifa.com/mm/document/footballdevelopment/medical/51/55/15/nutritionbooklet_neue2010.pdf'
+S'France Ligue 1: Standings - World Match Centre - FIFA.com'
+p1663
+sbstp1664
+sS'fsb+overclocking'
+p1665
+(I0
+(dp1666
+tp1667
+sS'eating+protein'
+p1668
+(I23
+(dp1669
+S'http://www.fifa.com/mm/document/afdeveloping/medical/4.4.1.%20carbohydrates%20p12-13%5f1489.pdf'
 p1670
 (imain
 Document
 p1671
 (dp1672
 g6
-S'www.fifa.com/mm/document/footballdevelopment/medical/51/55/15/...'
+S'www.fifa.com/mm/document/afdeveloping/medical/4.4.1...'
 p1673
 sg8
 g1670
 sg9
-S'Eating a small amount of protein just after training may help promote adaptations in ... 20 NUTRITION FOR FOOTBALL | ProtEiN NEEdS NUTRITION FOR FOOTBALL ...'
+S'everyday eating and drinking plan needs to provide ... vide a good source of protein and other nutrients. ... Carbohydrate-rich foods and drinks with a moderate to'
 p1674
 sg11
-S'4f7c279d-eab4-4a9c-8a79-8b7027e65ced'
+S'f3546303-7593-43c0-b8bc-77bd83cb6f39'
 p1675
 sg13
-VF-MARC Nutrition Guide for Football \u2013 FIFA
+S'Carbohydrates in the diet - FIFA'
 p1676
-sbsS'http://www.fifa.com/mm/document/afdeveloping/medical/4.4.2.%20protein%20p%2014-15%5f1490.pdf'
+sbsS'http://www.fifa.com/mm/document/footballdevelopment/medical/51/55/15/nutritionbooklet_neue2010.pdf'
 p1677
 (imain
 Document
 p1678
 (dp1679
 g6
-S'www.fifa.com/mm/document/afdeveloping/medical/4.4.2.%20protein%20p...'
+S'www.fifa.com/mm/document/footballdevelopment/medical/51/55/15/...'
 p1680
 sg8
 g1677
 sg9
-S'Protein has been considered a key nutrient for sporting success by athletes of all eras and in all sports. Whereas ancient Olympians were reported to eat unusually large'
+S'Eating a small amount of protein just after training may help promote adaptations in ... 20 NUTRITION FOR FOOTBALL | ProtEiN NEEdS NUTRITION FOR FOOTBALL ...'
 p1681
 sg11
-S'ab3c52ac-a7ac-428c-ab98-e5fa1776035e'
+S'4f7c279d-eab4-4a9c-8a79-8b7027e65ced'
 p1682
 sg13
-S'Protein needs for training and bulking up - FIFA'
+VF-MARC Nutrition Guide for Football \u2013 FIFA
 p1683
 sbsS'http://www.fifa.com/development/medical/players-health/food-for-football/energy-needs.html'
 p1684
@@ -4588,245 +4588,245 @@ p1689
 sg13
 S"Players' Health - Energy needs - FIFA.com"
 p1690
-sbstp1691
-sS'ncaa'
-p1692
-(I74
-(dp1693
-S'http://www.fifa.com/mm/document/tournament/competition/football%5fstadiums%5ftechnical%5frecommendations%5fand%5frequirements%5fen%5f8211.pdf'
-p1694
+sbsS'http://www.fifa.com/mm/document/afdeveloping/medical/4.4.2.%20protein%20p%2014-15%5f1490.pdf'
+p1691
 (imain
 Document
-p1695
-(dp1696
+p1692
+(dp1693
 g6
-S'www.fifa.com/mm/document/tournament/competition/football_stadiums...'
-p1697
+S'www.fifa.com/mm/document/afdeveloping/medical/4.4.2.%20protein%20p...'
+p1694
 sg8
-g1694
+g1691
 sg9
-S'10 FOOTBALL STADIUMS k This is the fourth edition of Football Stadiums: Technical recommendations and requirements and the most ambitious, with extensive new material ...'
-p1698
+S'Protein has been considered a key nutrient for sporting success by athletes of all eras and in all sports. Whereas ancient Olympians were reported to eat unusually large'
+p1695
 sg11
-S'b4d3455a-f374-462d-92da-7544dcafabc7'
-p1699
+S'ab3c52ac-a7ac-428c-ab98-e5fa1776035e'
+p1696
 sg13
-S'EDITION Football Stadiums'
-p1700
-sbsS'http://www.fifa.com/worldcup/news/y=2014/m=7/news=referees-for-the-final-four-matches-announced-2401256.html'
+S'Protein needs for training and bulking up - FIFA'
+p1697
+sbstp1698
+sS'ncaa'
+p1699
+(I74
+(dp1700
+S'http://www.fifa.com/mm/document/tournament/competition/football%5fstadiums%5ftechnical%5frecommendations%5fand%5frequirements%5fen%5f8211.pdf'
 p1701
 (imain
 Document
 p1702
 (dp1703
 g6
-S'www.fifa.com/worldcup/news/y=2014/m=7/news=referees-for-the-final...'
+S'www.fifa.com/mm/document/tournament/competition/football_stadiums...'
 p1704
 sg8
 g1701
 sg9
-S'The remaining referees teams who will be used for the final four games of the tournament have been announced, with 15 of the 25 teams available to be chosen for the ...'
+S'10 FOOTBALL STADIUMS k This is the fourth edition of Football Stadiums: Technical recommendations and requirements and the most ambitious, with extensive new material ...'
 p1705
 sg11
-S'd601c32c-335e-4fdb-b3ad-c3d2836eace3'
+S'b4d3455a-f374-462d-92da-7544dcafabc7'
 p1706
 sg13
-S'Referees for the final four matches announced - FIFA.com'
+S'EDITION Football Stadiums'
 p1707
-sbsS'http://www.fifa.com/womensworldcup/matches/round=268018/match=300269488/index.html'
+sbsS'http://www.fifa.com/worldcup/news/y=2014/m=7/news=referees-for-the-final-four-matches-announced-2401256.html'
 p1708
 (imain
 Document
 p1709
 (dp1710
 g6
-S'www.fifa.com/womensworldcup/matches/round=268018/match=300269488/...'
+S'www.fifa.com/worldcup/news/y=2014/m=7/news=referees-for-the-final...'
 p1711
 sg8
 g1708
 sg9
-S'A lone Carli Lloyd header six minutes after half-time was enough for USA to see off a gallant China PR in the Canada 2015 quarter-final in Ottawa.'
+S'The remaining referees teams who will be used for the final four games of the tournament have been announced, with 15 of the 25 teams available to be chosen for the ...'
 p1712
 sg11
-S'3d8bc856-400e-4785-aa45-5b313175b815'
+S'd601c32c-335e-4fdb-b3ad-c3d2836eace3'
 p1713
 sg13
-VFIFA Women's World Cup Canada 2015\u2122 - Matches - China PR ...
+S'Referees for the final four matches announced - FIFA.com'
 p1714
-sbsS'http://www.fifa.com/mm/document/tournament/competition/51/54/11/stadium%5ftech%5frec%5freq%5fguide%5fto%5flighting%5fen%5f7306.pdf'
+sbsS'http://www.fifa.com/womensworldcup/matches/round=268018/match=300269488/index.html'
 p1715
 (imain
 Document
 p1716
 (dp1717
 g6
-S'www.fifa.com/mm/document/tournament/competition/51/54/11/stadium...'
+S'www.fifa.com/womensworldcup/matches/round=268018/match=300269488/...'
 p1718
 sg8
 g1715
 sg9
-S'Lighting and power supply A lighting system must be installed which meets the needs of broadcasters, spectators, players and officials without'
+S'A lone Carli Lloyd header six minutes after half-time was enough for USA to see off a gallant China PR in the Canada 2015 quarter-final in Ottawa.'
 p1719
 sg11
-S'16305aa0-5e5b-4176-93ad-0af36a0c5ef5'
+S'3d8bc856-400e-4785-aa45-5b313175b815'
 p1720
 sg13
-S'Lighting and power supply - FIFA'
+VFIFA Women's World Cup Canada 2015\u2122 - Matches - China PR ...
 p1721
-sbstp1722
-sS'wnba'
-p1723
-(I7
-(dp1724
-S'http://www.fifa.com/womensworldcup/news/y=2013/m=3/news=fifa-women-world-cup-canada-2015tm-match-schedule-unveiled-2035770.html'
-p1725
+sbsS'http://www.fifa.com/mm/document/tournament/competition/51/54/11/stadium%5ftech%5frec%5freq%5fguide%5fto%5flighting%5fen%5f7306.pdf'
+p1722
 (imain
 Document
-p1726
-(dp1727
+p1723
+(dp1724
 g6
-S'www.fifa.com/womensworldcup/news/y=2013/m=3/news=fifa-women-world...'
-p1728
+S'www.fifa.com/mm/document/tournament/competition/51/54/11/stadium...'
+p1725
 sg8
-g1725
+g1722
 sg9
-VThe official match schedule for the FIFA Women\u2019s World Cup Canada 2015\u2122 was provisionally approved today by the FIFA Executive Committee during a meeting held in ...
-p1729
+S'Lighting and power supply A lighting system must be installed which meets the needs of broadcasters, spectators, players and officials without'
+p1726
 sg11
-S'b645daf9-17d3-4e51-a58c-b08c87ee8ad0'
-p1730
+S'16305aa0-5e5b-4176-93ad-0af36a0c5ef5'
+p1727
 sg13
-VFIFA Women\u2019s World Cup Canada 2015\u2122 match schedule ...
-p1731
-sbsS'http://www.fifa.com/worldcup/teams/team=43921/_index_default.html'
+S'Lighting and power supply - FIFA'
+p1728
+sbstp1729
+sS'wnba'
+p1730
+(I7
+(dp1731
+S'http://www.fifa.com/womensworldcup/news/y=2013/m=3/news=fifa-women-world-cup-canada-2015tm-match-schedule-unveiled-2035770.html'
 p1732
 (imain
 Document
 p1733
 (dp1734
 g6
-S'www.fifa.com/worldcup/teams/team=43921'
+S'www.fifa.com/womensworldcup/news/y=2013/m=3/news=fifa-women-world...'
 p1735
 sg8
 g1732
 sg9
-S'All-time Statistics. Top stories. Comments'
+VThe official match schedule for the FIFA Women\u2019s World Cup Canada 2015\u2122 was provisionally approved today by the FIFA Executive Committee during a meeting held in ...
 p1736
 sg11
-S'1b5bd010-48d9-4cfa-a878-94dbbb7c6641'
+S'b645daf9-17d3-4e51-a58c-b08c87ee8ad0'
 p1737
 sg13
-V2018 FIFA World Cup Russia\u2122 - Teams - USA - FIFA.com
+VFIFA Women\u2019s World Cup Canada 2015\u2122 match schedule ...
 p1738
-sbsS'http://www.fifa.com/worldcup/news/index.html'
+sbsS'http://www.fifa.com/worldcup/teams/team=43921/_index_default.html'
 p1739
 (imain
 Document
 p1740
 (dp1741
 g6
-S'www.fifa.com/worldcup/news'
+S'www.fifa.com/worldcup/teams/team=43921'
 p1742
 sg8
 g1739
 sg9
-VKeep up to date with all the latest news from 2018 FIFA World Cup Russia\u2122
+S'All-time Statistics. Top stories. Comments'
 p1743
 sg11
-S'287eab6a-3951-47f1-b217-d3202fb33080'
+S'1b5bd010-48d9-4cfa-a878-94dbbb7c6641'
 p1744
 sg13
-V2018 FIFA World Cup Russia\u2122 - News - FIFA.com
+V2018 FIFA World Cup Russia\u2122 - Teams - USA - FIFA.com
 p1745
-sbsS'http://www.fifa.com/world-match-centre/index.html'
+sbsS'http://www.fifa.com/worldcup/news/index.html'
 p1746
 (imain
 Document
 p1747
 (dp1748
 g6
-S'www.fifa.com/world-match-centre'
+S'www.fifa.com/worldcup/news'
 p1749
 sg8
 g1746
 sg9
-S'Latest fixtures and results from leagues, tournaments and A-match friendlies across the world'
+VKeep up to date with all the latest news from 2018 FIFA World Cup Russia\u2122
 p1750
 sg11
-S'ce4b3976-c944-4373-aa89-f916fd637787'
+S'287eab6a-3951-47f1-b217-d3202fb33080'
 p1751
 sg13
-S'World Match Centre - FIFA.com'
+V2018 FIFA World Cup Russia\u2122 - News - FIFA.com
 p1752
-sbstp1753
-sS'sabonis'
-p1754
-(I0
-(dp1755
-tp1756
-sS'exercise+weight'
-p1757
-(I52
-(dp1758
-S'http://www.fifa.com/mm/document/afdeveloping/medical/4.4.1.%20carbohydrates%20p12-13%5f1489.pdf'
-p1759
+sbsS'http://www.fifa.com/world-match-centre/index.html'
+p1753
 (imain
 Document
-p1760
-(dp1761
+p1754
+(dp1755
 g6
-S'www.fifa.com/mm/document/afdeveloping/medical/4.4.1...'
-p1762
+S'www.fifa.com/world-match-centre'
+p1756
 sg8
-g1759
+g1753
 sg9
-VCarbohydrate provides an important, ... Immediate recovery after exercise (0-4 hours): about 1 g per kg of the player\u2019s body weight per hour,
-p1763
+S'Latest fixtures and results from leagues, tournaments and A-match friendlies across the world'
+p1757
 sg11
-S'b6feb84a-dba1-446d-846d-8bf05a9bd0dc'
-p1764
+S'ce4b3976-c944-4373-aa89-f916fd637787'
+p1758
 sg13
-S'Carbohydrates in the diet - FIFA'
-p1765
-sbsS'http://www.fifa.com/mm/document/afdeveloping/medical/4.4.2.%20protein%20p%2014-15%5f1490.pdf'
+S'World Match Centre - FIFA.com'
+p1759
+sbstp1760
+sS'sabonis'
+p1761
+(I0
+(dp1762
+tp1763
+sS'exercise+weight'
+p1764
+(I52
+(dp1765
+S'http://www.fifa.com/mm/document/afdeveloping/medical/4.4.1.%20carbohydrates%20p12-13%5f1489.pdf'
 p1766
 (imain
 Document
 p1767
 (dp1768
 g6
-S'www.fifa.com/mm/document/afdeveloping/medical/4.4.2.%20protein%20p...'
+S'www.fifa.com/mm/document/afdeveloping/medical/4.4.1...'
 p1769
 sg8
 g1766
 sg9
-S'ance-training exercise may increase daily protein needs up to a maximum of 1.2-1.6 g per kg body weight (BW), compared to the recommended intake of 0.8 g/kg BW for'
+VCarbohydrate provides an important, ... Immediate recovery after exercise (0-4 hours): about 1 g per kg of the player\u2019s body weight per hour,
 p1770
 sg11
-S'b94b3873-d305-4340-8c83-95ab970e909b'
+S'b6feb84a-dba1-446d-846d-8bf05a9bd0dc'
 p1771
 sg13
-S'Protein needs for training and bulking up - FIFA'
+S'Carbohydrates in the diet - FIFA'
 p1772
-sbsS'http://www.fifa.com/mm/document/afdeveloping/women/9%5fhealth%5ffitness%5fof%5fthe%5ffemale%5ffootball%5fplayer%5f55025.pdf'
+sbsS'http://www.fifa.com/mm/document/afdeveloping/medical/4.4.2.%20protein%20p%2014-15%5f1490.pdf'
 p1773
 (imain
 Document
 p1774
 (dp1775
 g6
-S'www.fifa.com/mm/document/afdeveloping/women/9_health_fitness_of_the...'
+S'www.fifa.com/mm/document/afdeveloping/medical/4.4.2.%20protein%20p...'
 p1776
 sg8
 g1773
 sg9
-VPhysical Conditioning \u2022 Complimentary strength and conditioning will add to the benefits of playing the game \u2013 Weight bearing exercise increases bone density and
+S'ance-training exercise may increase daily protein needs up to a maximum of 1.2-1.6 g per kg body weight (BW), compared to the recommended intake of 0.8 g/kg BW for'
 p1777
 sg11
-S'd41e7b09-e95c-48f3-a687-fdb353a16efa'
+S'b94b3873-d305-4340-8c83-95ab970e909b'
 p1778
 sg13
-S'9 Health Fitness of the female football player - e - FIFA'
+S'Protein needs for training and bulking up - FIFA'
 p1779
 sbsS'http://www.fifa.com/mm/document/afdeveloping/medical/4.6.%20hydration%20p%2020-21%5f1493.pdf'
 p1780
@@ -4848,1027 +4848,1027 @@ p1785
 sg13
 S'1402 FIFA COCA Nutrition'
 p1786
-sbstp1787
-sS'pc+windows'
-p1788
-(I50
-(dp1789
-S'http://www.fifa.com/worldcup/news/y=2014/m=6/news=official-2014-fifa-world-cup-app-available-to-download-for-free-2368246.html'
-p1790
+sbsS'http://www.fifa.com/mm/document/afdeveloping/women/9%5fhealth%5ffitness%5fof%5fthe%5ffemale%5ffootball%5fplayer%5f55025.pdf'
+p1787
 (imain
 Document
-p1791
-(dp1792
+p1788
+(dp1789
 g6
-S'www.fifa.com/worldcup/news/y=2014/m=6/news=official-2014-fifa...'
-p1793
+S'www.fifa.com/mm/document/afdeveloping/women/9_health_fitness_of_the...'
+p1790
 sg8
-g1790
+g1787
 sg9
-VThe official FIFA World Cup\u2122 app has launched with exclusive coverage from Brazil 2014, meaning fans can take the world\u2019s biggest event with them wherever they go.
-p1794
+VPhysical Conditioning \u2022 Complimentary strength and conditioning will add to the benefits of playing the game \u2013 Weight bearing exercise increases bone density and
+p1791
 sg11
-S'a65cad60-caee-4109-bd46-786b34a2c42f'
-p1795
+S'd41e7b09-e95c-48f3-a687-fdb353a16efa'
+p1792
 sg13
-S'Official 2014 FIFA World Cup app available to download for ...'
-p1796
-sbsS'http://www.fifa.com/widgets/index.html'
+S'9 Health Fitness of the female football player - e - FIFA'
+p1793
+sbstp1794
+sS'pc+windows'
+p1795
+(I50
+(dp1796
+S'http://www.fifa.com/worldcup/news/y=2014/m=6/news=official-2014-fifa-world-cup-app-available-to-download-for-free-2368246.html'
 p1797
 (imain
 Document
 p1798
 (dp1799
 g6
-S'www.fifa.com/widgets/index.html'
+S'www.fifa.com/worldcup/news/y=2014/m=6/news=official-2014-fifa...'
 p1800
 sg8
 g1797
 sg9
-S'Get football latest for free over FIFA.com Widgets! The FIFA.com Football Widgets offers you a wide choice of football apps including lastest news, photos and scores!'
+VThe official FIFA World Cup\u2122 app has launched with exclusive coverage from Brazil 2014, meaning fans can take the world\u2019s biggest event with them wherever they go.
 p1801
 sg11
-S'2f3b8381-87d5-4fa8-b1d0-7515ce1e005c'
+S'a65cad60-caee-4109-bd46-786b34a2c42f'
 p1802
 sg13
-S'FIFA.com Football Widgets - FIFA.com'
+S'Official 2014 FIFA World Cup app available to download for ...'
 p1803
-sbsS'http://store.fifa.com/'
+sbsS'http://www.fifa.com/widgets/index.html'
 p1804
 (imain
 Document
 p1805
 (dp1806
 g6
-S'store.fifa.com'
+S'www.fifa.com/widgets/index.html'
 p1807
 sg8
 g1804
 sg9
-S"Shop USA FIFA Women's World Cup Canada 2015 Official Licensed Product! USA FIFA Women's World Cup Canada 2015 #20 Player Men's T-Shirt"
+S'Get football latest for free over FIFA.com Widgets! The FIFA.com Football Widgets offers you a wide choice of football apps including lastest news, photos and scores!'
 p1808
 sg11
-S'1b0b7fe6-2e51-438e-8b90-637feafcce70'
+S'2f3b8381-87d5-4fa8-b1d0-7515ce1e005c'
 p1809
 sg13
-S'The Official FIFA Online Store'
+S'FIFA.com Football Widgets - FIFA.com'
 p1810
-sbsS'http://www.fifa.com/mobile/index.html'
+sbsS'http://store.fifa.com/'
 p1811
 (imain
 Document
 p1812
 (dp1813
 g6
-S'www.fifa.com/mobile'
+S'store.fifa.com'
 p1814
 sg8
 g1811
 sg9
-VDownload the official FIFA app. The FIFA App. Take FIFA and the best of world football with you everywhere! Live-Score updates for 102 of the world \u2019s top leagues ...
+S"Shop USA FIFA Women's World Cup Canada 2015 Official Licensed Product! USA FIFA Women's World Cup Canada 2015 #20 Player Men's T-Shirt"
 p1815
 sg11
-S'5f0edc9c-162f-4ee8-9bef-183a2d4da1e8'
+S'1b0b7fe6-2e51-438e-8b90-637feafcce70'
 p1816
 sg13
-S'Mobile Apps - FIFA.com'
+S'The Official FIFA Online Store'
 p1817
-sbstp1818
-sS'insulin'
-p1819
-(I3
-(dp1820
-S'http://de.fifa.com/development/news/y=2007/m=5/news=glossar-und-abkurzungen-528561.html'
-p1821
+sbsS'http://www.fifa.com/mobile/index.html'
+p1818
 (imain
 Document
-p1822
-(dp1823
+p1819
+(dp1820
 g6
-S'de.fifa.com/development/news/y=2007/m=5/news=glossar-und...'
-p1824
+S'www.fifa.com/mobile'
+p1821
 sg8
-g1821
+g1818
 sg9
-VInsulin-like growth factor: Insulinähnlicher Wachstumsfaktor, der nach Stimulation durch Wachstumshormon vor allem von der Leber ins Blut abgegeben wird.
-p1825
+VDownload the official FIFA app. The FIFA App. Take FIFA and the best of world football with you everywhere! Live-Score updates for 102 of the world \u2019s top leagues ...
+p1822
 sg11
-S'8a4f46c1-45fd-4e9e-9f2c-bf81a54ae2ff'
-p1826
+S'5f0edc9c-162f-4ee8-9bef-183a2d4da1e8'
+p1823
 sg13
-VGlossar und Abkürzungen - FIFA.com
-p1827
-sbsS'http://www.fifa.com/development/news/y=2007/m=5/news=glossary-and-abbreviations-514058.html'
+S'Mobile Apps - FIFA.com'
+p1824
+sbstp1825
+sS'insulin'
+p1826
+(I3
+(dp1827
+S'http://de.fifa.com/development/news/y=2007/m=5/news=glossar-und-abkurzungen-528561.html'
 p1828
 (imain
 Document
 p1829
 (dp1830
 g6
-S'www.fifa.com/development/news/y=2007/m=5/news=glossary-and...'
+S'de.fifa.com/development/news/y=2007/m=5/news=glossar-und...'
 p1831
 sg8
 g1828
 sg9
-S'Insulin-like growth factor: mainly secreted by the liver as a result of stimulation by growth hormone. Almost every cell in the human body is affected by IGF-1, ...'
+VInsulin-like growth factor: Insulinähnlicher Wachstumsfaktor, der nach Stimulation durch Wachstumshormon vor allem von der Leber ins Blut abgegeben wird.
 p1832
 sg11
-S'799349c9-870b-44c8-b71f-302ecf8eb9ef'
+S'8a4f46c1-45fd-4e9e-9f2c-bf81a54ae2ff'
 p1833
 sg13
-S'Glossary and abbreviations - FIFA.com'
+VGlossar und Abkürzungen - FIFA.com
 p1834
-sbsS'http://www.fifa.com/mm/document/afdeveloping/medical/1.%5ffootball%5ffor%5fhealth%5fenglish%5f1613.pdf'
+sbsS'http://www.fifa.com/development/news/y=2007/m=5/news=glossary-and-abbreviations-514058.html'
 p1835
 (imain
 Document
 p1836
 (dp1837
 g6
-S'www.fifa.com/mm/document/afdeveloping/medical/1._football_for...'
+S'www.fifa.com/development/news/y=2007/m=5/news=glossary-and...'
 p1838
 sg8
 g1835
 sg9
-VFOOTBALL FOR HEALTH Football is the best healthcare ... e\ufb00 ect on blood lipid and insulin levels, clot formation, in\ufb02 ammation and the nervous system ...
+S'Insulin-like growth factor: mainly secreted by the liver as a result of stimulation by growth hormone. Almost every cell in the human body is affected by IGF-1, ...'
 p1839
 sg11
-S'17a031b5-917b-412f-8980-1fbdcedb49a0'
+S'799349c9-870b-44c8-b71f-302ecf8eb9ef'
 p1840
 sg13
-S'FOOTBALL FOR HEALTH'
+S'Glossary and abbreviations - FIFA.com'
 p1841
-sbstp1842
-sS'shareware'
-p1843
-(I0
-(dp1844
-tp1845
-sS'cancer'
-p1846
-(I2780
-(dp1847
-S'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=england-premier-league-2000000000/news/newsid/167/455/4/index.html'
-p1848
+sbsS'http://www.fifa.com/mm/document/afdeveloping/medical/1.%5ffootball%5ffor%5fhealth%5fenglish%5f1613.pdf'
+p1842
 (imain
 Document
-p1849
-(dp1850
+p1843
+(dp1844
 g6
-S'www.fifa.com/world-match-centre/nationalleagues/nationalleague=...'
-p1851
+S'www.fifa.com/mm/document/afdeveloping/medical/1._football_for...'
+p1845
 sg8
-g1848
+g1842
 sg9
-S'Aston Villa skipper Stilian Petrov is in remission and winning his fight to overcome acute leukaemia, the English Premier League club announced on Thursday.'
-p1852
+VFOOTBALL FOR HEALTH Football is the best healthcare ... e\ufb00 ect on blood lipid and insulin levels, clot formation, in\ufb02 ammation and the nervous system ...
+p1846
 sg11
-S'0cdc0595-d5e4-404d-a965-44524b3973bb'
-p1853
+S'17a031b5-917b-412f-8980-1fbdcedb49a0'
+p1847
 sg13
-S'Petrov winning cancer battle - FIFA.com'
-p1854
-sbsS'http://www.fifa.com/world-match-centre/news/newsid/100/385/9/index.html'
+S'FOOTBALL FOR HEALTH'
+p1848
+sbstp1849
+sS'shareware'
+p1850
+(I0
+(dp1851
+tp1852
+sS'cancer'
+p1853
+(I2780
+(dp1854
+S'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=england-premier-league-2000000000/news/newsid/167/455/4/index.html'
 p1855
 (imain
 Document
 p1856
 (dp1857
 g6
-S'www.fifa.com/world-match-centre/news/newsid/100/385/9/index.html'
+S'www.fifa.com/world-match-centre/nationalleagues/nationalleague=...'
 p1858
 sg8
 g1855
 sg9
-S'Former Chilean international footballer Fernando Cornejo, who played at France 98, died from stomach cancer on Saturday at the age of 39.'
+S'Aston Villa skipper Stilian Petrov is in remission and winning his fight to overcome acute leukaemia, the English Premier League club announced on Thursday.'
 p1859
 sg11
-S'46114d34-9808-4f2e-a4b2-9c8af33ba9dd'
+S'0cdc0595-d5e4-404d-a965-44524b3973bb'
 p1860
 sg13
-S'Cornejo dies from cancer - FIFA.com'
+S'Petrov winning cancer battle - FIFA.com'
 p1861
-sbsS'http://www.fifa.com/world-match-centre/news/newsid/108/083/2/index.html'
+sbsS'http://www.fifa.com/world-match-centre/news/newsid/100/385/9/index.html'
 p1862
 (imain
 Document
 p1863
 (dp1864
 g6
-S'www.fifa.com/world-match-centre/news/newsid/108/083/2/index.html'
+S'www.fifa.com/world-match-centre/news/newsid/100/385/9/index.html'
 p1865
 sg8
 g1862
 sg9
-S'Messages of support have poured in after former Wales and Celtic striker John Hartson, 34, has been diagnosed with testicular and brain cancer.'
+S'Former Chilean international footballer Fernando Cornejo, who played at France 98, died from stomach cancer on Saturday at the age of 39.'
 p1866
 sg11
-S'8c830491-4507-419f-ac61-eddeeb2e6e37'
+S'46114d34-9808-4f2e-a4b2-9c8af33ba9dd'
 p1867
 sg13
-S'Hartson battles cancer - FIFA.com'
+S'Cornejo dies from cancer - FIFA.com'
 p1868
-sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=england-premier-league-2000000000/news/newsid/232/091/8/index.html'
+sbsS'http://www.fifa.com/world-match-centre/news/newsid/108/083/2/index.html'
 p1869
 (imain
 Document
 p1870
 (dp1871
 g6
-S'www.fifa.com/world-match-centre/nationalleagues/nationalleague=...'
+S'www.fifa.com/world-match-centre/news/newsid/108/083/2/index.html'
 p1872
 sg8
 g1869
 sg9
-S"West Ham United's Dylan Tombides died on Friday following a three-year battle with testicular cancer. The 20-year-old striker, who made his Hammers first-team debut ..."
+S'Messages of support have poured in after former Wales and Celtic striker John Hartson, 34, has been diagnosed with testicular and brain cancer.'
 p1873
 sg11
-S'a600b270-e394-44b8-9371-37bf3e86cbfe'
+S'8c830491-4507-419f-ac61-eddeeb2e6e37'
 p1874
 sg13
-S"West Ham's Tombides loses cancer battle - FIFA.com"
+S'Hartson battles cancer - FIFA.com'
 p1875
-sbstp1876
-sS'board+fsb'
-p1877
-(I22
-(dp1878
-S'http://quality.fifa.com/en/News/IFAB-agrees-on-higher-standards-for-goal-line-technology/'
-p1879
+sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=england-premier-league-2000000000/news/newsid/232/091/8/index.html'
+p1876
 (imain
 Document
-p1880
-(dp1881
+p1877
+(dp1878
 g6
-S'quality.fifa.com/en/News/IFAB-agrees-on-higher-standards-for-goal...'
-p1882
+S'www.fifa.com/world-match-centre/nationalleagues/nationalleague=...'
+p1879
 sg8
-g1879
+g1876
 sg9
-S'The International Football Association Board (IFAB) convened for its Annual Business Meeting (ABM) at the Home of FIFA in Zurich, Switzerland on Thursday 24 October 2013.'
-p1883
+S"West Ham United's Dylan Tombides died on Friday following a three-year battle with testicular cancer. The 20-year-old striker, who made his Hammers first-team debut ..."
+p1880
 sg11
-S'a7322a8a-915c-40fc-a83a-1230f742eafb'
-p1884
+S'a600b270-e394-44b8-9371-37bf3e86cbfe'
+p1881
 sg13
-S'IFAB agrees on higher standards for goal-line technology ...'
-p1885
-sbsS'http://quality.fifa.com/en/News/'
+S"West Ham's Tombides loses cancer battle - FIFA.com"
+p1882
+sbstp1883
+sS'board+fsb'
+p1884
+(I22
+(dp1885
+S'http://quality.fifa.com/en/News/IFAB-agrees-on-higher-standards-for-goal-line-technology/'
 p1886
 (imain
 Document
 p1887
 (dp1888
 g6
-S'quality.fifa.com/en/News'
+S'quality.fifa.com/en/News/IFAB-agrees-on-higher-standards-for-goal...'
 p1889
 sg8
 g1886
 sg9
-S'FIFA, together with The International Football Association Board (IFAB), is inviting producers of electronic performance and tracking systems ... FSB Cologne, Germany;'
+S'The International Football Association Board (IFAB) convened for its Annual Business Meeting (ABM) at the Home of FIFA in Zurich, Switzerland on Thursday 24 October 2013.'
 p1890
 sg11
-S'581ec8a6-c551-44b3-8433-60e24f9b186a'
+S'a7322a8a-915c-40fc-a83a-1230f742eafb'
 p1891
 sg13
-S'News - FIFA Quality Programme'
+S'IFAB agrees on higher standards for goal-line technology ...'
 p1892
-sbsS'http://quality.fifa.com/en/About-the-programme/Network/'
+sbsS'http://quality.fifa.com/en/News/'
 p1893
 (imain
 Document
 p1894
 (dp1895
 g6
-S'quality.fifa.com/en/About-the-programme/Network'
+S'quality.fifa.com/en/News'
 p1896
 sg8
 g1893
 sg9
-S'Network. Studies are ... THE INTERNATIONAL RUGBY BOARD, Ireland; The National Collegiate Athletic Association, USA; WFSGI ... FSB Cologne, Germany; List of events. News.'
+S'FIFA, together with The International Football Association Board (IFAB), is inviting producers of electronic performance and tracking systems ... FSB Cologne, Germany;'
 p1897
 sg11
-S'b33d66fa-5265-4f55-bea8-f3c2f417d259'
+S'581ec8a6-c551-44b3-8433-60e24f9b186a'
 p1898
 sg13
-S'Network - FIFA Quality Programme'
+S'News - FIFA Quality Programme'
 p1899
-sbsS'http://www.fifa.com/about-fifa/news/y=2013/m=5/news=confirmed-participation-fifa-quality-programme-fsb-2013-2068652.html'
+sbsS'http://quality.fifa.com/en/About-the-programme/Network/'
 p1900
 (imain
 Document
 p1901
 (dp1902
 g6
-S'www.fifa.com/about-fifa/news/y=2013/...programme-fsb-2013-2068652.html'
+S'quality.fifa.com/en/About-the-programme/Network'
 p1903
 sg8
 g1900
 sg9
-S'The International Trade Fair for Amenity Areas, Sports and Pool Facilities (FSB) in Cologne, Germany is one of the most important trade fairs for the football turf ...'
+S'Network. Studies are ... THE INTERNATIONAL RUGBY BOARD, Ireland; The National Collegiate Athletic Association, USA; WFSGI ... FSB Cologne, Germany; List of events. News.'
 p1904
 sg11
-S'f43e92d9-a75b-4286-9906-aafc93404e06'
+S'b33d66fa-5265-4f55-bea8-f3c2f417d259'
 p1905
 sg13
-S'Confirmed participation of FIFA Quality Programme at FSB ...'
+S'Network - FIFA Quality Programme'
 p1906
-sbstp1907
-sS'vb'
-p1908
-(I92
-(dp1909
-S'http://www.fifa.com/index.html'
-p1910
+sbsS'http://www.fifa.com/about-fifa/news/y=2013/m=5/news=confirmed-participation-fifa-quality-programme-fsb-2013-2068652.html'
+p1907
 (imain
 Document
-p1911
-(dp1912
+p1908
+(dp1909
 g6
-S'www.fifa.com/index.html'
-p1913
+S'www.fifa.com/about-fifa/news/y=2013/...programme-fsb-2013-2068652.html'
+p1910
 sg8
-g1910
+g1907
 sg9
-S'The FIFA Emergency Committee has decided, in consultation with the AFC, to extend the mandate of the normalisation committee of the Football Association of Maldives ...'
-p1914
+S'The International Trade Fair for Amenity Areas, Sports and Pool Facilities (FSB) in Cologne, Germany is one of the most important trade fairs for the football turf ...'
+p1911
 sg11
-S'87378ebc-cbbe-4117-bea3-9174787c0648'
-p1915
+S'f43e92d9-a75b-4286-9906-aafc93404e06'
+p1912
 sg13
-VFédération Internationale de Football Association (FIFA ...
-p1916
-sbsS'http://www.fifa.com/worldcup/index.html'
+S'Confirmed participation of FIFA Quality Programme at FSB ...'
+p1913
+sbstp1914
+sS'ball+league'
+p1915
+(I326000
+(dp1916
+S'http://search.store.fifa.com/soccer/Adidas-Balls'
 p1917
 (imain
 Document
 p1918
 (dp1919
 g6
-S'www.fifa.com/worldcup/index.html'
+S'search.store.fifa.com/soccer/Adidas-Balls'
 p1920
 sg8
 g1917
 sg9
-VThe draw for the 2018 FIFA World Cup\u2122 Preliminary Competition for the African Zone took place on 25 July in Saint Petersburg, Russia.
+V\u2026Brazuca Top Glider Ball from adidas. Vibrant colors on the ball reflect those of the Brazilian flag as well as the official logo of the FIFA World Cup.
 p1921
 sg11
-S'a44e7dbd-2944-4bd2-b462-4577f0dad73e'
+S'0c4c22e8-9a6d-4404-9cc1-d683dc2300b8'
 p1922
 sg13
-V2018 FIFA World Cup Russia\u2122 - FIFA.com
+S'Adidas Balls on FIFA Store'
 p1923
-sbsS'http://www.fifa.com/worldcup/matches/round=249722/match=300061460/report.html'
+sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=mexico-1a-division-2000000104/photos/272/949/7/picture.html'
 p1924
 (imain
 Document
 p1925
 (dp1926
 g6
-S'www.fifa.com/worldcup/matches/round=249722/match=300061460/report.html'
+S'www.fifa.com/world-match-centre/nationalleagues/nationalleague=...'
 p1927
 sg8
 g1924
 sg9
-V2010 FIFA World Cup South Africa\u2122 - Matches. 2010 FIFA World Cup South Africa\u2122 - Matches. Toggle navigation. About FIFA; Development; Governance; Sustainability
+S'Antonio Rios (R) of Toluca vies for the ball with Darwin Quintero of America during their Mexican Apertura tournament football match at the Nemesio Diez stadium in ...'
 p1928
 sg11
-S'f2e3e6a3-728b-4ffa-896f-c8615c87835a'
+S'89f62e2f-1209-40af-9092-066b6a70c5c2'
 p1929
 sg13
-V2010 FIFA World Cup South Africa\u2122 - Matches - FIFA.com
+S'Antonio Rios (R) of Toluca vies for the ball with Darwin ...'
 p1930
-sbsS'http://www.fifa.com/u20worldcup/index.html'
+sbsS'http://search.store.fifa.com/soccer/Official-Match-Balls'
 p1931
 (imain
 Document
 p1932
 (dp1933
 g6
-S'www.fifa.com/u20worldcup'
+S'search.store.fifa.com/soccer/Official-Match-Balls'
 p1934
 sg8
 g1931
 sg9
-S'The Committee for the FIFA U-20 World Cup New Zealand 2015 shall advise and assist the FIFA Executive Committee on all matters relating to the organisation of the ...'
+V\u2026a ball worthy of the women's world championship. This is that ball for 2015. This is the adidas Conext15, the official ball for the 2015 FIFA Women's World Cup ...
 p1935
 sg11
-S'4649c7b9-2eb7-40a2-a722-23e37307228b'
+S'a5de57db-6985-4327-9afe-5be331b23aa6'
 p1936
 sg13
-S'FIFA U-20 World Cup New Zealand 2015 - FIFA.com'
+S'Official Match Balls on FIFA Store'
 p1937
-sbstp1938
-sS'walkers'
-p1939
-(I11
-(dp1940
-S'http://www.fifa.com/fifa-tournaments/players-coaches/people=356750/index.html'
-p1941
+sbsS'http://search.store.fifa.com/soccer/Official-Ball'
+p1938
 (imain
 Document
-p1942
-(dp1943
+p1939
+(dp1940
 g6
-S'www.fifa.com/fifa-tournaments/players-coaches/people=356750/index.html'
-p1944
+S'search.store.fifa.com/soccer/Official-Ball'
+p1941
 sg8
-g1941
+g1938
 sg9
-S'FIFA Tournaments - Players & Coaches - Kyle WALKER, Kyle WALKER,Kyle Andrew WALKER'
-p1945
+S'The official 2014 Brazuca Top Glider Ball from adidas. Vibrant colors on the ball reflect those of the Brazilian flag as well as the official logo of the FIFA World Cup.'
+p1942
 sg11
-S'b28bbb11-4ffe-42d2-b14d-be6787865d0c'
-p1946
+S'484d4b73-fdce-46a2-be9e-45862eee0b8c'
+p1943
 sg13
-S'FIFA Tournaments - Players & Coaches - Kyle WALKER'
-p1947
-sbsS'http://www.fifa.com/worldcup/news/y=2014/m=5/news=-2337837-2337932.html'
+S'Official Ball on FIFA Store'
+p1944
+sbstp1945
+sS'walkers'
+p1946
+(I11
+(dp1947
+S'http://www.fifa.com/fifa-tournaments/players-coaches/people=356750/index.html'
 p1948
 (imain
 Document
 p1949
 (dp1950
 g6
-S'www.fifa.com/worldcup/news/y=2014/m=5/news=-2337837-2337932.html'
+S'www.fifa.com/fifa-tournaments/players-coaches/people=356750/index.html'
 p1951
 sg8
 g1948
 sg9
-S'The Opening Ceremony is a tribute to Brazil and its treasures: nature, ... capoeira performers and stilt walkers, volunteered to perform at the Opening Ceremony.'
+S'FIFA Tournaments - Players & Coaches - Kyle WALKER, Kyle WALKER,Kyle Andrew WALKER'
 p1952
 sg11
-S'958ee4fd-5339-40d8-bfbe-c3ba263760dc'
+S'b28bbb11-4ffe-42d2-b14d-be6787865d0c'
 p1953
 sg13
-S'Thirty days and counting to the Opening Ceremony - FIFA.com'
+S'FIFA Tournaments - Players & Coaches - Kyle WALKER'
 p1954
-sbsS'http://www.fifa.com/womensworldcup/destination/cities/city=3634/index.html'
+sbsS'http://www.fifa.com/worldcup/news/y=2014/m=5/news=-2337837-2337932.html'
 p1955
 (imain
 Document
 p1956
 (dp1957
 g6
-S'www.fifa.com/womensworldcup/destination/cities/city=3634/index.html'
+S'www.fifa.com/worldcup/news/y=2014/m=5/news=-2337837-2337932.html'
 p1958
 sg8
 g1955
 sg9
-VVancouver is one of the Host Cities for FIFA Women's World Cup Canada 2015\u2122
+S'The Opening Ceremony is a tribute to Brazil and its treasures: nature, ... capoeira performers and stilt walkers, volunteered to perform at the Opening Ceremony.'
 p1959
 sg11
-S'c4ead45e-b240-4c54-b8d0-04498630675f'
+S'958ee4fd-5339-40d8-bfbe-c3ba263760dc'
 p1960
 sg13
-VFIFA Women's World Cup Canada 2015\u2122
+S'Thirty days and counting to the Opening Ceremony - FIFA.com'
 p1961
-sbsS'http://www.fifa.com/worldcup/news/y=2006/m=4/news=good-things-come-small-packages-26629.html'
+sbsS'http://www.fifa.com/womensworldcup/destination/cities/city=3634/index.html'
 p1962
 (imain
 Document
 p1963
 (dp1964
 g6
-S'www.fifa.com/worldcup/news/y=2006/m=4/news=good-things-come-small...'
+S'www.fifa.com/womensworldcup/destination/cities/city=3634/index.html'
 p1965
 sg8
 g1962
 sg9
-S'Proving that the best things really do come in small packages, compact Kaiserslautern is set to serve up a month-long festival of fun and football that will delight ...'
+VVancouver is one of the Host Cities for FIFA Women's World Cup Canada 2015\u2122
 p1966
 sg11
-S'6f63671a-63ee-48fe-8c53-9d56f5b9b429'
+S'c4ead45e-b240-4c54-b8d0-04498630675f'
 p1967
 sg13
-S'Good things come in small packages - FIFA.com'
+VFIFA Women's World Cup Canada 2015\u2122
 p1968
-sbstp1969
-sS'boolean'
-p1970
-(I2
-(dp1971
-S'http://ar.fifa.com/governance/agents/association=nga/players-agents/index.html'
-p1972
+sbsS'http://www.fifa.com/worldcup/news/y=2006/m=4/news=good-things-come-small-packages-26629.html'
+p1969
 (imain
 Document
-p1973
-(dp1974
+p1970
+(dp1971
 g6
-S'ar.fifa.com/governance/agents/association=nga/players-agents/index...'
-p1975
+S'www.fifa.com/worldcup/news/y=2006/m=4/news=good-things-come-small...'
+p1972
 sg8
-g1972
+g1969
 sg9
-VBoolean Consult Limited: 5, Fakoya Street, Ikosi-Ketu, LAGOS: \u0627\u0644\u0628\u0631\u064a\u062f ...
-p1976
+S'Proving that the best things really do come in small packages, compact Kaiserslautern is set to serve up a month-long festival of fun and football that will delight ...'
+p1973
 sg11
-S'e3235adf-fccb-4404-b50e-6600f4ad33ed'
-p1977
+S'6f63671a-63ee-48fe-8c53-9d56f5b9b429'
+p1974
 sg13
-V\u0648\u0643\u0644\u0627\u0621 \u0627\u0644\u0644\u0627\u0639\u0628\u064a\u0646 - \u0646\u064a\u062c\u064a\u0631\u064a\u0627 - FIFA.com
-p1978
-sbsS'http://de.fifa.com/governance/agents/association=nga/players-agents/index.html'
+S'Good things come in small packages - FIFA.com'
+p1975
+sbstp1976
+sS'api'
+p1977
+(I44
+(dp1978
+S'http://www.fifa.com/worldcup/preliminaries/africa/index.html'
 p1979
 (imain
 Document
 p1980
 (dp1981
 g6
-S'de.fifa.com/governance/agents/association=nga/players-agents/index...'
+S'www.fifa.com/worldcup/preliminaries/africa/index.html'
 p1982
 sg8
 g1979
 sg9
-S'Boolean Consult Limited: 5, Fakoya Street, Ikosi-Ketu, LAGOS: E-Mail adebola.ogunpitan@yahoo.com; Telefon +234-805/818 77 13; Fax; Handy; OKWUDILI Umeh Johnson:'
+VThe draw for the 2018 FIFA World Cup\u2122 Preliminary Competition for the African Zone took place on 25 July in Saint Petersburg, Russia.
 p1983
 sg11
-S'446c819d-2eac-45ed-b872-cbf48d4b8d47'
+S'4041467a-3958-4fd6-b273-2c241a16e0ad'
 p1984
 sg13
-S'Spieleragenten - Nigeria - FIFA.com'
+V2018 FIFA World Cup Russia\u2122 - Qualifiers - Africa - FIFA.com
 p1985
-sbstp1986
-sS'applet+code'
-p1987
-(I1
-(dp1988
-S'http://www.fifa.com/index.html'
-p1989
+sbsS'http://www.fifa.com/rss-feeds/index.html'
+p1986
 (imain
 Document
+p1987
+(dp1988
+g6
+S'www.fifa.com/rss-feeds/index.html'
+p1989
+sg8
+g1986
+sg9
+S'With FIFA.com RSS Feeds you can get the latest football news, photos and videos in one place, as soon as they are published.'
 p1990
-(dp1991
+sg11
+S'1b25b4a2-f8ba-4a0d-b3af-5db2e3830a27'
+p1991
+sg13
+S'RSS Feeds - FIFA.com'
+p1992
+sbsS'http://www.fifa.com/development/index.html'
+p1993
+(imain
+Document
+p1994
+(dp1995
+g6
+S'www.fifa.com/development'
+p1996
+sg8
+g1993
+sg9
+S"Learn more about what FIFA is doing to develop the game, most notably in women's football, futsal and beach soccer"
+p1997
+sg11
+S'834b0cca-e5fa-4c92-8a94-92b21e39f321'
+p1998
+sg13
+S'FIFA Developing - FIFA.com'
+p1999
+sbsS'http://ump.webapi.fifa.com/'
+p2000
+(imain
+Document
+p2001
+(dp2002
+g6
+S'ump.webapi.fifa.com'
+p2003
+sg8
+g2000
+sg9
+S'Im Fine WEB1! Im Fine WEB1!'
+p2004
+sg11
+S'b7930f3c-14d7-4aaf-89e2-94bfd713d7ca'
+p2005
+sg13
+S'ump.webapi.fifa.com'
+p2006
+sbstp2007
+sS'applet+code'
+p2008
+(I1
+(dp2009
+S'http://www.fifa.com/index.html'
+p2010
+(imain
+Document
+p2011
+(dp2012
 g6
 S'www.fifa.com/index.html'
-p1992
+p2013
 sg8
-g1989
+g2010
 sg9
 VFIFA\u2019s mission is develop football everywhere and for all, ... Code of Ethics; International Match Calendar 2014-2018; International Match Calendar 2018-2024;
-p1993
+p2014
 sg11
 S'67c7e5cd-1f51-436c-b6f8-5739d948b8fa'
-p1994
+p2015
 sg13
 VFédération Internationale de Football Association (FIFA ...
-p1995
-sbstp1996
-sS'kobe'
-p1997
-(I2310
-(dp1998
-S'http://de.fifa.com/womens-football/news/y=2015/m=11/news=melbourne-und-munchen-setzen-sich-ab-2729767.html'
-p1999
-(imain
-Document
-p2000
-(dp2001
-g6
-S'de.fifa.com/womens-football/news/y=2015/m=11/news=melbourne-und...'
-p2002
-sg8
-g1999
-sg9
-VTitelverteidiger INAC Kobe Leonessa liegt unterdessen überraschend noch sieglos auf dem sechsten und letzten Platz, hat jedoch an diesem Dienstagabend die Chance, ...
-p2003
-sg11
-S'0246e977-6933-48ec-b8e5-24e891c1e052'
-p2004
-sg13
-VMelbourne und München setzen sich ab - FIFA.com
-p2005
-sbsS'http://www.fifa.com/womens-football/photos/galleries/y=2013/m=12/gallery=inac-kobe-leonessa-chelsea-international-women-club-challenge-2242248.html'
-p2006
-(imain
-Document
-p2007
-(dp2008
-g6
-S'www.fifa.com/womens-football/.../gallery=inac-kobe-leonessa-chelsea...'
-p2009
-sg8
-g2006
-sg9
-S"INAC Kobe Leonessa 4-2 Chelsea (International Women's Club Challenge)"
-p2010
-sg11
-S'5fb92e2a-ce9a-4e85-bc22-51676772d010'
-p2011
-sg13
-S'INAC Kobe Leonessa 4-2 Chelsea (International ... - FIFA.com'
-p2012
-sbsS'http://www.fifa.com/worldcup/news/y=2014/m=6/news=kobe-bryant-football-is-my-favourite-sport-2374985.html'
-p2013
-(imain
-Document
-p2014
-(dp2015
-g6
-S'www.fifa.com/worldcup/news/y=2014/m=6/news=kobe-bryant-football-is...'
 p2016
-sg8
-g2013
-sg9
-S'One of the greats of the basketball world, when away from the court and out of his LA Lakers jersey Kobe Bryant is a familiar face in the stands of football stadia ...'
-p2017
-sg11
-S'b6928fb1-d3e7-4c55-9882-6033d1965f23'
+sbstp2017
+sS'kobe'
 p2018
-sg13
-S'Kobe Bryant: Football is my favourite sport - FIFA.com'
-p2019
-sbsS'http://www.fifa.com/world-match-centre/clubs/club=japan-vissel-kobe-2147482127/matches/index.html'
+(I2310
+(dp2019
+S'http://de.fifa.com/womens-football/news/y=2015/m=11/news=melbourne-und-munchen-setzen-sich-ab-2729767.html'
 p2020
 (imain
 Document
 p2021
 (dp2022
 g6
-S'www.fifa.com/world-match-centre/clubs/club=japan-vissel-kobe...'
+S'de.fifa.com/womens-football/news/y=2015/m=11/news=melbourne-und...'
 p2023
 sg8
 g2020
 sg9
-S'Check out the Vissel Kobe fixtures and results'
+VTitelverteidiger INAC Kobe Leonessa liegt unterdessen überraschend noch sieglos auf dem sechsten und letzten Platz, hat jedoch an diesem Dienstagabend die Chance, ...
 p2024
 sg11
-S'44dc4f56-2eeb-4456-a669-62d6642a1de1'
+S'0246e977-6933-48ec-b8e5-24e891c1e052'
 p2025
 sg13
-S'Vissel Kobe: Matches - World Match Centre - FIFA.com'
+VMelbourne und München setzen sich ab - FIFA.com
 p2026
-sbstp2027
-sS'array'
+sbsS'http://www.fifa.com/womens-football/photos/galleries/y=2013/m=12/gallery=inac-kobe-leonessa-chelsea-international-women-club-challenge-2242248.html'
+p2027
+(imain
+Document
 p2028
-(I4270
 (dp2029
-S'http://www.fifa.com/theclub/news/newsid=2423597/index.html'
+g6
+S'www.fifa.com/womens-football/.../gallery=inac-kobe-leonessa-chelsea...'
 p2030
-(imain
-Document
+sg8
+g2027
+sg9
+S"INAC Kobe Leonessa 4-2 Chelsea (International Women's Club Challenge)"
 p2031
-(dp2032
-g6
-S'www.fifa.com/theclub/news/newsid=2423597/index.html'
+sg11
+S'5fb92e2a-ce9a-4e85-bc22-51676772d010'
+p2032
+sg13
+S'INAC Kobe Leonessa 4-2 Chelsea (International ... - FIFA.com'
 p2033
-sg8
-g2030
-sg9
-S'FIFA.com Club: Your place to connect with football fans around the world! Personalise FIFA.com, play games and meet fellow football fans'
+sbsS'http://www.fifa.com/worldcup/news/y=2014/m=6/news=kobe-bryant-football-is-my-favourite-sport-2374985.html'
 p2034
-sg11
-S'9a490bb2-c466-46fd-acac-1019b0cbf891'
+(imain
+Document
 p2035
-sg13
-S'The Club - FIFA.com'
-p2036
-sbsS'http://m.fifa.com/worldcup/news/y=2014/m=9/news=european-coaches-to-recap-brazil-2014-s-technical-legacy-in-russia-2439876.html'
+(dp2036
+g6
+S'www.fifa.com/worldcup/news/y=2014/m=6/news=kobe-bryant-football-is...'
 p2037
-(imain
-Document
+sg8
+g2034
+sg9
+S'One of the greats of the basketball world, when away from the court and out of his LA Lakers jersey Kobe Bryant is a familiar face in the stands of football stadia ...'
 p2038
-(dp2039
-g6
-S'm.fifa.com/worldcup/news/y=2014/m=9/news=european-coaches-to-recap...'
-p2040
-sg8
-g2037
-sg9
-S'After a successful first conference in Panama last week, FIFA and UEFA will conduct a technical conference in Saint Petersburg for European Member Associations to ...'
-p2041
 sg11
-S'f73ff3be-048f-48f2-96cd-02f88abefdfa'
-p2042
+S'b6928fb1-d3e7-4c55-9882-6033d1965f23'
+p2039
 sg13
-S"European coaches to recap Brazil 2014's technical legacy ..."
-p2043
-sbsS'http://www.fifa.com/u20worldcup/news/y=2015/m=6/news=over-71-000-turn-out-on-record-breaking-opening-weekend-at-new-zealand-2617268.html'
-p2044
+S'Kobe Bryant: Football is my favourite sport - FIFA.com'
+p2040
+sbsS'http://www.fifa.com/world-match-centre/clubs/club=japan-vissel-kobe-2147482127/matches/index.html'
+p2041
 (imain
 Document
-p2045
-(dp2046
+p2042
+(dp2043
 g6
-S'www.fifa.com/u20worldcup/news/y=2015/m=6/news=over-71-000-turn-out...'
-p2047
+S'www.fifa.com/world-match-centre/clubs/club=japan-vissel-kobe...'
+p2044
 sg8
-g2044
+g2041
 sg9
-S'... 71,000 fans pouring into the seven stadiums across the country to witness a record number of goals and a sensational array of footballing talent. ...'
-p2048
+S'Check out the Vissel Kobe fixtures and results'
+p2045
 sg11
-S'd5dafed3-8717-480f-8599-fc8f1db02525'
-p2049
+S'44dc4f56-2eeb-4456-a669-62d6642a1de1'
+p2046
 sg13
-S'Over 71,000 turn out on record-breaking opening weekend at ...'
-p2050
-sbsS'http://www.fifa.com/u17worldcup/news/y=2015/m=10/news=diaz-chile-have-no-doubts-about-our-style-2719394.html'
+S'Vissel Kobe: Matches - World Match Centre - FIFA.com'
+p2047
+sbstp2048
+sS'array'
+p2049
+(I4270
+(dp2050
+S'http://www.fifa.com/theclub/news/newsid=2423597/index.html'
 p2051
 (imain
 Document
 p2052
 (dp2053
 g6
-S'www.fifa.com/u17worldcup/news/y=2015/m=10/news=diaz-chile-have-no...'
+S'www.fifa.com/theclub/news/newsid=2423597/index.html'
 p2054
 sg8
 g2051
 sg9
-V... he stands at just 5'4 \u2013 he constantly made his presence felt and produced an array of tricks, including a 'no-look' assist for Yerko Leiva's equaliser.
+S'FIFA.com Club: Your place to connect with football fans around the world! Personalise FIFA.com, play games and meet fellow football fans'
 p2055
 sg11
-S'526686a3-5a36-465a-8462-9c9e8c4cca4c'
+S'9a490bb2-c466-46fd-acac-1019b0cbf891'
 p2056
 sg13
-S'Diaz: Chile have no doubts about our style - FIFA.com'
+S'The Club - FIFA.com'
 p2057
-sbstp2058
-sS'bytes+code'
+sbsS'http://m.fifa.com/worldcup/news/y=2014/m=9/news=european-coaches-to-recap-brazil-2014-s-technical-legacy-in-russia-2439876.html'
+p2058
+(imain
+Document
 p2059
-(I0
 (dp2060
-tp2061
-sS'acid+diets'
+g6
+S'm.fifa.com/worldcup/news/y=2014/m=9/news=european-coaches-to-recap...'
+p2061
+sg8
+g2058
+sg9
+S'After a successful first conference in Panama last week, FIFA and UEFA will conduct a technical conference in Saint Petersburg for European Member Associations to ...'
 p2062
-(I8
-(dp2063
-S'http://www.fifa.com/mm/document/afdeveloping/medical/4.4.2.%20protein%20p%2014-15%5f1490.pdf'
+sg11
+S'f73ff3be-048f-48f2-96cd-02f88abefdfa'
+p2063
+sg13
+S"European coaches to recap Brazil 2014's technical legacy ..."
 p2064
-(imain
-Document
+sbsS'http://www.fifa.com/u20worldcup/news/y=2015/m=6/news=over-71-000-turn-out-on-record-breaking-opening-weekend-at-new-zealand-2617268.html'
 p2065
-(dp2066
+(imain
+Document
+p2066
+(dp2067
 g6
-S'www.fifa.com/mm/document/afdeveloping/medical/4.4.2.%20protein%20p...'
-p2067
-sg8
-g2064
-sg9
-S'powders or amino acid supplements. Everyday foods are likely to be just as effective. Protein needs for training and bulking up'
+S'www.fifa.com/u20worldcup/news/y=2015/m=6/news=over-71-000-turn-out...'
 p2068
-sg11
-S'efea69e8-8309-4fb1-8bf4-548dd787dafe'
+sg8
+g2065
+sg9
+S'... 71,000 fans pouring into the seven stadiums across the country to witness a record number of goals and a sensational array of footballing talent. ...'
 p2069
-sg13
-S'Protein needs for training and bulking up - FIFA'
+sg11
+S'd5dafed3-8717-480f-8599-fc8f1db02525'
 p2070
-sbsS'http://www.fifa.com/mm/document/afdeveloping/medical/nutrition_booklet_e_1830.pdf'
+sg13
+S'Over 71,000 turn out on record-breaking opening weekend at ...'
 p2071
-(imain
-Document
+sbsS'http://www.fifa.com/u17worldcup/news/y=2015/m=10/news=diaz-chile-have-no-doubts-about-our-style-2719394.html'
 p2072
-(dp2073
-g6
-S'www.fifa.com/mm/document/afdeveloping/medical/nutrition_booklet_e...'
-p2074
-sg8
-g2071
-sg9
-S'powders or amino acid supplements. Everyday foods are likely to be just as effective. Protein needs for training and bulking up Protein rich foods ...'
-p2075
-sg11
-S'9017863e-b85e-4f75-b3b9-e593b29230a8'
-p2076
-sg13
-S'FIFA COCA Nutrition E RZ'
-p2077
-sbsS'http://www.fifa.com/mm/document/footballdevelopment/medical/51/55/15/nutritionbooklet_neue2010.pdf'
-p2078
 (imain
 Document
-p2079
-(dp2080
+p2073
+(dp2074
 g6
-S'www.fifa.com/mm/document/footballdevelopment/medical/51/55/15/...'
-p2081
+S'www.fifa.com/u17worldcup/news/y=2015/m=10/news=diaz-chile-have-no...'
+p2075
 sg8
-g2078
+g2072
 sg9
-S'Free fatty acid (FFA) levels in ... 16 NUTRITION FOR FOOTBALL | carBohydratES iN thE diEt NUTRITION FOR FOOTBALL | carBohydratES iN thE diEt 17 Carbohydrates in the diet'
-p2082
+V... he stands at just 5'4 \u2013 he constantly made his presence felt and produced an array of tricks, including a 'no-look' assist for Yerko Leiva's equaliser.
+p2076
 sg11
-S'6b9bbcde-cc5e-4d64-b227-40fece78c6b9'
-p2083
+S'526686a3-5a36-465a-8462-9c9e8c4cca4c'
+p2077
 sg13
-S'FIFA Nutrition for Football booklet'
-p2084
-sbsS'http://www.fifa.com/mm/document/afdeveloping/medical/4.5%20supplements%20p%2022-24%5f1492.pdf'
+S'Diaz: Chile have no doubts about our style - FIFA.com'
+p2078
+sbstp2079
+sS'bytes+code'
+p2080
+(I0
+(dp2081
+tp2082
+sS'acid+diets'
+p2083
+(I8
+(dp2084
+S'http://www.fifa.com/mm/document/afdeveloping/medical/4.4.2.%20protein%20p%2014-15%5f1490.pdf'
 p2085
 (imain
 Document
 p2086
 (dp2087
 g6
-S'www.fifa.com/mm/document/afdeveloping/medical/4.5%20supplements%20p...'
+S'www.fifa.com/mm/document/afdeveloping/medical/4.4.2.%20protein%20p...'
 p2088
 sg8
 g2085
 sg9
-S'Protein supplements, high protein bars and amino acid preparations are among the biggest selling sports nutri-tion products. ... Supplements and sports foods'
+S'powders or amino acid supplements. Everyday foods are likely to be just as effective. Protein needs for training and bulking up'
 p2089
 sg11
-S'74bdcdf1-a167-4011-ab4d-0f404ffb543e'
+S'efea69e8-8309-4fb1-8bf4-548dd787dafe'
 p2090
 sg13
-S'Supplements and sports foods - FIFA'
+S'Protein needs for training and bulking up - FIFA'
 p2091
-sbstp2092
-sS'radiation+treatment'
-p2093
-(I2
-(dp2094
-S'http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/67/wc%5f70%5ftr%5f313.pdf'
-p2095
+sbsS'http://www.fifa.com/mm/document/afdeveloping/medical/nutrition_booklet_e_1830.pdf'
+p2092
 (imain
 Document
+p2093
+(dp2094
+g6
+S'www.fifa.com/mm/document/afdeveloping/medical/nutrition_booklet_e...'
+p2095
+sg8
+g2092
+sg9
+S'powders or amino acid supplements. Everyday foods are likely to be just as effective. Protein needs for training and bulking up Protein rich foods ...'
 p2096
-(dp2097
+sg11
+S'9017863e-b85e-4f75-b3b9-e593b29230a8'
+p2097
+sg13
+S'FIFA COCA Nutrition E RZ'
+p2098
+sbsS'http://www.fifa.com/mm/document/afdeveloping/medical/4.5%20supplements%20p%2022-24%5f1492.pdf'
+p2099
+(imain
+Document
+p2100
+(dp2101
+g6
+S'www.fifa.com/mm/document/afdeveloping/medical/4.5%20supplements%20p...'
+p2102
+sg8
+g2099
+sg9
+S'Protein supplements, high protein bars and amino acid preparations are among the biggest selling sports nutri-tion products. ... Supplements and sports foods'
+p2103
+sg11
+S'74bdcdf1-a167-4011-ab4d-0f404ffb543e'
+p2104
+sg13
+S'Supplements and sports foods - FIFA'
+p2105
+sbsS'http://www.fifa.com/mm/document/footballdevelopment/medical/51/55/15/nutritionbooklet_neue2010.pdf'
+p2106
+(imain
+Document
+p2107
+(dp2108
+g6
+S'www.fifa.com/mm/document/footballdevelopment/medical/51/55/15/...'
+p2109
+sg8
+g2106
+sg9
+S'Free fatty acid (FFA) levels in ... 16 NUTRITION FOR FOOTBALL | carBohydratES iN thE diEt NUTRITION FOR FOOTBALL | carBohydratES iN thE diEt 17 Carbohydrates in the diet'
+p2110
+sg11
+S'6b9bbcde-cc5e-4d64-b227-40fece78c6b9'
+p2111
+sg13
+S'FIFA Nutrition for Football booklet'
+p2112
+sbstp2113
+sS'radiation+treatment'
+p2114
+(I2
+(dp2115
+S'http://www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/67/wc%5f70%5ftr%5f313.pdf'
+p2116
+(imain
+Document
+p2117
+(dp2118
 g6
 S'www.fifa.com/mm/document/afdeveloping/technicaldevp/50/09/67/wc_70...'
-p2098
+p2119
 sg8
-g2095
+g2116
 sg9
 S'... Consider equality of treatment of all teams. ... Adaptationto sun radiation andheat There should be no problem for our players to adapt to the sun and'
-p2099
+p2120
 sg11
 S'6c2571ff-3385-47ff-b4c3-71301eee314c'
-p2100
+p2121
 sg13
 S'WorldChampionship-Jules RimetCup1970 FinalCompetition ...'
-p2101
+p2122
 sbsS'http://www.fifa.com/sustainability/news/y=2006/m=1/news=hleb-happy-help-102444.html'
-p2102
+p2123
 (imain
 Document
-p2103
-(dp2104
+p2124
+(dp2125
 g6
 S'www.fifa.com/sustainability/news/y=2006/m=1/news=hleb-happy-help...'
-p2105
+p2126
 sg8
-g2102
+g2123
 sg9
 S"As the 'FIFA for SOS Children's Villages' Ambassador for Belarus, Aleksandr Hleb has witnessed at first hand the fruits of the homes-for-children programme at its ..."
-p2106
+p2127
 sg11
 S'd8abc323-9b67-407e-8672-1c77c93f3ad0'
-p2107
+p2128
 sg13
 S'Hleb happy to help - FIFA.com'
-p2108
-sbstp2109
-sS'java'
-p2110
-(I10300
-(dp2111
-S'http://www.fifa.com/world-match-centre/clubs/club=sri-lanka-java-lane-2000000769/index.html'
-p2112
-(imain
-Document
-p2113
-(dp2114
-g6
-S'www.fifa.com/world-match-centre/clubs/club=sri-lanka-java-lane...'
-p2115
-sg8
-g2112
-sg9
-S'Find out the latest information of Java Lane. Toggle navigation. About FIFA; Development; Governance; Sustainability'
-p2116
-sg11
-S'03e4febc-b010-40e7-85b5-a2299e7cd44e'
-p2117
-sg13
-S'Java Lane - World Match Centre - FIFA.com'
-p2118
-sbsS'http://www.fifa.com/world-match-centre/clubs/club=sri-lanka-java-lane-2000000769/matches/index.html'
-p2119
-(imain
-Document
-p2120
-(dp2121
-g6
-S'www.fifa.com/world-match-centre/clubs/club=sri-lanka-java-lane...'
-p2122
-sg8
-g2119
-sg9
-S'Check out the Java Lane fixtures and results'
-p2123
-sg11
-S'125615df-4c25-49df-b172-4e66b880ef20'
-p2124
-sg13
-S'Java Lane: Matches - World Match Centre - FIFA.com'
-p2125
-sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=sri-lanka-champions-league-2000000156/matches/match=negombo-youth-java-lane-300337074/index.html'
-p2126
-(imain
-Document
-p2127
-(dp2128
-g6
-S'www.fifa.com/.../match=negombo-youth-java-lane-300337074/index.html'
 p2129
-sg8
-g2126
-sg9
-S'Follow the Sri Lanka Champions League match between Negombo Youth - Java Lane'
-p2130
-sg11
-S'9e5d7ccc-39fb-462c-933d-27dfa8704a44'
+sbstp2130
+sS'java'
 p2131
-sg13
-S'Sri Lanka Champions League: Negombo Youth - Java Lane ...'
-p2132
-sbsS'http://www.fifa.com/world-match-centre/clubs/club=slovakia-spartak-myjava-2000017592/index.html'
+(I10300
+(dp2132
+S'http://www.fifa.com/world-match-centre/clubs/club=sri-lanka-java-lane-2000000769/index.html'
 p2133
 (imain
 Document
 p2134
 (dp2135
 g6
-S'www.fifa.com/.../club=slovakia-spartak-myjava-2000017592/index.html'
+S'www.fifa.com/world-match-centre/clubs/club=sri-lanka-java-lane...'
 p2136
 sg8
 g2133
 sg9
-S'Find out the latest information of Spartak Myjava'
+S'Find out the latest information of Java Lane. Toggle navigation. About FIFA; Development; Governance; Sustainability'
 p2137
 sg11
-S'4d6f7791-4b46-49a2-8291-6da782ebf9bd'
+S'03e4febc-b010-40e7-85b5-a2299e7cd44e'
 p2138
 sg13
-S'Spartak Myjava - World Match Centre - FIFA.com'
+S'Java Lane - World Match Centre - FIFA.com'
 p2139
-sbstp2140
-sS'perl'
+sbsS'http://www.fifa.com/world-match-centre/clubs/club=slovakia-spartak-myjava-2000017592/index.html'
+p2140
+(imain
+Document
 p2141
-(I27
 (dp2142
-S'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=germany-bundesliga-2000000019/matches/match=vfl-wolfsburg-hertha-bsc-300322348/index.html'
+g6
+S'www.fifa.com/.../club=slovakia-spartak-myjava-2000017592/index.html'
 p2143
-(imain
-Document
+sg8
+g2140
+sg9
+S'Find out the latest information of Spartak Myjava'
 p2144
-(dp2145
-g6
-S'www.fifa.com/world-match-centre/nationalleagues/nationalleague=...'
+sg11
+S'4d6f7791-4b46-49a2-8291-6da782ebf9bd'
+p2145
+sg13
+S'Spartak Myjava - World Match Centre - FIFA.com'
 p2146
-sg8
-g2143
-sg9
-VDieter HECKING (GER) (HUN) Pál DÁRDAI: Offizielle. Schiedsrichter: Günter PERL (GER)
+sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=sri-lanka-champions-league-2000000156/matches/match=negombo-youth-java-lane-300337074/index.html'
 p2147
-sg11
-S'6274d28b-8ef1-45aa-99c0-9158891b7422'
+(imain
+Document
 p2148
-sg13
-S'Germany Bundesliga: VfL Wolfsburg - Hertha BSC - FIFA.com'
-p2149
-sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=germany-bundesliga-2000000019/matches/match=hannover-96-hoffenheim-300283859/index.html'
+(dp2149
+g6
+S'www.fifa.com/.../match=negombo-youth-java-lane-300337074/index.html'
 p2150
-(imain
-Document
+sg8
+g2147
+sg9
+S'Follow the Sri Lanka Champions League match between Negombo Youth - Java Lane'
 p2151
-(dp2152
-g6
-S'www.fifa.com/world-match-centre/nationalleagues/nationalleague=...'
-p2153
-sg8
-g2150
-sg9
-VMichael FRONTZECK (GER) (GER) Markus GISDOL: Offizielle. Schiedsrichter: Günter PERL (GER)
-p2154
 sg11
-S'8a2003ce-8969-45a4-92f0-56376456a27e'
-p2155
+S'9e5d7ccc-39fb-462c-933d-27dfa8704a44'
+p2152
 sg13
-S'Germany Bundesliga: Hannover 96 - Hoffenheim - FIFA.com'
-p2156
-sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=germany-bundesliga-2000000019/matches/match=hertha-bsc-borussia-dortmund-300283726/index.html'
-p2157
+S'Sri Lanka Champions League: Negombo Youth - Java Lane ...'
+p2153
+sbsS'http://www.fifa.com/world-match-centre/clubs/club=sri-lanka-java-lane-2000000769/matches/index.html'
+p2154
 (imain
 Document
-p2158
-(dp2159
+p2155
+(dp2156
 g6
-S'www.fifa.com/world-match-centre/nationalleagues/nationalleague=...'
-p2160
+S'www.fifa.com/world-match-centre/clubs/club=sri-lanka-java-lane...'
+p2157
 sg8
-g2157
+g2154
 sg9
-S'Follow the Germany Bundesliga match between Hertha BSC - Borussia Dortmund'
-p2161
+S'Check out the Java Lane fixtures and results'
+p2158
 sg11
-S'1082a274-f9d8-450c-b56d-e3ac6c63581e'
-p2162
+S'125615df-4c25-49df-b172-4e66b880ef20'
+p2159
 sg13
-S'Germany Bundesliga: Hertha BSC - Borussia Dortmund - FIFA.com'
-p2163
-sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=germany-bundesliga-2000000019/matches/match=fsv-mainz-05-borussia-dortmund-300283623/index.html'
+S'Java Lane: Matches - World Match Centre - FIFA.com'
+p2160
+sbstp2161
+sS'perl'
+p2162
+(I27
+(dp2163
+S'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=germany-bundesliga-2000000019/matches/match=vfl-wolfsburg-hertha-bsc-300322348/index.html'
 p2164
 (imain
 Document
@@ -5880,1273 +5880,1273 @@ p2167
 sg8
 g2164
 sg9
-S'Follow the Germany Bundesliga match between FSV Mainz 05 - Borussia Dortmund'
+VDieter HECKING (GER) (HUN) Pál DÁRDAI: Offizielle. Schiedsrichter: Günter PERL (GER)
 p2168
 sg11
-S'c8f2032e-d0f8-4e50-bdae-758de44dd977'
+S'6274d28b-8ef1-45aa-99c0-9158891b7422'
 p2169
 sg13
-S'Germany Bundesliga: FSV Mainz 05 - Borussia Dortmund ...'
+S'Germany Bundesliga: VfL Wolfsburg - Hertha BSC - FIFA.com'
 p2170
-sbstp2171
-sS'bios'
+sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=germany-bundesliga-2000000019/matches/match=hertha-bsc-borussia-dortmund-300283726/index.html'
+p2171
+(imain
+Document
 p2172
-(I26
 (dp2173
-S'http://www.fifa.com/worldcup/teams/team=43921/_index_default.html'
+g6
+S'www.fifa.com/world-match-centre/nationalleagues/nationalleague=...'
 p2174
-(imain
-Document
+sg8
+g2171
+sg9
+S'Follow the Germany Bundesliga match between Hertha BSC - Borussia Dortmund'
 p2175
-(dp2176
-g6
-S'www.fifa.com/worldcup/teams/team=43921/_index_default.html'
+sg11
+S'1082a274-f9d8-450c-b56d-e3ac6c63581e'
+p2176
+sg13
+S'Germany Bundesliga: Hertha BSC - Borussia Dortmund - FIFA.com'
 p2177
-sg8
-g2174
-sg9
-S'All-time Statistics. Top stories. Comments'
+sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=germany-bundesliga-2000000019/matches/match=hannover-96-hoffenheim-300283859/index.html'
 p2178
-sg11
-S'd26954d9-3919-47b2-9e64-d62da3a31d1f'
+(imain
+Document
 p2179
-sg13
-V2018 FIFA World Cup Russia\u2122 - Teams - USA - FIFA.com
-p2180
-sbsS'http://www.fifa.com/worldcup/news/y=2008/m=10/news=list-referees-preselected-for-south-africa-2010-924086.html'
+(dp2180
+g6
+S'www.fifa.com/world-match-centre/nationalleagues/nationalleague=...'
 p2181
-(imain
-Document
+sg8
+g2178
+sg9
+VMichael FRONTZECK (GER) (GER) Markus GISDOL: Offizielle. Schiedsrichter: Günter PERL (GER)
 p2182
-(dp2183
-g6
-S'www.fifa.com/worldcup/news/y=2008/m=10/news=list-referees-p...'
-p2184
-sg8
-g2181
-sg9
-S'The FIFA Referees Committee has selected a group of 38 referees from which the definitive list of referees for South Africa 2010 will be chosen.'
-p2185
 sg11
-S'750575c1-9e6e-4448-ac88-6d0c9026096e'
-p2186
+S'8a2003ce-8969-45a4-92f0-56376456a27e'
+p2183
 sg13
-S'List of referees preselected for South Africa 2010 - FIFA.com'
-p2187
-sbsS'http://www.fifa.com/womensworldcup/matches/index.html'
-p2188
+S'Germany Bundesliga: Hannover 96 - Hoffenheim - FIFA.com'
+p2184
+sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=germany-bundesliga-2000000019/matches/match=fsv-mainz-05-borussia-dortmund-300283623/index.html'
+p2185
 (imain
 Document
-p2189
-(dp2190
+p2186
+(dp2187
 g6
-S'www.fifa.com/womensworldcup/matches'
-p2191
+S'www.fifa.com/world-match-centre/nationalleagues/nationalleague=...'
+p2188
 sg8
-g2188
+g2185
 sg9
-VThe official match schedule for FIFA Women's World Cup Canada 2015\u2122
-p2192
+S'Follow the Germany Bundesliga match between FSV Mainz 05 - Borussia Dortmund'
+p2189
 sg11
-S'414892de-9529-414a-9567-494360a9085b'
-p2193
+S'c8f2032e-d0f8-4e50-bdae-758de44dd977'
+p2190
 sg13
-VFIFA Women's World Cup Canada 2015\u2122 - Matches - FIFA.com
-p2194
-sbsS'http://www.fifa.com/worldcup/teams/team=43949/_index_default.html'
+S'Germany Bundesliga: FSV Mainz 05 - Borussia Dortmund ...'
+p2191
+sbstp2192
+sS'bios'
+p2193
+(I26
+(dp2194
+S'http://www.fifa.com/worldcup/teams/team=43921/_index_default.html'
 p2195
 (imain
 Document
 p2196
 (dp2197
 g6
-S'www.fifa.com/worldcup/teams/team=43949'
+S'www.fifa.com/worldcup/teams/team=43921/_index_default.html'
 p2198
 sg8
 g2195
 sg9
-S'Bosnia and Herzegovina. Bosnia and Herzegovina. BIH'
+S'All-time Statistics. Top stories. Comments'
 p2199
 sg11
-S'e0aa20e4-4175-4e8f-9dd9-9896ebe889db'
+S'd26954d9-3919-47b2-9e64-d62da3a31d1f'
 p2200
 sg13
-V2018 FIFA World Cup Russia\u2122 - Teams - Greece - FIFA.com
+V2018 FIFA World Cup Russia\u2122 - Teams - USA - FIFA.com
 p2201
-sbstp2202
-sS'card+drivers'
+sbsS'http://www.fifa.com/worldcup/news/y=2008/m=10/news=list-referees-preselected-for-south-africa-2010-924086.html'
+p2202
+(imain
+Document
 p2203
-(I45
 (dp2204
-S'http://www.fifa.com/womensworldcup/matches/round=268020/match=300269500/index.html'
+g6
+S'www.fifa.com/worldcup/news/y=2008/m=10/news=list-referees-p...'
 p2205
-(imain
-Document
+sg8
+g2202
+sg9
+S'The FIFA Referees Committee has selected a group of 38 referees from which the definitive list of referees for South Africa 2010 will be chosen.'
 p2206
-(dp2207
-g6
-S'www.fifa.com/womensworldcup/matches/round=268020/match=300269500/...'
+sg11
+S'750575c1-9e6e-4448-ac88-6d0c9026096e'
+p2207
+sg13
+S'List of referees preselected for South Africa 2010 - FIFA.com'
 p2208
-sg8
-g2205
-sg9
-VWe\u2019re still in the driver\u2019s seat. We still have an opportunity to finish top ... Second yellow card and red card: 0: 0: Red Cards: 0: Attacking. 10: Corners: 8: 1 ...
+sbsS'http://www.fifa.com/womensworldcup/matches/index.html'
 p2209
-sg11
-S'ca6cd6bf-2a83-4825-88dd-bf3a49f26cd4'
+(imain
+Document
 p2210
-sg13
-VFIFA Women's World Cup Canada 2015\u2122 - Matches - USA-Sweden ...
-p2211
-sbsS'http://www.fifa.com/worldcup/photos/all-photos.html'
+(dp2211
+g6
+S'www.fifa.com/womensworldcup/matches'
 p2212
-(imain
-Document
+sg8
+g2209
+sg9
+VThe official match schedule for FIFA Women's World Cup Canada 2015\u2122
 p2213
-(dp2214
-g6
-S'www.fifa.com/worldcup/photos/all-photos.html'
-p2215
-sg8
-g2212
-sg9
-VCheck out all the latest photos from 2018 FIFA World Cup Russia\u2122 Check out all the latest photos from 2018 FIFA World Cup Russia\u2122 Toggle navigation.
-p2216
 sg11
-S'775d5434-c972-4c39-93b7-3033b1483a89'
-p2217
+S'414892de-9529-414a-9567-494360a9085b'
+p2214
 sg13
-V2018 FIFA World Cup Russia\u2122 - Photos - FIFA.com
-p2218
-sbsS'http://www.fifa.com/u20worldcup/matches/round=271602/match=300269563/index.html'
-p2219
+VFIFA Women's World Cup Canada 2015\u2122 - Matches - FIFA.com
+p2215
+sbsS'http://www.fifa.com/worldcup/teams/team=43949/_index_default.html'
+p2216
 (imain
 Document
-p2220
-(dp2221
+p2217
+(dp2218
 g6
-S'www.fifa.com/u20worldcup/matches/round=271602/match=300269563/...'
-p2222
+S'www.fifa.com/worldcup/teams/team=43949'
+p2219
 sg8
-g2219
+g2216
 sg9
-S'... but I can\'t turn a cyclist into a racing driver," Gerd Zeise, Myanmar ... Second yellow card and red card: 0: 1: Red Cards: 0: Attacking. 1: Corners: 7: 2 ...'
-p2223
+S'Bosnia and Herzegovina. Bosnia and Herzegovina. BIH'
+p2220
 sg11
-S'b18529ba-8531-44a5-a77d-ac569a6d58c0'
-p2224
+S'e0aa20e4-4175-4e8f-9dd9-9896ebe889db'
+p2221
 sg13
-S'FIFA U-20 World Cup New Zealand 2015 - Matches - Myanmar ...'
-p2225
-sbsS'http://www.fifa.com/fifa-tournaments/players-coaches/people=229884/index.html'
+V2018 FIFA World Cup Russia\u2122 - Teams - Greece - FIFA.com
+p2222
+sbstp2223
+sS'card+drivers'
+p2224
+(I45
+(dp2225
+S'http://www.fifa.com/womensworldcup/matches/round=268020/match=300269500/index.html'
 p2226
 (imain
 Document
 p2227
 (dp2228
 g6
-S'www.fifa.com/fifa-tournaments/players-coaches/people=229884/index.html'
+S'www.fifa.com/womensworldcup/matches/round=268020/match=300269500/...'
 p2229
 sg8
 g2226
 sg9
-S'Brothers, trebles and a taxi driver ; All News. Photos. David Villa #7 of New York City FC celebrates after scoring a goal.'
+VWe\u2019re still in the driver\u2019s seat. We still have an opportunity to finish top ... Second yellow card and red card: 0: 0: Red Cards: 0: Attacking. 10: Corners: 8: 1 ...
 p2230
 sg11
-S'7cc1d454-0f3b-4cd4-b06e-ce2220f557b1'
+S'ca6cd6bf-2a83-4825-88dd-bf3a49f26cd4'
 p2231
 sg13
-S'FIFA Tournaments - Players & Coaches - David Villa'
+VFIFA Women's World Cup Canada 2015\u2122 - Matches - USA-Sweden ...
 p2232
-sbstp2233
-sS'diabetes'
+sbsS'http://www.fifa.com/worldcup/photos/all-photos.html'
+p2233
+(imain
+Document
 p2234
-(I88
 (dp2235
-S'http://www.fifa.com/development/medical/football-for-health/11-for-health/mauritius.html'
+g6
+S'www.fifa.com/worldcup/photos/all-photos.html'
 p2236
-(imain
-Document
+sg8
+g2233
+sg9
+VCheck out all the latest photos from 2018 FIFA World Cup Russia\u2122 Check out all the latest photos from 2018 FIFA World Cup Russia\u2122 Toggle navigation.
 p2237
-(dp2238
-g6
-S'www.fifa.com/development/medical/football-for-health/11-for-health/...'
+sg11
+S'775d5434-c972-4c39-93b7-3033b1483a89'
+p2238
+sg13
+V2018 FIFA World Cup Russia\u2122 - Photos - FIFA.com
 p2239
-sg8
-g2236
-sg9
-S'Since diabetes represents a major health threat in Mauritius, ...'
+sbsS'http://www.fifa.com/u20worldcup/matches/round=271602/match=300269563/index.html'
 p2240
-sg11
-S'2a344a30-5384-41b7-8a13-b0f39798d7f6'
+(imain
+Document
 p2241
-sg13
-S"Players' Health - The 11 for Health - Mauritius - FIFA.com"
-p2242
-sbsS'http://www.fifa.com/mm/document/afdeveloping/medical/6.11.2.%20cortisone%20in%20football%20-blessing%20or%20curse,kgr%5f1514.pdf'
+(dp2242
+g6
+S'www.fifa.com/u20worldcup/matches/round=271602/match=300269563/...'
 p2243
-(imain
-Document
+sg8
+g2240
+sg9
+S'... but I can\'t turn a cyclist into a racing driver," Gerd Zeise, Myanmar ... Second yellow card and red card: 0: 1: Red Cards: 0: Attacking. 1: Corners: 7: 2 ...'
 p2244
-(dp2245
-g6
-S'www.fifa.com/mm/document/afdeveloping/medical/6.11.2.%20cortisone...'
-p2246
-sg8
-g2243
-sg9
-S'Due to the formation of glucose, diabetes can develop or worsen. The amount of protein is reduced particularly in the muscles, bone and skin.'
-p2247
 sg11
-S'e9caf736-907e-45c1-a0b0-a0521e20fd92'
-p2248
+S'b18529ba-8531-44a5-a77d-ac569a6d58c0'
+p2245
 sg13
-VCortisone in football \u2013 blessing or curse? What are ...
-p2249
-sbsS'http://www.fifa.com/development/news/y=2015/m=8/news=fifa-11-for-health-launched-in-puerto-rico-2671712.html'
-p2250
+S'FIFA U-20 World Cup New Zealand 2015 - Matches - Myanmar ...'
+p2246
+sbsS'http://www.fifa.com/fifa-tournaments/players-coaches/people=229884/index.html'
+p2247
 (imain
 Document
-p2251
-(dp2252
+p2248
+(dp2249
 g6
-S'www.fifa.com/development/news/y=2015/m=8/news=fifa-11-for-health...'
-p2253
+S'www.fifa.com/fifa-tournaments/players-coaches/people=229884/index.html'
+p2250
 sg8
-g2250
+g2247
 sg9
-S'... programme that teaches children how to live a healthy life and avoid major health threats such as HIV, obesity, diabetes and cardiovascular disease.'
-p2254
+S'Brothers, trebles and a taxi driver ; All News. Photos. David Villa #7 of New York City FC celebrates after scoring a goal.'
+p2251
 sg11
-S'cee70fea-ccb6-4161-a0fd-98cb2303cd5f'
-p2255
+S'7cc1d454-0f3b-4cd4-b06e-ce2220f557b1'
+p2252
 sg13
-VFIFA 11 for Health\u2019 launched in Puerto Rico - FIFA.com
-p2256
-sbsS'http://www.fifa.com/mm/document/afdeveloping/medical/1.%5ffootball%5ffor%5fhealth%5fenglish%5f1613.pdf'
+S'FIFA Tournaments - Players & Coaches - David Villa'
+p2253
+sbstp2254
+sS'hooliganism'
+p2255
+(I22
+(dp2256
+S'http://www.fifa.com/sustainability/news/y=2004/m=7/news=football-building-bridges-and-saving-lives-93227.html'
 p2257
 (imain
 Document
 p2258
 (dp2259
 g6
-S'www.fifa.com/mm/document/afdeveloping/medical/1._football_for...'
+S'www.fifa.com/sustainability/news/y=2004/m=7/news=football-building...'
 p2260
 sg8
 g2257
 sg9
-S'4466 MARCH 2007 MARCH 2007 magazine 4477 rates of obesity, hypertension, diabetes and other civilisation diseases in many countries in Africa, Asia, South America'
+S'Sporadic incidents of hooliganism, racism and foul play have sometimes cast the game of football in a negative light. But few activities have had such a positive ...'
 p2261
 sg11
-S'44b354a9-569d-434d-89ec-ed3a738147c5'
+S'5d25f16a-b35a-4ad8-aab0-040631d095dd'
 p2262
 sg13
-S'FOOTBALL FOR HEALTH'
+S'Football, building bridges and saving lives - FIFA.com'
 p2263
-sbstp2264
-sS'liverpool'
+sbsS'http://www.fifa.com/about-fifa/news/y=2013/m=5/news=ceremony-extolling-universal-values-2088952.html'
+p2264
+(imain
+Document
 p2265
-(I14400
 (dp2266
-S'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=england-premier-league-2000000000/news/newsid/271/216/7/index.html'
+g6
+S'www.fifa.com/about-fifa/news/y=2013/m=5/news=ceremony-extolling...'
 p2267
-(imain
-Document
+sg8
+g2264
+sg9
+S'Major issues such as hooliganism, racism, match fixing will be debated here, and I hope we will help steer back the FIFA boat in clearer waters."'
 p2268
-(dp2269
-g6
-S'www.fifa.com/world-match-centre/nationalleagues/nationalleague=...'
+sg11
+S'5e6ab4be-f409-4121-a861-68c832810fca'
+p2269
+sg13
+S'A ceremony extolling universal values - FIFA.com'
 p2270
-sg8
-g2267
-sg9
-S"Jurgen Klopp has challenged Liverpool's under-performing stars to rediscover their swagger when the new Reds boss gets his first taste of the Premier League against ..."
+sbsS'http://www.fifa.com/about-fifa/news/y=1999/m=5/news=giving-violence-70889.html'
 p2271
-sg11
-S'fdfb912a-0bb8-4c86-9154-1dc1e5003356'
+(imain
+Document
 p2272
-sg13
-S'Klopp set for Liverpool bow, Mourinho battles doubts ...'
-p2273
-sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=england-premier-league-2000000000/news/newsid/271/031/8/index.html'
+(dp2273
+g6
+S'www.fifa.com/about-fifa/news/y=1999/m=5/news=giving-violence-70889...'
 p2274
-(imain
-Document
+sg8
+g2271
+sg9
+S'Read all the latest news from the FIFA organisation, including the FIFA President, Football Development and projects.'
 p2275
-(dp2276
-g6
-S'www.fifa.com/world-match-centre/nationalleagues/nationalleague=...'
-p2277
-sg8
-g2274
-sg9
-VLiverpool confirmed German coach Jurgen Klopp as their new manager in a deal worth a reported £4m a year. Former Borussia Dortmund boss Klopp is understood to have ...
-p2278
 sg11
-S'e5796e55-63ba-4ab0-a946-55fcaf76691c'
-p2279
+S'741c1684-6ae2-470d-bdc9-efb1d78195db'
+p2276
 sg13
-S'Liverpool confirm Klopp as new manager - FIFA.com'
-p2280
-sbsS'http://www.fifa.com/world-match-centre/clubs/club=uruguay-liverpool-1896769/index.html'
-p2281
+S'Giving in to violence? - FIFA.com'
+p2277
+sbsS'http://www.fifa.com/fifa-tournaments/classic-stadiums/stadium=33521/index.html'
+p2278
 (imain
 Document
-p2282
-(dp2283
+p2279
+(dp2280
 g6
-S'www.fifa.com/world-match-centre/clubs/club=uruguay-liverpool...'
-p2284
+S'www.fifa.com/fifa-tournaments/classic-stadiums/stadium=33521/index...'
+p2281
 sg8
-g2281
+g2278
 sg9
-S'Find out the latest information of Liverpool ... Campeonato Uruguayo 2015/2016 / Apertura'
-p2285
+S'With the rise of hooliganism in Britain in the early 1970s, ...'
+p2282
 sg11
-S'd132c1c1-2566-46e8-b688-1feca3d83272'
-p2286
+S'1dd4cf64-5f7d-473c-932f-bd3a3b8928b7'
+p2283
 sg13
-S'Liverpool - World Match Centre - FIFA.com'
-p2287
-sbsS'http://www.fifa.com/u17worldcup/news/y=2015/m=11/news=belgian-trio-s-ambition-knows-no-bounds-2729619.html'
+S'Tournaments - Classic Stadiums - FIFA.com'
+p2284
+sbstp2285
+sS'liverpool'
+p2286
+(I14400
+(dp2287
+S'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=england-premier-league-2000000000/news/newsid/271/216/7/index.html'
 p2288
 (imain
 Document
 p2289
 (dp2290
 g6
-S'www.fifa.com/u17worldcup/news/y=2015/m=11/news=belgian-trio-s...'
+S'www.fifa.com/world-match-centre/nationalleagues/nationalleague=...'
 p2291
 sg8
 g2288
 sg9
-V... Chelsea\u2019s Eden Hazard and Liverpool striker Christian Benteke have long since made a name for themselves. ...
+S"Jurgen Klopp has challenged Liverpool's under-performing stars to rediscover their swagger when the new Reds boss gets his first taste of the Premier League against ..."
 p2292
 sg11
-S'bd854525-cff0-41b8-99e4-f459bfd66889'
+S'fdfb912a-0bb8-4c86-9154-1dc1e5003356'
 p2293
 sg13
-VBelgian trio\u2019s ambition knows no bounds - FIFA.com
+S'Klopp set for Liverpool bow, Mourinho battles doubts ...'
 p2294
-sbstp2295
-sS'cardiology'
+sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=england-premier-league-2000000000/news/newsid/271/031/8/index.html'
+p2295
+(imain
+Document
 p2296
-(I13
 (dp2297
-S'http://www.fifa.com/development/news/y=2014/m=12/news=olympic-park-sports-medicine-centre-australia-2494428.html'
+g6
+S'www.fifa.com/world-match-centre/nationalleagues/nationalleague=...'
 p2298
-(imain
-Document
+sg8
+g2295
+sg9
+VLiverpool confirmed German coach Jurgen Klopp as their new manager in a deal worth a reported £4m a year. Former Borussia Dortmund boss Klopp is understood to have ...
 p2299
-(dp2300
-g6
-S'www.fifa.com/development/news/y=2014/m=12/news=olympic-park-sports...'
+sg11
+S'e5796e55-63ba-4ab0-a946-55fcaf76691c'
+p2300
+sg13
+S'Liverpool confirm Klopp as new manager - FIFA.com'
 p2301
-sg8
-g2298
-sg9
-S'... sports and performance psychology, exercise physiology, orthopaedic surgical specialties, sports cardiology, soft-tissue therapy and clinical Pilates.'
+sbsS'http://www.fifa.com/world-match-centre/clubs/club=uruguay-liverpool-1896769/index.html'
 p2302
-sg11
-S'f0ad7b99-3af2-4d77-a0bb-f1a7475a67ce'
+(imain
+Document
 p2303
-sg13
-S'Olympic Park Sports Medicine Centre (Australia) - FIFA.com'
-p2304
-sbsS'http://www.fifa.com/development/news/y=2014/m=3/news=fifa-and-saarland-university-team-2294124.html'
+(dp2304
+g6
+S'www.fifa.com/world-match-centre/clubs/club=uruguay-liverpool...'
 p2305
-(imain
-Document
+sg8
+g2302
+sg9
+S'Find out the latest information of Liverpool ... Campeonato Uruguayo 2015/2016 / Apertura'
 p2306
-(dp2307
-g6
-S'www.fifa.com/development/news/y=2014/m=3/news=fifa-and-saarland...'
-p2308
-sg8
-g2305
-sg9
-S'... already operated a Germany-wide registry to record cases of sudden death in athletes under the umbrella of the German Cardiology Association and with funding ...'
-p2309
 sg11
-S'7c67ba43-2c2f-4233-812a-a6872a040c42'
-p2310
+S'd132c1c1-2566-46e8-b688-1feca3d83272'
+p2307
 sg13
-S'FIFA and Saarland University team up - FIFA.com'
-p2311
-sbsS'http://www.fifa.com/development/news/y=2015/m=1/news=fc-barcelona-2512710.html'
-p2312
+S'Liverpool - World Match Centre - FIFA.com'
+p2308
+sbsS'http://www.fifa.com/u17worldcup/news/y=2015/m=11/news=belgian-trio-s-ambition-knows-no-bounds-2729619.html'
+p2309
 (imain
 Document
-p2313
-(dp2314
+p2310
+(dp2311
 g6
-S'www.fifa.com/development/news/y=2015/m=1/news=fc-barcelona-2512710...'
-p2315
+S'www.fifa.com/u17worldcup/news/y=2015/m=11/news=belgian-trio-s...'
+p2312
 sg8
-g2312
+g2309
 sg9
-S'We have more than 25 medical doctors covering sports medicine, traumatology and orthopaedics, cardiology and nutrition, as well as over 50 physiotherapists.'
-p2316
+V... Chelsea\u2019s Eden Hazard and Liverpool striker Christian Benteke have long since made a name for themselves. ...
+p2313
 sg11
-S'a5cff745-094d-4bfe-9583-ac582ebf1df4'
-p2317
+S'bd854525-cff0-41b8-99e4-f459bfd66889'
+p2314
 sg13
-S'FC Barcelona - FIFA.com'
-p2318
-sbsS'http://www.fifa.com/development/news/y=2015/m=2/news=amssm-and-fifa-hold-second-summit-on-ecg-interpretation-in-athletes-2532191.html'
+VBelgian trio\u2019s ambition knows no bounds - FIFA.com
+p2315
+sbstp2316
+sS'cardiology'
+p2317
+(I13
+(dp2318
+S'http://www.fifa.com/development/news/y=2014/m=12/news=olympic-park-sports-medicine-centre-australia-2494428.html'
 p2319
 (imain
 Document
 p2320
 (dp2321
 g6
-S'www.fifa.com/development/news/y=2015/m=2/news=amssm-and-fifa-hold...'
+S'www.fifa.com/development/news/y=2014/m=12/news=olympic-park-sports...'
 p2322
 sg8
 g2319
 sg9
-VThe American Medical Society for Sports Medicine and the FIFA Medical Assessment and Research Center (F\u2010MARC) are bringing together top sports cardiology and sport ...
+S'... sports and performance psychology, exercise physiology, orthopaedic surgical specialties, sports cardiology, soft-tissue therapy and clinical Pilates.'
 p2323
 sg11
-S'6b503fa4-5661-4fec-a4fb-b904670811de'
+S'f0ad7b99-3af2-4d77-a0bb-f1a7475a67ce'
 p2324
 sg13
-S'AMSSM and FIFA hold second summit on ECG interpretation in ...'
+S'Olympic Park Sports Medicine Centre (Australia) - FIFA.com'
 p2325
-sbstp2326
-sS'ball+referee'
+sbsS'http://www.fifa.com/development/news/y=2014/m=3/news=fifa-and-saarland-university-team-2294124.html'
+p2326
+(imain
+Document
 p2327
-(I255000
 (dp2328
-S'http://www.fifa.com/mm/document/afdeveloping/refereeing/law%5f5%5fthe%5freferee%5fen%5f47411.pdf'
+g6
+S'www.fifa.com/development/news/y=2014/m=3/news=fifa-and-saarland...'
 p2329
-(imain
-Document
+sg8
+g2326
+sg9
+S'... already operated a Germany-wide registry to record cases of sudden death in athletes under the umbrella of the German Cardiology Association and with funding ...'
 p2330
-(dp2331
-g6
-S'www.fifa.com/mm/document/afdeveloping/refereeing/law_5_the_referee...'
+sg11
+S'7c67ba43-2c2f-4233-812a-a6872a040c42'
+p2331
+sg13
+S'FIFA and Saarland University team up - FIFA.com'
 p2332
-sg8
-g2329
-sg9
-V3 Powers and Duties \u201cThe referee enforces the Laws of the Game\u201d the Referee is authorised to stop play, if in his opinion, the floodlights are inadequate
+sbsS'http://www.fifa.com/development/news/y=2015/m=1/news=fc-barcelona-2512710.html'
 p2333
-sg11
-S'd38c86d2-2058-44ac-81f8-5c36507ac9f8'
+(imain
+Document
 p2334
-sg13
-S'FIFA The Referee - Law 5 of the Game.'
-p2335
-sbsS'http://www.fifa.com/mm/document/afdeveloping/refereeing/law%5f12%5ffouls%5fmisconduct%5fen%5f47379.pdf'
+(dp2335
+g6
+S'www.fifa.com/development/news/y=2015/m=1/news=fc-barcelona-2512710...'
 p2336
-(imain
-Document
+sg8
+g2333
+sg9
+S'We have more than 25 medical doctors covering sports medicine, traumatology and orthopaedics, cardiology and nutrition, as well as over 50 physiotherapists.'
 p2337
-(dp2338
-g6
-S'www.fifa.com/mm/document/afdeveloping/refereeing/law_12_fouls...'
+sg11
+S'a5cff745-094d-4bfe-9583-ac582ebf1df4'
+p2338
+sg13
+S'FC Barcelona - FIFA.com'
 p2339
-sg8
-g2336
-sg9
-S'the distance between the opponent and the ball (unexpected ball) ... area the referee restart play with a penalty kick. 75 Offences where an object is thrown'
+sbsS'http://www.fifa.com/development/news/y=2015/m=2/news=amssm-and-fifa-hold-second-summit-on-ecg-interpretation-in-athletes-2532191.html'
 p2340
-sg11
-S'226e1b7c-3484-4484-bbef-6668970ca6fe'
+(imain
+Document
 p2341
-sg13
-S'Law 12 - Fouls and Misconduct - FIFA'
-p2342
-sbsS'http://www.fifa.com/mm/document/footballdevelopment/refereeing/81/42/36/log2013en_neutral.pdf'
+(dp2342
+g6
+S'www.fifa.com/development/news/y=2015/m=2/news=amssm-and-fifa-hold...'
 p2343
-(imain
-Document
+sg8
+g2340
+sg9
+VThe American Medical Society for Sports Medicine and the FIFA Medical Assessment and Research Center (F\u2010MARC) are bringing together top sports cardiology and sport ...
 p2344
-(dp2345
-g6
-S'www.fifa.com/mm/document/footballdevelopment/refereeing/...neutral.pdf'
+sg11
+S'6b503fa4-5661-4fec-a4fb-b904670811de'
+p2345
+sg13
+S'AMSSM and FIFA hold second summit on ECG interpretation in ...'
 p2346
-sg8
-g2343
-sg9
-VCONTENTS 5 Page Law 6 1 \u2013 The Field of Play 15 2 \u2013 The Ball 17 3 \u2013 The Number of Players 21 4 \u2013 The Players\u2019 Equipment 24 5 \u2013 The Referee
-p2347
-sg11
-S'c96cfab0-41b5-4b0d-843b-7b18e4a70632'
-p2348
-sg13
-S'Laws of the game 2013-14 - FIFA'
-p2349
-sbsS'http://www.fifa.com/mm/document/afdeveloping/refereeing/law%5f9%5fthe%5fball%5fin%5fand%5fout%5fplay%5fen%5f47392.pdf'
-p2350
-(imain
-Document
-p2351
-(dp2352
-g6
-S'www.fifa.com/mm/document/afdeveloping/refereeing/law_9_the_ball_in...'
-p2353
-sg8
-g2350
-sg9
-S'3 The ball inside the field touches a person other than a player If, when the ball is in play, it touches the referee or an assistant referee who is temporary on the ...'
-p2354
-sg11
-S'b52a4e8a-ec25-458c-bbb9-781da98bb0fe'
-p2355
-sg13
-S'Law 9 - The Ball In and Out of Play - FIFA'
-p2356
-sbstp2357
+sbstp2347
 sS'actionlistener'
-p2358
+p2348
 (I0
-(dp2359
-tp2360
+(dp2349
+tp2350
 sS'blazers'
-p2361
+p2351
 (I3690
-(dp2362
+(dp2352
 S'http://es.fifa.com/world-match-centre/nationalleagues/nationalleague=bermuda-premier-division-2000000158/matches/match=boulevard-blazers-somerset-trojans-300335910/index.html'
-p2363
+p2353
 (imain
 Document
-p2364
-(dp2365
+p2354
+(dp2355
 g6
 S'es.fifa.com/...premier...blazers-somerset-trojans-300335910/index.html'
-p2366
+p2356
 sg8
-g2363
+g2353
 sg9
 S'Sigue el partido de la Bermudas Premier Division entre Boulevard Blazers - Somerset Trojans'
-p2367
+p2357
 sg11
 S'cb1a77cf-b109-42db-9b58-d09abdba973d'
-p2368
+p2358
 sg13
 S'Bermudas Premier Division: Boulevard Blazers - Somerset ...'
-p2369
+p2359
 sbsS'http://www.fifa.com/world-match-centre/clubs/club=bermuda-boulevard-blazers-2147481424/index.html'
-p2370
+p2360
 (imain
 Document
-p2371
-(dp2372
+p2361
+(dp2362
 g6
 S'www.fifa.com/.../club=bermuda-boulevard-blazers-2147481424/index.html'
-p2373
+p2363
 sg8
-g2370
+g2360
 sg9
 S'Find out the latest information of Boulevard Blazers. Toggle navigation. About FIFA; Development; Governance; Sustainability'
-p2374
+p2364
 sg11
 S'0c885333-4e97-432b-a950-047793a426e2'
-p2375
+p2365
 sg13
 S'Boulevard Blazers - World Match Centre - FIFA.com'
-p2376
+p2366
 sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=bermuda-premier-division-2000000158/matches/match=boulevard-blazers-devonshire-cougars-300335951/index.html'
-p2377
+p2367
 (imain
 Document
-p2378
-(dp2379
+p2368
+(dp2369
 g6
 S'www.fifa.com/world-match-centre/nationalleagues/nationalleague=...'
-p2380
+p2370
 sg8
-g2377
+g2367
 sg9
 S'Follow the Bermuda Premier Division match between Boulevard Blazers - Devonshire Cougars'
-p2381
+p2371
 sg11
 S'842907bc-caed-4f0f-babd-40e50f9d8d89'
-p2382
+p2372
 sg13
 S'Bermuda Premier Division: Boulevard Blazers - Devonshire ...'
-p2383
+p2373
 sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=bermuda-premier-division-2000000158/matches/match=boulevard-blazers-somerset-trojans-300335910/index.html'
+p2374
+(imain
+Document
+p2375
+(dp2376
+g6
+S'www.fifa.com/world-match-centre/nationalleagues/nationalleague=...'
+p2377
+sg8
+g2374
+sg9
+S'Follow the Bermuda Premier Division match between Boulevard Blazers - Somerset Trojans'
+p2378
+sg11
+S'2d3e1438-d34a-4a77-8c74-392eab91eb5b'
+p2379
+sg13
+S'Bermuda Premier Division: Boulevard Blazers - Somerset ...'
+p2380
+sbstp2381
+sS'medical+patient'
+p2382
+(I9860
+(dp2383
+S'http://www.fifa.com/womens-football/news/y=2015/m=5/news=alexandersson-we-have-to-be-patient-and-ambitious-2607298.html'
 p2384
 (imain
 Document
 p2385
 (dp2386
 g6
-S'www.fifa.com/world-match-centre/nationalleagues/nationalleague=...'
+S'www.fifa.com/womens...we-have-to-be-patient-and-ambitious-2607298.html'
 p2387
 sg8
 g2384
 sg9
-S'Follow the Bermuda Premier Division match between Boulevard Blazers - Somerset Trojans'
+VWomen's Health; Women's Survey; Live Your Goals; Symposium; Women's ... But we\u2019ve got to be patient and at the same time very ambitious,\u201d he concluded.
 p2388
 sg11
-S'2d3e1438-d34a-4a77-8c74-392eab91eb5b'
+S'8020671a-116b-4b2e-be1b-a2cff647eb41'
 p2389
 sg13
-S'Bermuda Premier Division: Boulevard Blazers - Somerset ...'
-p2390
-sbstp2391
-sS'medical+patient'
-p2392
-(I9860
-(dp2393
-S'http://www.fifa.com/womens-football/news/y=2015/m=5/news=alexandersson-we-have-to-be-patient-and-ambitious-2607298.html'
-p2394
-(imain
-Document
-p2395
-(dp2396
-g6
-S'www.fifa.com/womens...we-have-to-be-patient-and-ambitious-2607298.html'
-p2397
-sg8
-g2394
-sg9
-VWomen's Health; Women's Survey; Live Your Goals; Symposium; Women's ... But we\u2019ve got to be patient and at the same time very ambitious,\u201d he concluded.
-p2398
-sg11
-S'8020671a-116b-4b2e-be1b-a2cff647eb41'
-p2399
-sg13
 S'Alexandersson: We have to be patient and ambitious - FIFA.com'
-p2400
+p2390
 sbsS'http://www.fifa.com/development/news/y=2015/m=9/news=fifa-s-medical-committee-to-continue-work-on-improving-team-relationsh-2676981.html'
-p2401
+p2391
 (imain
 Document
-p2402
-(dp2403
+p2392
+(dp2393
 g6
 S'www.fifa.com/development/news/y=2015/m=9/news=fifa-s-medical...'
-p2404
+p2394
 sg8
-g2401
+g2391
 sg9
 S'The FIFA Medical Committee met today and received an update about an initiative aimed at building stronger relationships between football teams, coaches and medical ...'
-p2405
+p2395
 sg11
 S'7ee74391-9033-4f91-ae0e-79e1ee6c954a'
-p2406
+p2396
 sg13
 VFIFA\u2019s Medical Committee to continue work on improving ...
-p2407
+p2397
 sbsS'http://www.fifa.com/development/news/y=2014/m=12/news=carolina-medical-center-poland-2490405.html'
-p2408
+p2398
 (imain
 Document
-p2409
-(dp2410
+p2399
+(dp2400
 g6
 S'www.fifa.com/development/news/y=2014/m=12/news=carolina-medical...'
-p2411
+p2401
 sg8
-g2408
+g2398
 sg9
 S'The Carolina Medical Center (CMC) is a modern orthopaedic and sports medicine centre located in Warsaw, Poland. The CMC is run by the LUX MED Group, a part of Bupa ...'
-p2412
+p2402
 sg11
 S'c7f4e167-933f-4a25-ad01-a0d5dfce4e4c'
-p2413
+p2403
 sg13
 S'Carolina Medical Center (Poland) - FIFA.com'
-p2414
+p2404
 sbsS'http://www.fifa.com/development/news/y=2015/m=2/news=amssm-and-fifa-hold-second-summit-on-ecg-interpretation-in-athletes-2532191.html'
-p2415
+p2405
 (imain
 Document
-p2416
-(dp2417
+p2406
+(dp2407
 g6
 S'www.fifa.com/development/news/y=2015/m=2/news=amssm-and-fifa-hold...'
-p2418
+p2408
 sg8
-g2415
+g2405
 sg9
 VThe American Medical Society for Sports Medicine and the FIFA Medical Assessment and Research Center (F\u2010MARC) are bringing together top sports cardiology and sport ...
-p2419
+p2409
 sg11
 S'5ec1a242-c39e-4c3e-a3e9-277315c9c37b'
-p2420
+p2410
 sg13
 S'AMSSM and FIFA hold second summit on ECG interpretation in ...'
-p2421
-sbstp2422
+p2411
+sbstp2412
 sS'cholesterol+lipitor'
-p2423
+p2413
 (I0
-(dp2424
-tp2425
+(dp2414
+tp2415
 sS'dunks'
-p2426
+p2416
 (I1
-(dp2427
+(dp2417
 S'http://www.fifa.com/tournaments/archive/u17worldcup/mexico2011/news/newsid=1460401/index.html'
-p2428
+p2418
 (imain
 Document
-p2429
-(dp2430
+p2419
+(dp2420
 g6
 S'www.fifa.com/tournaments/archive/u17worldcup/mexico2011/news/...'
-p2431
+p2421
 sg8
-g2428
+g2418
 sg9
 VViktor Fischer\u2019s wizardry on the ball and elusive running has earned him a move to Dutch giants Ajax, but as FIFA.com found out, the Danish U-17 entertainer wants ...
-p2432
+p2422
 sg11
 S'749434de-6ed6-4e5a-81cd-9139418b0fc2'
-p2433
+p2423
 sg13
 S'Admiration not enough for Danish Fischer - FIFA.com'
-p2434
-sbstp2435
+p2424
+sbstp2425
 sS'bios+controller+ide'
-p2436
+p2426
 (I0
-(dp2437
-tp2438
+(dp2427
+tp2428
 sS'compile'
-p2439
+p2429
 (I86
-(dp2440
+(dp2430
 S'http://www.fifa.com/about-fifa/news/y=2014/m=1/news=issue-jan-2014-2258792.html'
-p2441
+p2431
 (imain
 Document
-p2442
-(dp2443
+p2432
+(dp2433
 g6
 S'www.fifa.com/about-fifa/news/y=2014/m=1/news=issue-jan-2014...'
-p2444
+p2434
 sg8
-g2441
+g2431
 sg9
 V... \u201cand it won\u2019t be an easy list to compile,\u201d says Massimo Busacca. \u201cWe\u2019re very pleased with refereeing standards. But we need best ...
-p2445
+p2435
 sg11
 S'a649cdc8-c698-4168-aa7e-ffe4eea1ec3e'
-p2446
+p2436
 sg13
 S'Issue #12 - 10 JAN 2014 - FIFA.com'
-p2447
-sbsS'http://www.fifa.com/womensworldcup/news/y=2003/m=9/news=pauw-tsg-you-would-have-expected-more-from-the-russians-15645.html'
-p2448
-(imain
-Document
-p2449
-(dp2450
-g6
-S'www.fifa.com/womensworldcup/news/y=2003/m=9/news=pauw-tsg-you...'
-p2451
-sg8
-g2448
-sg9
-S'Well, overall you would have expected more from the Russians. They had the edge going into the match and immediately left the initiative to China partly due to the ...'
-p2452
-sg11
-S'd9c08170-6bdb-4b9c-a715-0d6f3f6e2872'
-p2453
-sg13
-S"Pauw (TSG): ''You would have expected more from the ..."
-p2454
+p2437
 sbsS'http://www.fifa.com/womensworldcup/organisation/newsletter/index.html'
-p2455
+p2438
 (imain
 Document
-p2456
-(dp2457
+p2439
+(dp2440
 g6
 S'www.fifa.com/womensworldcup/organisation/newsletter/index.html'
-p2458
+p2441
 sg8
-g2455
+g2438
 sg9
 S'... so we have decided to compile all the information into one handy Newsletter. ... The Newsletter will be published quarterly - we hope you enjoy reading it.'
-p2459
+p2442
 sg11
 S'ef773a33-c86e-46b0-82e9-efd83765d02a'
-p2460
+p2443
 sg13
 S"FIFA.com - FIFA Women's World Cup: Organisation - Newsletter"
-p2461
+p2444
+sbsS'http://www.fifa.com/womensworldcup/news/y=2003/m=9/news=pauw-tsg-you-would-have-expected-more-from-the-russians-15645.html'
+p2445
+(imain
+Document
+p2446
+(dp2447
+g6
+S'www.fifa.com/womensworldcup/news/y=2003/m=9/news=pauw-tsg-you...'
+p2448
+sg8
+g2445
+sg9
+S'Well, overall you would have expected more from the Russians. They had the edge going into the match and immediately left the initiative to China partly due to the ...'
+p2449
+sg11
+S'd9c08170-6bdb-4b9c-a715-0d6f3f6e2872'
+p2450
+sg13
+S"Pauw (TSG): ''You would have expected more from the ..."
+p2451
 sbsS'http://www.fifa.com/womensworldcup/news/y=1999/m=6/news=mastercard-all-star-team-selected-fifa-technical-study-group-70842.html'
+p2452
+(imain
+Document
+p2453
+(dp2454
+g6
+S'www.fifa.com/womensworldcup/news/y=1999/m=6/news=mastercard-all...'
+p2455
+sg8
+g2452
+sg9
+S"TSG members will attend each match of the WWC, using their technical experience and expertise to compile evaluations of the women's game, ..."
+p2456
+sg11
+S'08ea3d1f-1305-42ce-85b4-e39ceba1de6f'
+p2457
+sg13
+S'Mastercard All-Star Team to be selected by FIFA Technical ...'
+p2458
+sbstp2459
+sS'mls'
+p2460
+(I52900
+(dp2461
+S'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=usa-mls-2000000103/standings/index.html'
 p2462
 (imain
 Document
 p2463
 (dp2464
 g6
-S'www.fifa.com/womensworldcup/news/y=1999/m=6/news=mastercard-all...'
+S'www.fifa.com/.../standings/index.html'
 p2465
 sg8
 g2462
 sg9
-S"TSG members will attend each match of the WWC, using their technical experience and expertise to compile evaluations of the women's game, ..."
+S'Check out the latest standings from the USA MLS'
 p2466
 sg11
-S'08ea3d1f-1305-42ce-85b4-e39ceba1de6f'
+S'939a69b0-0208-46ad-8070-8477298f921c'
 p2467
 sg13
-S'Mastercard All-Star Team to be selected by FIFA Technical ...'
-p2468
-sbstp2469
-sS'mls'
-p2470
-(I52900
-(dp2471
-S'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=usa-mls-2000000103/standings/index.html'
-p2472
-(imain
-Document
-p2473
-(dp2474
-g6
-S'www.fifa.com/.../standings/index.html'
-p2475
-sg8
-g2472
-sg9
-S'Check out the latest standings from the USA MLS'
-p2476
-sg11
-S'939a69b0-0208-46ad-8070-8477298f921c'
-p2477
-sg13
 S'USA MLS: Standings - World Match Centre - FIFA.com'
-p2478
+p2468
 sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=usa-mls-2000000103/news/newsid/272/213/9/index.html'
-p2479
+p2469
 (imain
 Document
-p2480
-(dp2481
+p2470
+(dp2471
 g6
 S'www.fifa.com/world-match-centre/nationalleagues/nationalleague=usa...'
-p2482
+p2472
 sg8
-g2479
+g2469
 sg9
 S"Major League Soccer's New York Red Bulls captured the Supporters' Shield for best regular-season record on Sunday with a 2-1 win over Chicago Fire on the final day of ..."
-p2483
+p2473
 sg11
 S'fac10bf6-0c0e-4205-a0c3-7e88dbc56ef4'
-p2484
+p2474
 sg13
 S'Red Bulls top MLS table, look toward playoffs - FIFA.com'
-p2485
+p2475
 sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=usa-mls-2000000103/index.html'
-p2486
+p2476
 (imain
 Document
-p2487
-(dp2488
+p2477
+(dp2478
 g6
 S'www.fifa.com/.../nationalleague=usa-mls-2000000103/index.html'
-p2489
+p2479
 sg8
-g2486
+g2476
 sg9
 S'Find out the latest fixtures and results from the USA MLS'
-p2490
+p2480
 sg11
 S'd82f42fc-a672-417f-911f-339221650353'
-p2491
+p2481
 sg13
 S'USA MLS - World Match Centre - FIFA.com'
-p2492
+p2482
 sbsS'http://www.fifa.com/worldcup/news/y=2014/m=7/news=world-cup-run-boosts-mls-2397810.html'
+p2483
+(imain
+Document
+p2484
+(dp2485
+g6
+S'www.fifa.com/.../y=2014/m=7/news=world-cup-run-boosts-mls-2397810.html'
+p2486
+sg8
+g2483
+sg9
+S'There may have been broken hearts and shattered dreams across the United States on Tuesday, but MLS promoters say unprecedented enthusiasm for the national team is ...'
+p2487
+sg11
+S'39d26ce9-7807-4b76-b254-ea7a32151d33'
+p2488
+sg13
+S'World Cup run boosts MLS - FIFA.com'
+p2489
+sbstp2490
+sS'applet'
+p2491
+(I1
+(dp2492
+S'http://www.fifa.com/index.html'
 p2493
 (imain
 Document
 p2494
 (dp2495
 g6
-S'www.fifa.com/.../y=2014/m=7/news=world-cup-run-boosts-mls-2397810.html'
+S'www.fifa.com/index.html'
 p2496
 sg8
 g2493
 sg9
-S'There may have been broken hearts and shattered dreams across the United States on Tuesday, but MLS promoters say unprecedented enthusiasm for the national team is ...'
+S'The FIFA Emergency Committee has decided, in consultation with the AFC, to extend the mandate of the normalisation committee of the Football Association of Maldives ...'
 p2497
 sg11
-S'39d26ce9-7807-4b76-b254-ea7a32151d33'
+S'4a987aaa-813e-4b72-aac1-1dac8c007796'
 p2498
 sg13
-S'World Cup run boosts MLS - FIFA.com'
+VFédération Internationale de Football Association (FIFA ...
 p2499
 sbstp2500
-sS'pacers'
+sS'buffer+code'
 p2501
-(I10
+(I1
 (dp2502
-S'http://www.fifa.com/worldcup/photos/galleries/y=2012/m=6/gallery=leandrinho-barbosa-brazilian-basketball-star-1654665.html'
+S'http://www.fifa.com/worldcup/news/y=2014/m=6/news=close-to-180-000-tickets-for-the-2014-fifa-world-cup-will-be-up-for-sa-2353399.html'
 p2503
 (imain
 Document
 p2504
 (dp2505
 g6
-S'www.fifa.com/worldcup/photos/galleries/y=2012/m=6/gallery=...'
+S'www.fifa.com/worldcup/news/y=2014/m=6/news=close-to-180-000...'
 p2506
 sg8
 g2503
 sg9
-S'Leandrinho Barbosa, Brazilian basketball star Leandrinho Barbosa, Brazilian basketball star. Toggle navigation. About FIFA; Development; Governance; Sustainability'
+VFootball fans have one more chance to experience the 2014 FIFA World Cup Brazil\u2122 live in the 12 stadiums, with approximately 180,000 tickets up for sale beginning ...
 p2507
 sg11
-S'a19ff85d-157d-4513-9c34-81ea138be17a'
+S'e38d6179-5825-4262-9c9c-88ef811db0b8'
 p2508
 sg13
-S'Leandrinho Barbosa, Brazilian basketball star - FIFA.com'
-p2509
-sbsS'http://www.fifa.com/ballon-dor/photos/galleries/y=2012/m=11/gallery=nba-players-talk-about-fifa-ballon-1928928.html'
-p2510
-(imain
-Document
-p2511
-(dp2512
-g6
-S'www.fifa.com/.../m=11/gallery=nba-players-talk-about-fifa-ballon...'
-p2513
-sg8
-g2510
-sg9
-VBrazilian basketball star Leandrinho Barbosa, from the Brazilian National Team and NBA's Indiana Pacers. Credit:Gaspar Nóbrega/Inovafoto/CBB
-p2514
-sg11
-S'fda47212-e699-4d82-b41f-4e8cf247961b'
-p2515
-sg13
-S"NBA players talk about FIFA Ballon d'Or - FIFA.com"
-p2516
-sbsS'http://fr.fifa.com/news/y=2015/m=4/news=l-hebdo-des-bons-mots-2581487.html'
-p2517
-(imain
-Document
-p2518
-(dp2519
-g6
-S'fr.fifa.com/news/y=2015/m=4/news=l-hebdo-des-bons-mots-2581487.html'
-p2520
-sg8
-g2517
-sg9
-VWith all these #Pacers posting pics w/ Messi, don't expect to see one from D. West. Asked if he was going to meet the star: "Who's that?!" \u2014 Candace Buckner ...
-p2521
-sg11
-S'916259da-8b47-42df-bca2-5307bac5a2aa'
-p2522
-sg13
-S"L'hebdo des bons mots - FIFA.com"
-p2523
-sbsS'http://es.fifa.com/news/y=2015/m=3/news=promesas-propuestas-y-un-tipo-flexible-2580381.html'
-p2524
-(imain
-Document
-p2525
-(dp2526
-g6
-S'es.fifa.com/news/y=2015/m=3/news=promesas-propuestas-y-un-tipo...'
-p2527
-sg8
-g2524
-sg9
-VWith all these #Pacers posting pics w/ Messi, don't expect to see one from D. West. Asked if he was going to meet the star: "Who's that?!" \u2014 Candace Buckner ...
-p2528
-sg11
-S'e43be53f-4aec-4ed3-8c6b-f0d106dc918e'
-p2529
-sg13
-S'Promesas, propuestas y ... un tipo flexible - FIFA.com'
-p2530
-sbstp2531
-sS'buffer+code'
-p2532
-(I1
-(dp2533
-S'http://www.fifa.com/worldcup/news/y=2014/m=6/news=close-to-180-000-tickets-for-the-2014-fifa-world-cup-will-be-up-for-sa-2353399.html'
-p2534
-(imain
-Document
-p2535
-(dp2536
-g6
-S'www.fifa.com/worldcup/news/y=2014/m=6/news=close-to-180-000...'
-p2537
-sg8
-g2534
-sg9
-VFootball fans have one more chance to experience the 2014 FIFA World Cup Brazil\u2122 live in the 12 stadiums, with approximately 180,000 tickets up for sale beginning ...
-p2538
-sg11
-S'e38d6179-5825-4262-9c9c-88ef811db0b8'
-p2539
-sg13
 S'Nearly 180,000 World Cup tickets on sale Wednesday - FIFA.com'
-p2540
-sbstp2541
+p2509
+sbstp2510
 sS'aspirin+cholesterol'
-p2542
+p2511
 (I0
-(dp2543
-tp2544
+(dp2512
+tp2513
 sS'avg+league'
-p2545
+p2514
 (I23
-(dp2546
+(dp2515
 S'http://www.fifa.com/worldcup/teams/team=43911/_index_default.html'
+p2516
+(imain
+Document
+p2517
+(dp2518
+g6
+S'www.fifa.com/worldcup/teams/team=43911'
+p2519
+sg8
+g2516
+sg9
+S'All-time Statistics. Top stories. Comments'
+p2520
+sg11
+S'278a29fb-0706-42ea-b3ba-55ec230da22b'
+p2521
+sg13
+V2018 FIFA World Cup Russia\u2122 - Teams - Mexico - FIFA.com
+p2522
+sbsS'http://www.fifa.com/fifa-tournaments/statistics-and-records/index.html'
+p2523
+(imain
+Document
+p2524
+(dp2525
+g6
+S'www.fifa.com/fifa-tournaments/statistics-and-records/index.html'
+p2526
+sg8
+g2523
+sg9
+S"Avg. attendance. 8,894. FIFA U-17 Women's World Cup - Statistics. Women's Olympic Football Tournament. Latest edition. Olympic Football Tournaments London 2012 - Women."
+p2527
+sg11
+S'50882abc-e2b7-4cad-b0c9-0e048f423c87'
+p2528
+sg13
+S'FIFA Tournaments - Statistics and Records - FIFA.com'
+p2529
+sbsS'http://www.fifa.com/mm/document/footballdevelopment/footballturf/01/62/80/23/playingsurfacetechnicalanalysis3.pdf'
+p2530
+(imain
+Document
+p2531
+(dp2532
+g6
+S'www.fifa.com/mm/document/footballdevelopment/footballturf/01/62/80/...'
+p2533
+sg8
+g2530
+sg9
+S'A comparative analysis of Russian Premier League matches played on football turf and natural grass surfaces during 2011 Playing Surface Technical Analysis 3'
+p2534
+sg11
+S'5f91b1dc-ccda-4b72-8ce2-ed188f8c96c1'
+p2535
+sg13
+S'Playing Surface Technical Analysis 3 - FIFA'
+p2536
+sbsS'http://www.fifa.com/fifa-world-ranking/ranking-table/men/index.html'
+p2537
+(imain
+Document
+p2538
+(dp2539
+g6
+S'www.fifa.com/fifa-world-ranking/ranking-table/men'
+p2540
+sg8
+g2537
+sg9
+S'The FIFA/Coca World Ranking - Find out where your team are in the latest standings.'
+p2541
+sg11
+S'4f5dcc1d-48db-4ca4-aa54-8d8735c56623'
+p2542
+sg13
+S'The FIFA/Coca-Cola World Ranking - Ranking Table - FIFA.com'
+p2543
+sbstp2544
+sS'vb'
+p2545
+(I92
+(dp2546
+S'http://www.fifa.com/index.html'
 p2547
 (imain
 Document
 p2548
 (dp2549
 g6
-S'www.fifa.com/worldcup/teams/team=43911'
+S'www.fifa.com/index.html'
 p2550
 sg8
 g2547
 sg9
-S'All-time Statistics. Top stories. Comments'
+S'The FIFA Emergency Committee has decided, in consultation with the AFC, to extend the mandate of the normalisation committee of the Football Association of Maldives ...'
 p2551
 sg11
-S'278a29fb-0706-42ea-b3ba-55ec230da22b'
+S'87378ebc-cbbe-4117-bea3-9174787c0648'
 p2552
 sg13
-V2018 FIFA World Cup Russia\u2122 - Teams - Mexico - FIFA.com
+VFédération Internationale de Football Association (FIFA ...
 p2553
-sbsS'http://www.fifa.com/fifa-tournaments/statistics-and-records/index.html'
+sbsS'http://www.fifa.com/worldcup/index.html'
 p2554
 (imain
 Document
 p2555
 (dp2556
 g6
-S'www.fifa.com/fifa-tournaments/statistics-and-records/index.html'
+S'www.fifa.com/worldcup/index.html'
 p2557
 sg8
 g2554
 sg9
-S"Avg. attendance. 8,894. FIFA U-17 Women's World Cup - Statistics. Women's Olympic Football Tournament. Latest edition. Olympic Football Tournaments London 2012 - Women."
+VThe draw for the 2018 FIFA World Cup\u2122 Preliminary Competition for the African Zone took place on 25 July in Saint Petersburg, Russia.
 p2558
 sg11
-S'50882abc-e2b7-4cad-b0c9-0e048f423c87'
+S'a44e7dbd-2944-4bd2-b462-4577f0dad73e'
 p2559
 sg13
-S'FIFA Tournaments - Statistics and Records - FIFA.com'
+V2018 FIFA World Cup Russia\u2122 - FIFA.com
 p2560
-sbsS'http://www.fifa.com/mm/document/footballdevelopment/footballturf/01/62/80/23/playingsurfacetechnicalanalysis3.pdf'
+sbsS'http://www.fifa.com/worldcup/matches/round=249722/match=300061460/report.html'
 p2561
 (imain
 Document
 p2562
 (dp2563
 g6
-S'www.fifa.com/mm/document/footballdevelopment/footballturf/01/62/80/...'
+S'www.fifa.com/worldcup/matches/round=249722/match=300061460/report.html'
 p2564
 sg8
 g2561
 sg9
-S'A comparative analysis of Russian Premier League matches played on football turf and natural grass surfaces during 2011 Playing Surface Technical Analysis 3'
+V2010 FIFA World Cup South Africa\u2122 - Matches. 2010 FIFA World Cup South Africa\u2122 - Matches. Toggle navigation. About FIFA; Development; Governance; Sustainability
 p2565
 sg11
-S'5f91b1dc-ccda-4b72-8ce2-ed188f8c96c1'
+S'f2e3e6a3-728b-4ffa-896f-c8615c87835a'
 p2566
 sg13
-S'Playing Surface Technical Analysis 3 - FIFA'
+V2010 FIFA World Cup South Africa\u2122 - Matches - FIFA.com
 p2567
-sbsS'http://www.fifa.com/fifa-world-ranking/ranking-table/men/index.html'
+sbsS'http://www.fifa.com/u20worldcup/index.html'
 p2568
 (imain
 Document
 p2569
 (dp2570
 g6
-S'www.fifa.com/fifa-world-ranking/ranking-table/men'
+S'www.fifa.com/u20worldcup'
 p2571
 sg8
 g2568
 sg9
-S'The FIFA/Coca World Ranking - Find out where your team are in the latest standings.'
+S'The Committee for the FIFA U-20 World Cup New Zealand 2015 shall advise and assist the FIFA Executive Committee on all matters relating to the organisation of the ...'
 p2572
 sg11
-S'4f5dcc1d-48db-4ca4-aa54-8d8735c56623'
+S'4649c7b9-2eb7-40a2-a722-23e37307228b'
 p2573
 sg13
-S'The FIFA/Coca-Cola World Ranking - Ranking Table - FIFA.com'
+S'FIFA U-20 World Cup New Zealand 2015 - FIFA.com'
 p2574
 sbstp2575
-sS'ball+league'
+sS'avg+nba'
 p2576
-(I326000
+(I25
 (dp2577
-S'http://search.store.fifa.com/soccer/Adidas-Balls'
+S'http://www.fifa.com/mm/document/affederation/administration/01/39/20/45/web_fifa_fr2010_eng[1].pdf'
 p2578
 (imain
 Document
 p2579
 (dp2580
 g6
-S'search.store.fifa.com/soccer/Adidas-Balls'
+S'www.fifa.com/mm/document/affederation/administration/01/39/20/45/...'
 p2581
 sg8
 g2578
 sg9
-V\u2026Brazuca Top Glider Ball from adidas. Vibrant colors on the ball reflect those of the Brazilian flag as well as the official logo of the FIFA World Cup.
+V2010 FIFA World Cup\u2122 \ufb01 nancial overview 36 ... The average number of employees during the year ending 31 December 2010 was 387 (2009: 361).
 p2582
 sg11
-S'0c4c22e8-9a6d-4404-9cc1-d683dc2300b8'
+S'f511df01-43a5-470a-a991-190b3e7e9ee3'
 p2583
 sg13
-S'Adidas Balls on FIFA Store'
+S'FIFA Congress FIFA Financial Report 2010'
 p2584
-sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=mexico-1a-division-2000000104/photos/272/949/7/picture.html'
+sbsS'http://www.fifa.com/mm/document/tournament/competition/02/44/29/89/fifaworldcupinnumbers%5f120714%5fv7%5feng%5fneutral.pdf'
 p2585
 (imain
 Document
 p2586
 (dp2587
 g6
-S'www.fifa.com/world-match-centre/nationalleagues/nationalleague=...'
+S'www.fifa.com/mm/document/tournament/competition/02/44/29/89...'
 p2588
 sg8
 g2585
 sg9
-S'Antonio Rios (R) of Toluca vies for the ball with Darwin Quintero of America during their Mexican Apertura tournament football match at the Nemesio Diez stadium in ...'
+VPowerade (average bottle size of 500ml), ... \u201cWatershed\u201d moment for football in the United States \u2013 beat TV viewing figures for 2014 NBA
 p2589
 sg11
-S'89f62e2f-1209-40af-9092-066b6a70c5c2'
+S'18ccc3ac-852a-4cca-9392-104cb8689c08'
 p2590
 sg13
-S'Antonio Rios (R) of Toluca vies for the ball with Darwin ...'
+S'Portrait Event Template - FIFA'
 p2591
-sbsS'http://search.store.fifa.com/soccer/Official-Match-Balls'
+sbsS'http://www.fifa.com/fifa-tournaments/statistics-and-records/index.html'
 p2592
 (imain
 Document
 p2593
 (dp2594
 g6
-S'search.store.fifa.com/soccer/Official-Match-Balls'
+S'www.fifa.com/fifa-tournaments/statistics-and-records/index.html'
 p2595
 sg8
 g2592
 sg9
-V\u2026a ball worthy of the women's world championship. This is that ball for 2015. This is the adidas Conext15, the official ball for the 2015 FIFA Women's World Cup ...
+S"Avg. attendance. 8,894. FIFA U-17 Women's World Cup - Statistics. Women's Olympic Football Tournament. Latest edition. Olympic Football Tournaments London 2012 - Women."
 p2596
 sg11
-S'a5de57db-6985-4327-9afe-5be331b23aa6'
+S'c13e81f5-493e-4899-bbca-4b14fe39dc9b'
 p2597
 sg13
-S'Official Match Balls on FIFA Store'
+S'FIFA Tournaments - Statistics and Records - FIFA.com'
 p2598
-sbsS'http://search.store.fifa.com/soccer/Official-Ball'
+sbsS'http://www.fifa.com/fifa-tournaments/statistics-and-records/worldcup/index.html'
 p2599
 (imain
 Document
 p2600
 (dp2601
 g6
-S'search.store.fifa.com/soccer/Official-Ball'
+S'www.fifa.com/fifa-tournaments/statistics-and-records/worldcup/...'
 p2602
 sg8
 g2599
 sg9
-S'The official 2014 Brazuca Top Glider Ball from adidas. Vibrant colors on the ball reflect those of the Brazilian flag as well as the official logo of the FIFA World Cup.'
+S'Average Goals Avg. attendance; 2014 FIFA World Cup Brazil ...'
 p2603
 sg11
-S'484d4b73-fdce-46a2-be9e-45862eee0b8c'
+S'c85a5549-ff8d-4ba7-b9e5-20f7a66b592d'
 p2604
 sg13
-S'Official Ball on FIFA Store'
+VStatistics and Records - FIFA World Cup\u2122 - FIFA.com
 p2605
 sbstp2606
-sS'avg+nba'
+sS'juventus'
 p2607
-(I25
+(I11600
 (dp2608
-S'http://www.fifa.com/fifa-tournaments/statistics-and-records/worldcup/index.html'
+S'http://www.fifa.com/world-match-centre/uefachampionsleague/photos/273/010/2/picture.html'
 p2609
 (imain
 Document
 p2610
 (dp2611
 g6
-S'www.fifa.com/fifa-tournaments/statistics-and-records/worldcup/...'
+S'www.fifa.com/world-match-centre/uefachampionsleague/photos/273/010/...'
 p2612
 sg8
 g2609
 sg9
-S'Average Goals Avg. attendance; 2014 FIFA World Cup Brazil ...'
+S'MOENCHENGLADBACH, GERMANY - NOVEMBER 03: Hernanes and Paul Pogba of Juventus battle with Granit Xhaka and Havard Nordtveit (6) of Borussia Moenchengladbach during the ...'
 p2613
 sg11
-S'c85a5549-ff8d-4ba7-b9e5-20f7a66b592d'
+S'034015c6-dd40-4b7a-afca-944c5d34f72b'
 p2614
 sg13
-VStatistics and Records - FIFA World Cup\u2122 - FIFA.com
+S'Hernanes and Paul Pogba of Juventus battle with Granit ...'
 p2615
-sbsS'http://www.fifa.com/mm/document/tournament/competition/02/44/29/89/fifaworldcupinnumbers%5f120714%5fv7%5feng%5fneutral.pdf'
+sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=italy-serie-a-2000000026/news/newsid/272/384/4/index.html'
 p2616
 (imain
 Document
 p2617
 (dp2618
 g6
-S'www.fifa.com/mm/document/tournament/competition/02/44/29/89...'
+S'www.fifa.com/world-match-centre/nationalleagues/nationalleague...'
 p2619
 sg8
 g2616
 sg9
-VPowerade (average bottle size of 500ml), ... \u201cWatershed\u201d moment for football in the United States \u2013 beat TV viewing figures for 2014 NBA
+S'Inter Milan edged Roma 1-0 to snatch top spot in Serie A while Colombian winger Juan Cuadrado hit an injury-time winner to give champions Juventus a 2-1 win over city ...'
 p2620
 sg11
-S'18ccc3ac-852a-4cca-9392-104cb8689c08'
+S'faf80a53-5569-4a81-87f8-e4ac14653db5'
 p2621
 sg13
-S'Portrait Event Template - FIFA'
+S'Inter down ten-man Roma, Juve win Turin derby - FIFA.com'
 p2622
-sbsS'http://www.fifa.com/fifa-tournaments/statistics-and-records/index.html'
+sbsS'http://fr.fifa.com/world-match-centre/clubs/club=italy-juventus-31085/index.html'
 p2623
 (imain
 Document
 p2624
 (dp2625
 g6
-S'www.fifa.com/fifa-tournaments/statistics-and-records/index.html'
+S'fr.fifa.com/world-match-centre/clubs/club=italy-juventus-31085/...'
 p2626
 sg8
 g2623
 sg9
-S"Avg. attendance. 8,894. FIFA U-17 Women's World Cup - Statistics. Women's Olympic Football Tournament. Latest edition. Olympic Football Tournaments London 2012 - Women."
+VConsultez les dernières informations concernant Juventus ... Dortmund va gagner avec un triplé de REUS le meilleur joueur du monde !
 p2627
 sg11
-S'c13e81f5-493e-4899-bbca-4b14fe39dc9b'
+S'56434b9d-48a8-4dae-9e85-7ab3ef955e0b'
 p2628
 sg13
-S'FIFA Tournaments - Statistics and Records - FIFA.com'
+S'Juventus - Football mondial - FIFA.com'
 p2629
-sbsS'http://www.fifa.com/mm/document/affederation/administration/01/39/20/45/web_fifa_fr2010_eng[1].pdf'
+sbsS'http://www.fifa.com/world-match-centre/clubs/club=italy-juventus-31085/index.html'
 p2630
 (imain
 Document
 p2631
 (dp2632
 g6
-S'www.fifa.com/mm/document/affederation/administration/01/39/20/45/...'
+S'www.fifa.com/world-match-centre/clubs/club=italy-juventus-31085/...'
 p2633
 sg8
 g2630
 sg9
-V2010 FIFA World Cup\u2122 \ufb01 nancial overview 36 ... The average number of employees during the year ending 31 December 2010 was 387 (2009: 361).
+S"Find out the latest information of Juventus ... Juve are on a fabulous run in the champions league so let's keep that going"
 p2634
 sg11
-S'f511df01-43a5-470a-a991-190b3e7e9ee3'
+S'c90d041d-685e-4578-a84a-c982e1928035'
 p2635
 sg13
-S'FIFA Congress FIFA Financial Report 2010'
+S'Juventus - World Match Centre - FIFA.com'
 p2636
 sbstp2637
 sS'argument'
@@ -7579,89 +7579,89 @@ sg13
 VShaqiri: "Hitzfeld marcó un antes y un después" - FIFA.com
 p2794
 sbstp2795
-sS'alias'
+sS'premiership'
 p2796
-(I8730
+(I40200
 (dp2797
-S'http://de.fifa.com/world-match-centre/nationalleagues/nationalleague=spain-liga-2000000037/photos/270/905/9/picture.html'
+S'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=south-africa-premiership-2000000053/matches/calendar.html'
 p2798
 (imain
 Document
 p2799
 (dp2800
 g6
-S'de.fifa.com/world-match-centre/nationalleagues/nationalleague=...'
+S'www.fifa.com/...africa-premiership-2000000053/matches/calendar.html'
 p2801
 sg8
 g2798
 sg9
-S'SEVILLE, SPAIN - OCTOBER 03: Goalkeeper Sergio Rico (L) of Sevilla FC embraces his teammate Jorge Andujar Moreno alias Coke (R) after winning the La Liga match ...'
+S'Check ot the calendar of matches from the South Africa Premiership'
 p2802
 sg11
-S'a5741456-241a-465d-9a17-3cb06c11ab44'
+S'3468e2e8-cc94-4c61-8c77-8c18c013a863'
 p2803
 sg13
-S'Goalkeeper Sergio Rico (L) of Sevilla FC embraces his ...'
+S'South Africa Premiership: Fixtures and Results - World ...'
 p2804
-sbsS'http://www.fifa.com/world-match-centre/photos/269/036/3/picture.html'
+sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=northern-ireland-premiership-2000000003/matches/calendar.html'
 p2805
 (imain
 Document
 p2806
 (dp2807
 g6
-S'www.fifa.com/world-match-centre/photos/269/036/3/picture.html'
+S'www.fifa.com/world-match-centre/nationalleagues/nationalleague=...'
 p2808
 sg8
 g2805
 sg9
-S'MADRID, SPAIN - AUGUST 22: Nicolas Fedor Flores alias Miku (L) of Rayo Vallecano de Madrid competes for the ball with Ruben Vezo (R) of Valencia CF during the La Liga ...'
+S'Check ot the calendar of matches from the Northern Ireland Premiership'
 p2809
 sg11
-S'3a197447-928c-4c08-aac4-8eeae54ebcf2'
+S'8355d880-f9d0-4026-b322-db0fb8cf3a16'
 p2810
 sg13
-S'Nicolas Fedor Flores alias Miku (L) of Rayo Vallecano de ...'
+S'Northern Ireland Premiership: Fixtures and Results - World ...'
 p2811
-sbsS'http://es.fifa.com/world-match-centre/photos/267/278/4/picture.html'
+sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=new-zealand-premiership-2000000123/index.html'
 p2812
 (imain
 Document
 p2813
 (dp2814
 g6
-S'es.fifa.com/world-match-centre/photos/267/278/4/picture.html'
+S'www.fifa.com/world-match-centre/...premiership-2000000123/index.html'
 p2815
 sg8
 g2812
 sg9
-S'MADRID, SPAIN - AUGUST 22: Mateus Alberto Contreiras alias Manucho (2ndL) of Rayo Vallecano de Madrid competes for the ball with Ruben Vezo (L) of Valencia CF and his ...'
+S'Find out the latest fixtures and results from the New Zealand Premiership'
 p2816
 sg11
-S'bd393941-31df-4716-9f66-a89520b98e44'
+S'8d198f08-3a08-43a7-8c13-e9263dcd27cb'
 p2817
 sg13
-S'Mateus Alberto Contreiras alias Manucho (2ndL) of Rayo ...'
+S'New Zealand Premiership - World Match Centre - FIFA.com'
 p2818
-sbsS'http://es.fifa.com/world-match-centre/nationalleagues/nationalleague=spain-liga-2000000037/photos/270/905/9/picture.html'
+sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=northern-ireland-premiership-2000000003/standings/index.html'
 p2819
 (imain
 Document
 p2820
 (dp2821
 g6
-S'es.fifa.com/world-match-centre/nationalleagues/nationalleague=...'
+S'www.fifa.com/.../standings/index.html'
 p2822
 sg8
 g2819
 sg9
-S'SEVILLE, SPAIN - OCTOBER 03: Goalkeeper Sergio Rico (L) of Sevilla FC embraces his teammate Jorge Andujar Moreno alias Coke (R) after winning the La Liga match ...'
+S'Check out the latest standings from the Northern Ireland Premiership'
 p2823
 sg11
-S'11406db5-5cb7-40ad-a102-5d3dd47cd034'
+S'bcdf22e6-688b-4919-b614-c727df813068'
 p2824
 sg13
-S'Goalkeeper Sergio Rico (L) of Sevilla FC embraces his ...'
+S'Northern Ireland Premiership: Standings - World Match ...'
 p2825
 sbstp2826
 sS'exercise+protein'
@@ -7708,45 +7708,45 @@ p2841
 sg13
 S'Vitamins, minerals and anti-oxidants for training and ...'
 p2842
-sbsS'http://www.fifa.com/mm/document/footballdevelopment/medical/51/55/15/nutritionbooklet_neue2010.pdf'
+sbsS'http://www.fifa.com/mm/document/afdeveloping/medical/4.5%20supplements%20p%2022-24%5f1492.pdf'
 p2843
 (imain
 Document
 p2844
 (dp2845
 g6
-S'www.fifa.com/mm/document/footballdevelopment/medical/51/55/15/...'
+S'www.fifa.com/mm/document/afdeveloping/medical/4.5%20supplements%20p...'
 p2846
 sg8
 g2843
 sg9
-S'a very efficient physical exercise and to also ... 20 NUTRITION FOR FOOTBALL | ProtEiN NEEdS NUTRITION FOR FOOTBALL | VitaMiNS, MiNEralS aNd aNti-oxidaNtS 21'
+S'Protein powders and supplements Protein supplements, high protein bars and amino acid ... of a post-exercise recovery plan, but the whole proteins'
 p2847
 sg11
-S'3308900a-88b8-41a1-a84f-ee082a53f8f3'
+S'02e65073-9f98-4929-bbd9-8e5c6a223d57'
 p2848
 sg13
-VF-MARC Nutrition Guide for Football \u2013 FIFA
+S'Supplements and sports foods - FIFA'
 p2849
-sbsS'http://www.fifa.com/mm/document/afdeveloping/medical/4.5%20supplements%20p%2022-24%5f1492.pdf'
+sbsS'http://www.fifa.com/mm/document/footballdevelopment/medical/51/55/15/nutritionbooklet_neue2010.pdf'
 p2850
 (imain
 Document
 p2851
 (dp2852
 g6
-S'www.fifa.com/mm/document/afdeveloping/medical/4.5%20supplements%20p...'
+S'www.fifa.com/mm/document/footballdevelopment/medical/51/55/15/...'
 p2853
 sg8
 g2850
 sg9
-S'Protein powders and supplements Protein supplements, high protein bars and amino acid ... of a post-exercise recovery plan, but the whole proteins'
+S'a very efficient physical exercise and to also ... 20 NUTRITION FOR FOOTBALL | ProtEiN NEEdS NUTRITION FOR FOOTBALL | VitaMiNS, MiNEralS aNd aNti-oxidaNtS 21'
 p2854
 sg11
-S'02e65073-9f98-4929-bbd9-8e5c6a223d57'
+S'3308900a-88b8-41a1-a84f-ee082a53f8f3'
 p2855
 sg13
-S'Supplements and sports foods - FIFA'
+VF-MARC Nutrition Guide for Football \u2013 FIFA
 p2856
 sbstp2857
 sS'avi+file'
@@ -8639,89 +8639,89 @@ sg13
 S"2014 FIFA World Cup Brazil Men's Jackets"
 p3185
 sbstp3186
-sS'hooliganism'
+sS'diabetes'
 p3187
-(I22
+(I88
 (dp3188
-S'http://www.fifa.com/sustainability/news/y=2004/m=7/news=football-building-bridges-and-saving-lives-93227.html'
+S'http://www.fifa.com/development/medical/football-for-health/11-for-health/mauritius.html'
 p3189
 (imain
 Document
 p3190
 (dp3191
 g6
-S'www.fifa.com/sustainability/news/y=2004/m=7/news=football-building...'
+S'www.fifa.com/development/medical/football-for-health/11-for-health/...'
 p3192
 sg8
 g3189
 sg9
-S'Sporadic incidents of hooliganism, racism and foul play have sometimes cast the game of football in a negative light. But few activities have had such a positive ...'
+S'Since diabetes represents a major health threat in Mauritius, ...'
 p3193
 sg11
-S'5d25f16a-b35a-4ad8-aab0-040631d095dd'
+S'2a344a30-5384-41b7-8a13-b0f39798d7f6'
 p3194
 sg13
-S'Football, building bridges and saving lives - FIFA.com'
+S"Players' Health - The 11 for Health - Mauritius - FIFA.com"
 p3195
-sbsS'http://www.fifa.com/fifa-tournaments/classic-stadiums/stadium=33521/index.html'
+sbsS'http://www.fifa.com/mm/document/afdeveloping/medical/6.11.2.%20cortisone%20in%20football%20-blessing%20or%20curse,kgr%5f1514.pdf'
 p3196
 (imain
 Document
 p3197
 (dp3198
 g6
-S'www.fifa.com/fifa-tournaments/classic-stadiums/stadium=33521/index...'
+S'www.fifa.com/mm/document/afdeveloping/medical/6.11.2.%20cortisone...'
 p3199
 sg8
 g3196
 sg9
-S'With the rise of hooliganism in Britain in the early 1970s, ...'
+S'Due to the formation of glucose, diabetes can develop or worsen. The amount of protein is reduced particularly in the muscles, bone and skin.'
 p3200
 sg11
-S'1dd4cf64-5f7d-473c-932f-bd3a3b8928b7'
+S'e9caf736-907e-45c1-a0b0-a0521e20fd92'
 p3201
 sg13
-S'Tournaments - Classic Stadiums - FIFA.com'
+VCortisone in football \u2013 blessing or curse? What are ...
 p3202
-sbsS'http://www.fifa.com/about-fifa/news/y=1999/m=5/news=giving-violence-70889.html'
+sbsS'http://www.fifa.com/development/news/y=2015/m=8/news=fifa-11-for-health-launched-in-puerto-rico-2671712.html'
 p3203
 (imain
 Document
 p3204
 (dp3205
 g6
-S'www.fifa.com/about-fifa/news/y=1999/m=5/news=giving-violence-70889...'
+S'www.fifa.com/development/news/y=2015/m=8/news=fifa-11-for-health...'
 p3206
 sg8
 g3203
 sg9
-S'Read all the latest news from the FIFA organisation, including the FIFA President, Football Development and projects.'
+S'... programme that teaches children how to live a healthy life and avoid major health threats such as HIV, obesity, diabetes and cardiovascular disease.'
 p3207
 sg11
-S'741c1684-6ae2-470d-bdc9-efb1d78195db'
+S'cee70fea-ccb6-4161-a0fd-98cb2303cd5f'
 p3208
 sg13
-S'Giving in to violence? - FIFA.com'
+VFIFA 11 for Health\u2019 launched in Puerto Rico - FIFA.com
 p3209
-sbsS'http://www.fifa.com/about-fifa/news/y=2013/m=5/news=ceremony-extolling-universal-values-2088952.html'
+sbsS'http://www.fifa.com/mm/document/afdeveloping/medical/1.%5ffootball%5ffor%5fhealth%5fenglish%5f1613.pdf'
 p3210
 (imain
 Document
 p3211
 (dp3212
 g6
-S'www.fifa.com/about-fifa/news/y=2013/m=5/news=ceremony-extolling...'
+S'www.fifa.com/mm/document/afdeveloping/medical/1._football_for...'
 p3213
 sg8
 g3210
 sg9
-S'Major issues such as hooliganism, racism, match fixing will be debated here, and I hope we will help steer back the FIFA boat in clearer waters."'
+S'4466 MARCH 2007 MARCH 2007 magazine 4477 rates of obesity, hypertension, diabetes and other civilisation diseases in many countries in Africa, Asia, South America'
 p3214
 sg11
-S'5e6ab4be-f409-4121-a861-68c832810fca'
+S'44b354a9-569d-434d-89ec-ed3a738147c5'
 p3215
 sg13
-S'A ceremony extolling universal values - FIFA.com'
+S'FOOTBALL FOR HEALTH'
 p3216
 sbstp3217
 sS'alloc'
@@ -8729,174 +8729,174 @@ p3218
 (I0
 (dp3219
 tp3220
-sS'cpu'
+sS'uefa'
 p3221
-(I28
+(I218000
 (dp3222
-S'http://www.fifa.com/clubworldcup/index.html'
+S'http://www.fifa.com/world-match-centre/uefachampionsleague/index.html'
 p3223
 (imain
 Document
 p3224
 (dp3225
 g6
-S'www.fifa.com/clubworldcup/index.html'
+S'www.fifa.com/world-match-centre/uefachampionsleague/index.html'
 p3226
 sg8
 g3223
 sg9
-S'Morocco 2014. FIFA Partners. Event Sponsors. Clubs. Ticketing. Destination. Discover Japan Organisation. Committees; Official Documents; English. English; Deutsch ...'
+S'Find out the latest information of the UEFA Champions League'
 p3227
 sg11
-S'f824e943-6cf0-442a-8ade-224fa06d3cde'
+S'b20960bc-ff03-43da-a148-35b679356ae9'
 p3228
 sg13
-S'FIFA Club World Cup Japan 2015 - FIFA.com'
+S'UEFA Champions League - World Match Centre - FIFA.com'
 p3229
-sbsS'http://www.fifa.com/u17worldcup/index.html'
+sbsS'http://www.fifa.com/world-match-centre/uefachampionsleague/standings/index.html'
 p3230
 (imain
 Document
 p3231
 (dp3232
 g6
-S'www.fifa.com/u17worldcup'
+S'www.fifa.com/world-match-centre/uefachampionsleague/standings/...'
 p3233
 sg8
 g3230
 sg9
-S'A total of 52 games will be played to decide the winner of the FIFA U-17 World Cup. See when and where the action will be taking place.'
+S'UEFA Champions League 2015/2016. Overview; Fixtures and Results; Standings; Top Scorers; 00 Live Matches'
 p3234
 sg11
-S'079df3e7-47da-49cf-b1aa-ba375cad65bb'
+S'8f7afdf0-3393-4ee0-9eca-fc8e445810e8'
 p3235
 sg13
-S'FIFA U-17 World Cup Chile 2015 - FIFA.com'
+S'UEFA Champions League: Standings - World Match Centre ...'
 p3236
-sbsS'http://www.fifa.com/worldcup/groups/group=255947/index.html'
+sbsS'http://www.fifa.com/world-match-centre/uefachampionsleague/matches/calendar.html'
 p3237
 (imain
 Document
 p3238
 (dp3239
 g6
-S'www.fifa.com/worldcup/groups/group=255947/index.html'
+S'www.fifa.com/world-match-centre/uefachampionsleague/matches/...'
 p3240
 sg8
 g3237
 sg9
-S'Group Group H Groups and standings of the 2014 FIFA World Cup'
+S'Find out the latest fixtures and results of the UEFA Champions League'
 p3241
 sg11
-S'b6172b8d-7d13-4621-9073-4d9b2ad93c26'
+S'c6ca2469-4067-40af-9be2-2927e0175863'
 p3242
 sg13
-V2014 FIFA World Cup\u2122 - Group H - FIFA.com
+S'UEFA Champions League: Fixtures and Results - FIFA.com'
 p3243
-sbsS'http://www.fifa.com/worldcup/news/y=2014/m=7/news=estrategias-para-los-doce-pasos-2401168-2401321.html'
+sbsS'http://www.fifa.com/fifa-world-ranking/ranking-table/men/index.html'
 p3244
 (imain
 Document
 p3245
 (dp3246
 g6
-S'www.fifa.com/worldcup/news/y=2014/m=7/news=estrategias-para-los...'
+S'www.fifa.com/fifa-world-ranking/ranking-table/men'
 p3247
 sg8
 g3244
 sg9
-S'Victor himself has penalty pedigree, having helped Atletico Mineiro to victory in two shoot-outs on the way to claiming the 2013 Copa Libertadores.'
+S'The FIFA/Coca World Ranking - Find out where your team are in the latest standings.'
 p3248
 sg11
-S'e0283aa4-fa04-418d-882c-f041aa57fcdc'
+S'729c1aae-b619-4f91-bb87-ddd03b6fbb12'
 p3249
 sg13
-S'Penalty tips and strategies - FIFA.com'
+S'The FIFA/Coca-Cola World Ranking - Ranking Table - FIFA.com'
 p3250
 sbstp3251
-sS'premiership'
+sS'alias'
 p3252
-(I40200
+(I8730
 (dp3253
-S'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=south-africa-premiership-2000000053/matches/calendar.html'
+S'http://de.fifa.com/world-match-centre/nationalleagues/nationalleague=spain-liga-2000000037/photos/270/905/9/picture.html'
 p3254
 (imain
 Document
 p3255
 (dp3256
 g6
-S'www.fifa.com/...africa-premiership-2000000053/matches/calendar.html'
+S'de.fifa.com/world-match-centre/nationalleagues/nationalleague=...'
 p3257
 sg8
 g3254
 sg9
-S'Check ot the calendar of matches from the South Africa Premiership'
+S'SEVILLE, SPAIN - OCTOBER 03: Goalkeeper Sergio Rico (L) of Sevilla FC embraces his teammate Jorge Andujar Moreno alias Coke (R) after winning the La Liga match ...'
 p3258
 sg11
-S'3468e2e8-cc94-4c61-8c77-8c18c013a863'
+S'a5741456-241a-465d-9a17-3cb06c11ab44'
 p3259
 sg13
-S'South Africa Premiership: Fixtures and Results - World ...'
+S'Goalkeeper Sergio Rico (L) of Sevilla FC embraces his ...'
 p3260
-sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=northern-ireland-premiership-2000000003/matches/calendar.html'
+sbsS'http://es.fifa.com/world-match-centre/nationalleagues/nationalleague=spain-liga-2000000037/photos/270/905/9/picture.html'
 p3261
 (imain
 Document
 p3262
 (dp3263
 g6
-S'www.fifa.com/world-match-centre/nationalleagues/nationalleague=...'
+S'es.fifa.com/world-match-centre/nationalleagues/nationalleague=...'
 p3264
 sg8
 g3261
 sg9
-S'Check ot the calendar of matches from the Northern Ireland Premiership'
+S'SEVILLE, SPAIN - OCTOBER 03: Goalkeeper Sergio Rico (L) of Sevilla FC embraces his teammate Jorge Andujar Moreno alias Coke (R) after winning the La Liga match ...'
 p3265
 sg11
-S'8355d880-f9d0-4026-b322-db0fb8cf3a16'
+S'11406db5-5cb7-40ad-a102-5d3dd47cd034'
 p3266
 sg13
-S'Northern Ireland Premiership: Fixtures and Results - World ...'
+S'Goalkeeper Sergio Rico (L) of Sevilla FC embraces his ...'
 p3267
-sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=new-zealand-premiership-2000000123/index.html'
+sbsS'http://es.fifa.com/world-match-centre/photos/267/278/4/picture.html'
 p3268
 (imain
 Document
 p3269
 (dp3270
 g6
-S'www.fifa.com/world-match-centre/...premiership-2000000123/index.html'
+S'es.fifa.com/world-match-centre/photos/267/278/4/picture.html'
 p3271
 sg8
 g3268
 sg9
-S'Find out the latest fixtures and results from the New Zealand Premiership'
+S'MADRID, SPAIN - AUGUST 22: Mateus Alberto Contreiras alias Manucho (2ndL) of Rayo Vallecano de Madrid competes for the ball with Ruben Vezo (L) of Valencia CF and his ...'
 p3272
 sg11
-S'8d198f08-3a08-43a7-8c13-e9263dcd27cb'
+S'bd393941-31df-4716-9f66-a89520b98e44'
 p3273
 sg13
-S'New Zealand Premiership - World Match Centre - FIFA.com'
+S'Mateus Alberto Contreiras alias Manucho (2ndL) of Rayo ...'
 p3274
-sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=northern-ireland-premiership-2000000003/standings/index.html'
+sbsS'http://www.fifa.com/world-match-centre/photos/269/036/3/picture.html'
 p3275
 (imain
 Document
 p3276
 (dp3277
 g6
-S'www.fifa.com/.../standings/index.html'
+S'www.fifa.com/world-match-centre/photos/269/036/3/picture.html'
 p3278
 sg8
 g3275
 sg9
-S'Check out the latest standings from the Northern Ireland Premiership'
+S'MADRID, SPAIN - AUGUST 22: Nicolas Fedor Flores alias Miku (L) of Rayo Vallecano de Madrid competes for the ball with Ruben Vezo (R) of Valencia CF during the La Liga ...'
 p3279
 sg11
-S'bcdf22e6-688b-4919-b614-c727df813068'
+S'3a197447-928c-4c08-aac4-8eeae54ebcf2'
 p3280
 sg13
-S'Northern Ireland Premiership: Standings - World Match ...'
+S'Nicolas Fedor Flores alias Miku (L) of Rayo Vallecano de ...'
 p3281
 sbstp3282
 sS'algorithms'
@@ -8944,89 +8944,89 @@ sg13
 S'FS-299 01A world-stars - FIFA'
 p3298
 sbstp3299
-sS'juventus'
+sS'ball+referee'
 p3300
-(I11600
+(I255000
 (dp3301
-S'http://www.fifa.com/world-match-centre/uefachampionsleague/photos/273/010/2/picture.html'
+S'http://www.fifa.com/mm/document/afdeveloping/refereeing/law%5f5%5fthe%5freferee%5fen%5f47411.pdf'
 p3302
 (imain
 Document
 p3303
 (dp3304
 g6
-S'www.fifa.com/world-match-centre/uefachampionsleague/photos/273/010/...'
+S'www.fifa.com/mm/document/afdeveloping/refereeing/law_5_the_referee...'
 p3305
 sg8
 g3302
 sg9
-S'MOENCHENGLADBACH, GERMANY - NOVEMBER 03: Hernanes and Paul Pogba of Juventus battle with Granit Xhaka and Havard Nordtveit (6) of Borussia Moenchengladbach during the ...'
+V3 Powers and Duties \u201cThe referee enforces the Laws of the Game\u201d the Referee is authorised to stop play, if in his opinion, the floodlights are inadequate
 p3306
 sg11
-S'034015c6-dd40-4b7a-afca-944c5d34f72b'
+S'd38c86d2-2058-44ac-81f8-5c36507ac9f8'
 p3307
 sg13
-S'Hernanes and Paul Pogba of Juventus battle with Granit ...'
+S'FIFA The Referee - Law 5 of the Game.'
 p3308
-sbsS'http://www.fifa.com/world-match-centre/nationalleagues/nationalleague=italy-serie-a-2000000026/news/newsid/272/384/4/index.html'
+sbsS'http://www.fifa.com/mm/document/afdeveloping/refereeing/law%5f12%5ffouls%5fmisconduct%5fen%5f47379.pdf'
 p3309
 (imain
 Document
 p3310
 (dp3311
 g6
-S'www.fifa.com/world-match-centre/nationalleagues/nationalleague...'
+S'www.fifa.com/mm/document/afdeveloping/refereeing/law_12_fouls...'
 p3312
 sg8
 g3309
 sg9
-S'Inter Milan edged Roma 1-0 to snatch top spot in Serie A while Colombian winger Juan Cuadrado hit an injury-time winner to give champions Juventus a 2-1 win over city ...'
+S'the distance between the opponent and the ball (unexpected ball) ... area the referee restart play with a penalty kick. 75 Offences where an object is thrown'
 p3313
 sg11
-S'faf80a53-5569-4a81-87f8-e4ac14653db5'
+S'226e1b7c-3484-4484-bbef-6668970ca6fe'
 p3314
 sg13
-S'Inter down ten-man Roma, Juve win Turin derby - FIFA.com'
+S'Law 12 - Fouls and Misconduct - FIFA'
 p3315
-sbsS'http://fr.fifa.com/world-match-centre/clubs/club=italy-juventus-31085/index.html'
+sbsS'http://www.fifa.com/mm/document/footballdevelopment/refereeing/81/42/36/log2013en_neutral.pdf'
 p3316
 (imain
 Document
 p3317
 (dp3318
 g6
-S'fr.fifa.com/world-match-centre/clubs/club=italy-juventus-31085/...'
+S'www.fifa.com/mm/document/footballdevelopment/refereeing/...neutral.pdf'
 p3319
 sg8
 g3316
 sg9
-VConsultez les dernières informations concernant Juventus ... Dortmund va gagner avec un triplé de REUS le meilleur joueur du monde !
+VCONTENTS 5 Page Law 6 1 \u2013 The Field of Play 15 2 \u2013 The Ball 17 3 \u2013 The Number of Players 21 4 \u2013 The Players\u2019 Equipment 24 5 \u2013 The Referee
 p3320
 sg11
-S'56434b9d-48a8-4dae-9e85-7ab3ef955e0b'
+S'c96cfab0-41b5-4b0d-843b-7b18e4a70632'
 p3321
 sg13
-S'Juventus - Football mondial - FIFA.com'
+S'Laws of the game 2013-14 - FIFA'
 p3322
-sbsS'http://www.fifa.com/world-match-centre/clubs/club=italy-juventus-31085/index.html'
+sbsS'http://www.fifa.com/mm/document/afdeveloping/refereeing/law%5f9%5fthe%5fball%5fin%5fand%5fout%5fplay%5fen%5f47392.pdf'
 p3323
 (imain
 Document
 p3324
 (dp3325
 g6
-S'www.fifa.com/world-match-centre/clubs/club=italy-juventus-31085/...'
+S'www.fifa.com/mm/document/afdeveloping/refereeing/law_9_the_ball_in...'
 p3326
 sg8
 g3323
 sg9
-S"Find out the latest information of Juventus ... Juve are on a fabulous run in the champions league so let's keep that going"
+S'3 The ball inside the field touches a person other than a player If, when the ball is in play, it touches the referee or an assistant referee who is temporary on the ...'
 p3327
 sg11
-S'c90d041d-685e-4578-a84a-c982e1928035'
+S'b52a4e8a-ec25-458c-bbb9-781da98bb0fe'
 p3328
 sg13
-S'Juventus - World Match Centre - FIFA.com'
+S'Law 9 - The Ball In and Out of Play - FIFA'
 p3329
 sbstp3330
 sS'eating+fat'
@@ -9114,89 +9114,89 @@ sg13
 S'Energy demands and body fat - FIFA.com'
 p3360
 sbstp3361
-sS'uefa'
+sS'cpu'
 p3362
-(I218000
+(I28
 (dp3363
-S'http://www.fifa.com/world-match-centre/uefachampionsleague/index.html'
+S'http://www.fifa.com/clubworldcup/index.html'
 p3364
 (imain
 Document
 p3365
 (dp3366
 g6
-S'www.fifa.com/world-match-centre/uefachampionsleague/index.html'
+S'www.fifa.com/clubworldcup/index.html'
 p3367
 sg8
 g3364
 sg9
-S'Find out the latest information of the UEFA Champions League'
+S'Morocco 2014. FIFA Partners. Event Sponsors. Clubs. Ticketing. Destination. Discover Japan Organisation. Committees; Official Documents; English. English; Deutsch ...'
 p3368
 sg11
-S'b20960bc-ff03-43da-a148-35b679356ae9'
+S'f824e943-6cf0-442a-8ade-224fa06d3cde'
 p3369
 sg13
-S'UEFA Champions League - World Match Centre - FIFA.com'
+S'FIFA Club World Cup Japan 2015 - FIFA.com'
 p3370
-sbsS'http://www.fifa.com/world-match-centre/uefachampionsleague/standings/index.html'
+sbsS'http://www.fifa.com/u17worldcup/index.html'
 p3371
 (imain
 Document
 p3372
 (dp3373
 g6
-S'www.fifa.com/world-match-centre/uefachampionsleague/standings/...'
+S'www.fifa.com/u17worldcup'
 p3374
 sg8
 g3371
 sg9
-S'UEFA Champions League 2015/2016. Overview; Fixtures and Results; Standings; Top Scorers; 00 Live Matches'
+S'A total of 52 games will be played to decide the winner of the FIFA U-17 World Cup. See when and where the action will be taking place.'
 p3375
 sg11
-S'8f7afdf0-3393-4ee0-9eca-fc8e445810e8'
+S'079df3e7-47da-49cf-b1aa-ba375cad65bb'
 p3376
 sg13
-S'UEFA Champions League: Standings - World Match Centre ...'
+S'FIFA U-17 World Cup Chile 2015 - FIFA.com'
 p3377
-sbsS'http://www.fifa.com/world-match-centre/uefachampionsleague/matches/calendar.html'
+sbsS'http://www.fifa.com/worldcup/groups/group=255947/index.html'
 p3378
 (imain
 Document
 p3379
 (dp3380
 g6
-S'www.fifa.com/world-match-centre/uefachampionsleague/matches/...'
+S'www.fifa.com/worldcup/groups/group=255947/index.html'
 p3381
 sg8
 g3378
 sg9
-S'Find out the latest fixtures and results of the UEFA Champions League'
+S'Group Group H Groups and standings of the 2014 FIFA World Cup'
 p3382
 sg11
-S'c6ca2469-4067-40af-9be2-2927e0175863'
+S'b6172b8d-7d13-4621-9073-4d9b2ad93c26'
 p3383
 sg13
-S'UEFA Champions League: Fixtures and Results - FIFA.com'
+V2014 FIFA World Cup\u2122 - Group H - FIFA.com
 p3384
-sbsS'http://www.fifa.com/fifa-world-ranking/ranking-table/men/index.html'
+sbsS'http://www.fifa.com/worldcup/news/y=2014/m=7/news=estrategias-para-los-doce-pasos-2401168-2401321.html'
 p3385
 (imain
 Document
 p3386
 (dp3387
 g6
-S'www.fifa.com/fifa-world-ranking/ranking-table/men'
+S'www.fifa.com/worldcup/news/y=2014/m=7/news=estrategias-para-los...'
 p3388
 sg8
 g3385
 sg9
-S'The FIFA/Coca World Ranking - Find out where your team are in the latest standings.'
+S'Victor himself has penalty pedigree, having helped Atletico Mineiro to victory in two shoot-outs on the way to claiming the 2013 Copa Libertadores.'
 p3389
 sg11
-S'729c1aae-b619-4f91-bb87-ddd03b6fbb12'
+S'e0283aa4-fa04-418d-882c-f041aa57fcdc'
 p3390
 sg13
-S'The FIFA/Coca-Cola World Ranking - Ranking Table - FIFA.com'
+S'Penalty tips and strategies - FIFA.com'
 p3391
 sbstp3392
 s.
