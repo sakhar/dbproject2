@@ -5,8 +5,40 @@ from main import Category
 from main import headers
 from main import Document
 
+# create a cache to save previous queries
 query_history = {}
+
+
+def compute_ecoverage(host, cat):
+    """
+    Compute the ESpecificity of the labels
+    in a recursive way
+
+    Inputs:
+    - host : website where we adress the query
+    - cat  : Category object
+    """
+    d_size = 0
+    for query in cat.queries:
+        matches, docs = get_matches(host, query)
+        cat.matches += matches
+    d_size += cat.matches
+    for category in cat.subcats:
+        d_size += compute_ecoverage(host, cat.subcats[category])
+    return d_size
+
+
 def compute_especificity(cat, t_es, t_ec):
+    """
+    Compute the ESpecificity of the labels
+    in a recursive way
+
+    Inputs:
+    - cat  : Category object
+    - t_es : threshold for ESpecificity
+    - t_ec : threshold for ECoverage
+
+    """
     if cat.name == 'Root':
         cat.especi = 1
     else:
@@ -22,8 +54,18 @@ def compute_especificity(cat, t_es, t_ec):
     for category in cat.subcats:
         compute_especificity(cat.subcats[category], t_es, t_ec)
 
+
 def parse_file(cat, file):
-    f = open(file,'r')
+    """
+    Go through on the file with the list of queries
+    for one category and add each query to the right
+    subcategory
+
+    Input:
+    - cat  : Category object
+    - file : name of the file containing the queries
+    """
+    f = open(file, 'r')
     for line in f:
         entry = line.strip().split(' ')
         subcat = entry[0]
@@ -31,21 +73,26 @@ def parse_file(cat, file):
         try:
             cat.subcats[subcat.lower()]
         except:
-            cat.subcats[subcat.lower()] = Category(subcat,cat)
+            cat.subcats[subcat.lower()] = Category(subcat, cat)
         cat.subcats[subcat.lower()].queries.append(query)
 
+
 def get_matches(host, query):
+    """
+    For a host and a query, get the number of results and
+    the top 4 matching results and update the cache accordingly
+
+    Inputs:
+    - host  : host website where to adress the queries
+    - query : a list of words representing the query
+    """
     docs = {}
     try:
         query_history[' '.join(query)]
     except:
 
-        url = 'https://api.datamarket.azure.com/Data.ashx/Bing/SearchWeb/v1/Composite?Query=' \
-              '%27site%3a' \
-              +host+\
-              '%20' \
-              +'+'.join(query)+\
-              '%27&$top=4&$format=Atom'
+        url = 'https://api.datamarket.azure.com/Data.ashx/Bing/SearchWeb/v1/Composite?Query=%27site%3a'\
+              + host + '%20' + '+'.join(query) + '%27&$top=4&$format=Atom'
         req = urllib2.Request(url, headers=headers)
         response = urllib2.urlopen(req)
         xml_root = ET.parse(response)
@@ -73,17 +120,20 @@ def get_matches(host, query):
         query_history[' '.join(query)] = (int(total), docs)
     return query_history[' '.join(query)][0], query_history[' '.join(query)][1]
 
-def compute_ecoverage(host, cat):
-    d_size = 0
-    for query in cat.queries:
-        matches, docs = get_matches(host, query)
-        cat.matches += matches
-    d_size += cat.matches
-    for category in cat.subcats:
-        d_size += compute_ecoverage(host, cat.subcats[category])
-    return d_size
 
 def classify(cat, t_es, t_ec):
+    """
+    Implementation of the algorithm suggested in the figure 4
+    'Classification-Aware Hidden-Web Text Database Selection'
+    (2008) by Ipeirotis and Gravano
+
+    Classifies a host into a set of category
+
+    Inputs:
+    - cat  : Category object
+    - t_es : threshold for ESpecificity
+    - t_ec : threshold for ECoverage
+    """
     results = []
     if len(cat.subcats) == 0:
         return [cat]
@@ -97,15 +147,18 @@ def classify(cat, t_es, t_ec):
         return [cat]
     return results
 
+
 def print_class(c):
-    '''
-    :param c: object of type Category
-    :return: nothin
-    print the category c full path (example: Root/Computers/Programming)
-    '''
+    """
+    Print the category c full path
+    Example: Programming -> Root/Computers/Programming
+
+    Inputs:
+    - cat  : Category object
+    """
     path = []
     current = c
-    while current != None:
+    while current is not None:
         path.append(current.name)
         current = current.parent
     path.reverse()
@@ -113,14 +166,23 @@ def print_class(c):
 
 
 def run(host, t_es, t_ec):
+    """
+    Assign the queries and compute ECoverage and
+    ESpecificity and classifies the host accordingly
+    to the thresholds
 
+    Inputs:
+    - host : host website url
+    - t_es : threshold for ESpecificity
+    - t_ec : threshold for ECoverage
+    """
+    # Load the queries history
     global query_history
     try:
-        query_history = pickle.load(open(host+str(t_es)+'-'+str(t_ec)+'-history.p','rb'))
+        query_history = pickle.load(open(host+'-'+str(t_es)+'-'+str(t_ec)+'-history.p','rb'))
     except:
         query_history = {}
-
-    # part 1
+    # Assign the queries
     root = Category('Root', None)
     parse_file(root, 'root.txt')
     for cat in root.subcats:
@@ -129,18 +191,10 @@ def run(host, t_es, t_ec):
     print "Classifying..."
     root.matches = compute_ecoverage(host, root)
     compute_especificity(root, t_es, t_ec)
-
-    pickle.dump(query_history, open(host+str(t_es)+'-'+str(t_ec)+'-history.p','wb'))
-
-    print
-    print
-    print
-    print 'Classification:'
+    pickle.dump(query_history, open(host+'-'+str(t_es)+'-'+str(t_ec)+'-history.p','wb'))
+    print '\n\n\nClassification:'
     classes = classify(root, t_es, t_ec)
-
-    # print each category full path (example: Root/Computers/Programming)
+    # Print each category full path (example: Root/Computers/Programming)
     for c in classes:
         print_class(c)
-
-
     return root, query_history, classes
