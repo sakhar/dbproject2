@@ -95,7 +95,8 @@ iv. Algorithms:
         if results is empty:
             return [cat]
         return results
- Part B
+ Part B:
+    For each cat that database belongs to: // fifa.com > Soccer, health.com > fitness, yahoo.com > root .. etc
 
 
 e) XfbHf/vIn9YQOGFXSYwPnxOOmIWdeM95n39nD5s4FxI
