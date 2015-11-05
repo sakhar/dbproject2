@@ -40,7 +40,7 @@ class Category:
 
 
 # Class Document to store each document information
-class Document():
+class Document:
 
     def __init__(self, id, title, des, disp, url):
         self.id = id
