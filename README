@@ -18,7 +18,85 @@ c) Usage: python main.py <t_es> <t_ec> <host>
 	<t_es> should be a real number between 0-1 and <t_ec> an integer > 1
     example: python main.py \'bills gates\' 0.6
 
-d)
+d) Internal Design:
+We used Python as the programming language for this project, and the following if the detailed internal design
+for our project.
+
+i. Python Files:
+We have three files for this project: 'main.py', 'A.py', and 'B.py'. 'main.py' to run the two parts, 'A.py' for part 1,
+and 'B.py' for part 2.
+
+ii. Caching:
+In order to reduce the number of queries,
+we store all the query history for a given host with es and ec value in a binary file 'host-es-ec-history.p'.
+The query history is simply a dictionary (hash) where they keys are the queries (e.g. 'computer programming')
+and the values are tuples of two elements, the first one is the top 4 documents retrieved from Bing,
+and the second element is the number of matches for that query.
+
+iii. Data Structures:
+ The category hierarchy is structured as a tree and each node is an instance of class Category.
+
+ We defined two main classes: Category and Document.
+
+    *class Category: to store information about each category.
+        name: a string to store the category name (e.g. 'Computers', 'Root', 'Soccer' ... etc).
+        queries: list of queries (phrases) for this category (root has 0).
+        subcats: a dictionary, key: sub category name, value: an instance of class Category.
+        matches: to store the number of documents match this category (i.e the coverage).
+        parent: A pointer to the parent cateogry (root has None).
+        especi = to store the specificity of this category.
+        associated = A list with all queries associated with this category, which is all queries of its children
+                    plus all subcategories visited during the classification.
+
+    * class Document: to store information about each document retrieved from Bing.
+        id: the global document id used by bing, but actually we don't use it.
+        title: title of the page (we don't actually need it).
+        des: description of that page (we don't actually need it).
+        disp: display url (user friendly url, but we don't actually need it).
+        url: the actual url for that document, we use it as a unique id in other parts.
+
+iv. Algorithms:
+ Part A:
+    * compute_ecoverage(host, cat): we recursively compute the coverage for each category starting from the root.
+        database_size = 0
+        for each query in cat:
+            cat.matches += calculate how many documents match this query in the given host.
+        database_size += matches
+
+        // recursion
+        for each subcategory c of cat:
+            database_size += compute_ecoverage(host, c)
+        return database_size
+
+    * compute_especificity(cat): we recursively compute the coverage for each category starting from the root.
+        if cat.name == 'Root':
+            cat.especi = 1
+            return
+
+        // Siblings coverages
+        parent_sum = 0
+        for category in cat.parent.subcats:
+            parent_sum += cat.parent.subcats[category].matches
+
+        parent_spec = cat.parent.especi
+        cat.especi = (parent_spec*cat.matches)/parent_sum
+
+        // recursion
+        for category in cat.subcats:
+            compute_especificity(category)
+
+    * classify(cat, t_es, t_ec): we recursively classify the database staring from the root as described in the paper.
+        results = []
+        if cat.subcats is leafnode:
+            return [cat]
+        for c in cat.subcats:
+            if cat.subcats[c].especi >= t_es and cat.subcats[c].matches >= t_ec:
+                results = results + classify(cat.subcats[c], t_es, t_ec)
+        if results is empty:
+            return [cat]
+        return results
+ Part B
+
 
 e) XfbHf/vIn9YQOGFXSYwPnxOOmIWdeM95n39nD5s4FxI
 
