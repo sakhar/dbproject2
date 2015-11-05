@@ -55,15 +55,6 @@ def sampling(cat, query_history,host):
 
 def process_url(url):
 
-
-    # we don't need this
-    # check if document is html
-    #header = check_output(['ls'])
-    #header = check_output(['/usr/bin/lynx', '-head', '-dump', url])
-
-    #if 'text/html' not in header:
-    #       return ()
-
     content = check_output(['/usr/bin/lynx', '-dump', url])
     index_reference = content.find('\nReferences\n')
 
