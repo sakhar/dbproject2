@@ -3,7 +3,17 @@ from string import ascii_letters
 from subprocess import check_output
 import time
 
-def sampling(cat, query_history,host):
+
+def sampling(cat, query_history, host):
+    """
+    For a given category, and its associated queries,
+    create the content summary.
+
+    Inputs:
+    - cat  : category object
+    - query_history : history of already made queries
+    - host : website to classify
+    """
     output = open(cat.name+'-'+host+'.txt', 'w')
     words = {}
     matches = {}
@@ -14,7 +24,7 @@ def sampling(cat, query_history,host):
     visited = []
     for query in set(cat.associated):
         print str(i)+'/'+str(l)
-        i+=1
+        i += 1
         docs = query_history[query][1]
         try:
             matches[query]
@@ -53,8 +63,15 @@ def sampling(cat, query_history,host):
         #print(line)
     output.close()
 
-def process_url(url):
 
+def process_url(url):
+    """
+    Transform the url content into text, removes brackets,
+    non-english characters, replace by lowercases and
+    remove the unnecessary whitespaces.
+
+    Returns a set of tokens
+    """
     content = check_output(['/usr/bin/lynx', '-dump', url])
     index_reference = content.find('\nReferences\n')
 
@@ -92,7 +109,16 @@ def process_url(url):
     list_content = content.split()
     return(set(list_content))
 
+
 def get_path(cat):
+    """
+    Go up the category path and returns
+    all encountered categories until
+    the root is reached
+
+    Example: Root/Computers/Programming
+             -> [Programming, Computers, Root]
+    """
     path = []
     current = cat
     if len(current.subcats) == 0:
@@ -103,11 +129,10 @@ def get_path(cat):
     path.reverse()
     return path
 
+
 def run(root, t_es, t_ec, query_history, classes, host):
     print 'Extracting topic content summaries...'
     for cat in classes:
         path = get_path(cat)
         for c in path:
             sampling(c, query_history, host)
-
-
