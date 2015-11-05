@@ -10,8 +10,9 @@ def sampling(cat, query_history,host):
     print 'Creating Content Summary for:', cat.name
     l = len(cat.associated)
     i = 1
+
     visited = []
-    for query in cat.associated:
+    for query in set(cat.associated):
         print str(i)+'/'+str(l)
         i+=1
         docs = query_history[query][1]
@@ -35,7 +36,10 @@ def sampling(cat, query_history,host):
             print
             print 'Getting page:', docs[doc].url
             print
-            words_doc = process_url(docs[doc].url)
+            try:
+                words_doc = process_url(docs[doc].url)
+            except:
+                continue
             for word in words_doc:
                 try:
                     words[word]
