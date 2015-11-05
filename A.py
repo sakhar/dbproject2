@@ -37,7 +37,7 @@ def parse_file(cat, file):
 def get_matches(host, query):
     docs = {}
     try:
-        query_history['+'.join(query)]
+        query_history[' '.join(query)]
     except:
 
         url = 'https://api.datamarket.azure.com/Data.ashx/Bing/SearchWeb/v1/Composite?Query=' \
@@ -70,8 +70,8 @@ def get_matches(host, query):
             doc = Document(ID, Title, Description, DisplayUrl, Url)
             docs[Url] = doc
 
-        query_history['+'.join(query)] = (int(total), docs)
-    return query_history['+'.join(query)][0], query_history['+'.join(query)][1]
+        query_history[' '.join(query)] = (int(total), docs)
+    return query_history[' '.join(query)][0], query_history[' '.join(query)][1]
 
 def compute_ecoverage(host, cat):
     d_size = 0
@@ -89,7 +89,7 @@ def classify(cat, t_es, t_ec):
         return [cat]
     for c in cat.subcats:
         for query in cat.subcats[c].queries:
-            cat.associated.append('+'.join(query))
+            cat.associated.append(' '.join(query))
         if cat.subcats[c].especi >= t_es and cat.subcats[c].matches >= t_ec:
             results.extend(classify(cat.subcats[c], t_es, t_ec))
             cat.associated.extend(cat.subcats[c].associated)

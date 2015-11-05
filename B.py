@@ -3,9 +3,10 @@ from string import ascii_letters
 from subprocess import check_output
 import time
 
-def samping(cat, query_history,host):
+def sampling(cat, query_history,host):
     output = open(cat.name+'-'+host+'.txt', 'w')
     words = {}
+    matches = {}
     print 'Creating Content Summary for:', cat.name
     l = len(cat.associated)
     i = 1
@@ -14,6 +15,17 @@ def samping(cat, query_history,host):
         print str(i)+'/'+str(l)
         i+=1
         docs = query_history[query][1]
+        try:
+            matches[query]
+        except:
+            matches[query] = 0
+        matches[query] += query_history[query][0]
+        print 'query:', query
+        print 'matches:', matches[query]
+        try:
+            words[query]
+        except:
+            words[query] = 0
         time.sleep(1)
         for doc in docs:
             print
@@ -32,26 +44,27 @@ def samping(cat, query_history,host):
                 words[word] += 1
     sorted_list = sorted(words.items(), key=operator.itemgetter(0), reverse=False)
     for word in sorted_list:
-        line = word[0]+'#'+str(float(word[1]))+'#-1.0\n'
+        line = word[0]+'#'+str(float(word[1]))+'#'+str(matches.get(word[0],-1.0))+'\n'
         output.write(line)
         #print(line)
     output.close()
 
 def process_url(url):
 
+
+    # we don't need this
     # check if document is html
     #header = check_output(['ls'])
     #header = check_output(['/usr/bin/lynx', '-head', '-dump', url])
 
     #if 'text/html' not in header:
     #       return ()
+
     content = check_output(['/usr/bin/lynx', '-dump', url])
     index_reference = content.find('\nReferences\n')
 
     if index_reference > -1:
         content = content[:index_reference]
-
-    ### else? what should we do?
 
     # get to lower case
     content = content.lower()
@@ -96,21 +109,10 @@ def get_path(cat):
     return path
 
 def run(root, t_es, t_ec, query_history, classes, host):
-    '''
-    for c in classes:
-        print c.name, len(root.associated)
-    print len(root.associated)
-    for cat in root.subcats:
-        print root.subcats[cat].name, len(root.subcats[cat].docs)
-    print 'root', len(root.docs)
-
-    print
-    print
-    '''
     print 'Extracting topic content summaries...'
     for cat in classes:
         path = get_path(cat)
         for c in path:
-            samping(c, query_history, host)
+            sampling(c, query_history, host)
 
 
