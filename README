@@ -8,18 +8,18 @@ b) List of files:
 	ii. 'A.py'
 	    a python script corresponding to Part 1 of the assignment
 	iii. 'B .py'
-	    a python script corresponding to Part 1 of the assignment
-    iv. 'root.txt', 'computers.txt', 'health.txt', 'sports.txt'
+	    a python script corresponding to Part 2 of the assignment
+        iv. 'root.txt', 'computers.txt', 'health.txt', 'sports.txt'
         all the provided files for queries, they are required for our implementation.
 	v.   “README”
 		this file
 
 c) Usage: python main.py <t_es> <t_ec> <host>
 	<t_es> should be a real number between 0-1 and <t_ec> an integer > 1
-    example: python main.py \'bills gates\' 0.6
+    example: python main.py 0.6 100 health.com
 
 d) Internal Design:
-We used Python as the programming language for this project, and the following if the detailed internal design
+We used Python as the programming language for this project, and the following is the detailed internal design
 for our project.
 
 i. Python Files:
@@ -29,7 +29,7 @@ and 'B.py' for part 2.
 ii. Caching:
 In order to reduce the number of queries,
 we store all the query history for a given host with es and ec value in a binary file 'host-es-ec-history.p'.
-The query history is simply a dictionary (hash) where they keys are the queries (e.g. 'computer programming')
+The query history is simply a dictionary (hash) where the keys are the queries (e.g. 'computer programming')
 and the values are tuples of two elements, the first one is the top 4 documents retrieved from Bing,
 and the second element is the number of matches for that query.
 
@@ -100,4 +100,4 @@ iv. Algorithms:
 
 e) XfbHf/vIn9YQOGFXSYwPnxOOmIWdeM95n39nD5s4FxI
 
-f) We included multiword queries in the context summary
+f) We included multiword queries in the content summary
