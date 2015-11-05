@@ -130,7 +130,7 @@ def get_path(cat):
     return path
 
 
-def run(root, t_es, t_ec, query_history, classes, host):
+def run(query_history, classes, host):
     print 'Extracting topic content summaries...'
     for cat in classes:
         path = get_path(cat)

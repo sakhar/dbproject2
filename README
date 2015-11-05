@@ -12,7 +12,7 @@ b) List of files:
         iv. 'root.txt', 'computers.txt', 'health.txt', 'sports.txt'
         all the provided files for queries, they are required for our implementation.
 	v.   “README”
-		this file
+		this file.
 
 c) Usage: python main.py <t_es> <t_ec> <host>
 	<t_es> should be a real number between 0-1 and <t_ec> an integer > 1
@@ -95,9 +95,23 @@ iv. Algorithms:
         if results is empty:
             return [cat]
         return results
- Part B
-
+ Part B:
+    * run(query_history, classes, host):
+        for cat in classes: // for each "specific" class (category) that database belong to
+                            // fifa.com > Soccer, diabetes.org > Health
+            path = get_path(cat) // get the full path of that category (Soccer > Root/Sports/Soccer)
+            for c in path: // For each category in the path
+                sampling(c, query_history, host)
+    * sampling(cat, query_history, host): // for each category, collect the sample documents
+        words = {}
+        for each query associated with cat:
+            for each document d retrieved from Bing using query (top 4):
+                fetch and process d and add 1 to word{w} for each unique word w in d
+        print words to a file
 
 e) XfbHf/vIn9YQOGFXSYwPnxOOmIWdeM95n39nD5s4FxI
 
-f) We included multiword queries in the content summary
+f) We included multiword queries in the content summary.
+   We noticed that we have almost identical content summary for all categories except Root where is a slight difference.
+     However, for the meaningful words such as 'hiv', 'computers', 'juventus' ... etc, we got the exact same values
+     for both <frequency in the document sample> and <number of matches>.
