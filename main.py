@@ -61,6 +61,7 @@ if __name__ == "__main__":
             raise Exception()
     except:
         print 'Usage: python main.py <t_es> <t_ec> <host>'
+        print '<t_es> should be a real number between 0-1 and <t_ec> an integer > 1'
         print 'example: python main.py 0.6 100 health.com'
         sys.exit()
 

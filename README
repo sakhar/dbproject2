@@ -1,0 +1,25 @@
+a) Students:
+	Robert Dadashi-Tazehozi, UNI: rd2669
+	Sakhar Alkhereyf       , UNI: sa3147
+
+b) List of files:
+	i.  'main.py'
+		a python script to run A.py and B.py
+	ii. 'A.py'
+	    a python script corresponding to Part 1 of the assignment
+	iii. 'B .py'
+	    a python script corresponding to Part 1 of the assignment
+    iv. 'root.txt', 'computers.txt', 'health.txt', 'sports.txt'
+        all the provided files for queries, they are required for our implementation.
+	v.   “README”
+		this file
+
+c) Usage: python main.py <t_es> <t_ec> <host>
+	<t_es> should be a real number between 0-1 and <t_ec> an integer > 1
+    example: python main.py \'bills gates\' 0.6
+
+d)
+
+e) XfbHf/vIn9YQOGFXSYwPnxOOmIWdeM95n39nD5s4FxI
+
+f) We included multiword queries in the context summary
