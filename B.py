@@ -1,6 +1,7 @@
 import operator
 from string import ascii_letters
 from subprocess import check_output
+import time
 
 def samping(cat, query_history,host):
     output = open(cat.name+'-'+host+'.txt', 'w')
@@ -8,11 +9,17 @@ def samping(cat, query_history,host):
     print 'Creating Content Summary for:', cat.name
     l = len(cat.associated)
     i = 1
+    visited = []
     for query in cat.associated:
         print str(i)+'/'+str(l)
         i+=1
         docs = query_history[query][1]
+        time.sleep(1)
         for doc in docs:
+            print
+            if doc in visited:
+                continue
+            visited.append(doc)
             print
             print 'Getting page:', docs[doc].url
             print
@@ -27,17 +34,17 @@ def samping(cat, query_history,host):
     for word in sorted_list:
         line = word[0]+'#'+str(float(word[1]))+'#-1.0\n'
         output.write(line)
-        print(line)
+        #print(line)
     output.close()
 
 def process_url(url):
 
     # check if document is html
     #header = check_output(['ls'])
-    header = check_output(['/usr/bin/lynx', '-head', '-dump', url])
+    #header = check_output(['/usr/bin/lynx', '-head', '-dump', url])
 
-    if 'text/html' not in header:
-        return ()
+    #if 'text/html' not in header:
+    #       return ()
     content = check_output(['/usr/bin/lynx', '-dump', url])
     index_reference = content.find('\nReferences\n')
 
@@ -49,41 +56,39 @@ def process_url(url):
     # get to lower case
     content = content.lower()
     list_content = list(content)
+    output = []
+    recording = True
+    wrotespace = False
 
-    # eliminate special characters
     for i in range(len(list_content)):
-        if list_content[i] not in ascii_letters:
-            list_content[i] = ' '
-
-    inside_bracket = False
-    i = 0
-    while True:
-        try:
-            # if we are inside brackets
-            if inside_bracket:
-                list_content.pop(i)
-            else:
-                i += 1
-
-            # test when we are switching from
-            # test when we are switching from
-            # inside to outside brackets
+        if recording:
             if list_content[i] == '[':
-                inside_bracket = True
+                recording = False
+                if not wrotespace:
+                    output.append(' ')
+                    wrotespace = True
+                continue
+            else:
+                if list_content[i] in ascii_letters and ord(list_content[i]) < 128:
+                    output.append(list_content[i])
+                    wrotespace = False
+                else:
+                    if not wrotespace:
+                        output.append(' ')
+                        wrotespace = True
+        else:
             if list_content[i] == ']':
-                list_content.pop(i)
-                inside_bracket = False
-        except IndexError:
-            break
-
-    # remove extra whitespaces
-    content = ''.join(list_content)
+                recording = True
+                continue
+    content = ''.join(output)
     list_content = content.split()
     return(set(list_content))
 
 def get_path(cat):
     path = []
-    current = cat.parent
+    current = cat
+    if len(current.subcats) == 0:
+        current = current.parent
     while current != None:
         path.append(current)
         current = current.parent

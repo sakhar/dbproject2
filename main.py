@@ -62,11 +62,11 @@ if __name__ == "__main__":
     except:
         print 'Usage: python main.py <t_es> <t_ec> <host>'
         print 'example: python main.py 0.6 100 health.com'
-        #sys.exit()
+        sys.exit()
 
-    t_es = 0.8
-    t_ec = 100
-    host = 'fifa.com'
+    #t_es = 0.8
+    #t_ec = 100
+    #host = 'health.com'
 
     print 'Part A:'
     print

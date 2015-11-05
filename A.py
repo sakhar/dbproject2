@@ -116,7 +116,7 @@ def run(host, t_es, t_ec):
 
     global query_history
     try:
-        query_history = pickle.load(open(host+'-test.p','rb'))
+        query_history = pickle.load(open(host+str(t_es)+'-'+str(t_ec)+'-history.p','rb'))
     except:
         query_history = {}
 
@@ -130,7 +130,7 @@ def run(host, t_es, t_ec):
     root.matches = compute_ecoverage(host, root)
     compute_especificity(root, t_es, t_ec)
 
-    pickle.dump(query_history, open(host+'-test.p','wb'))
+    pickle.dump(query_history, open(host+str(t_es)+'-'+str(t_ec)+'-history.p','wb'))
 
     print
     print
