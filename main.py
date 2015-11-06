@@ -8,12 +8,9 @@ Robert Dadashi-Tazehozi, UNI: rd2669
 Sakhar Alkhereyf       , UNI: sa3147
 
 '''
-import sys
-import urllib2
+
 import base64
 import sys
-import xml.etree.ElementTree as ET
-import pickle
 import A
 import B
 
@@ -70,4 +67,4 @@ if __name__ == "__main__":
     root, query_history, classes = A.run(host, t_es, t_ec)
 
     print '\nPart B:\n'
-    B.run(root, t_es, t_ec, query_history, classes, host)
+    B.run(query_history, classes, host)

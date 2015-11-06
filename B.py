@@ -1,3 +1,14 @@
+'''
+Columbia University
+COMS E6111 Advanced Database Systems, Fall 2015
+Project 2
+
+Students:
+Robert Dadashi-Tazehozi, UNI: rd2669
+Sakhar Alkhereyf       , UNI: sa3147
+
+'''
+
 import operator
 from string import ascii_letters
 from subprocess import check_output

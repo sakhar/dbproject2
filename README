@@ -11,7 +11,7 @@ b) List of files:
 	    a python script corresponding to Part 2 of the assignment
     iv. 'root.txt', 'computers.txt', 'health.txt', and 'sports.txt'
         all the provided files for queries, they are required for our implementation.
-	v.   “README”
+	v. “README”
 		this file.
 
 c) Usage: python main.py <t_es> <t_ec> <host>
@@ -27,7 +27,7 @@ We have three files for this project: 'main.py', 'A.py', and 'B.py'. 'main.py' t
 and 'B.py' for part 2.
 
 ii. Caching:
-In order to reduce the number of queries,
+In order to reduce the number of queries to Bing,
 we store all the query history for a given host with es and ec value in a binary file 'host-es-ec-history.p'.
 The query history is simply a dictionary (hash) where the keys are the queries (e.g. 'computer programming')
 and the values are tuples of two elements, the first one is the number of matches for that query,
@@ -48,8 +48,8 @@ iii. Data Structures:
         associated = A list with all queries associated with this category, which is all queries of its children
                     plus all subcategories visited during the classification.
 
-    * class Document: to store information about each document retrieved from Bing.
-        id: the global document id used by bing, but actually we don't use it.
+    * class Document: to store information about each document retrieved from Bing (as in project 1).
+        id: the global document id used by bing, but we don't use it.
         title: title of the page (we don't actually need it).
         des: description of that page (we don't actually need it).
         disp: display url (user friendly url, but we don't actually need it).
@@ -110,15 +110,23 @@ iv. Algorithms:
         print words to a file
 
 vi. Other issues:
-    * In order to generalize our code, we have a function to parse the categorization hierarchy,
+    * In order to generalize our code, we have a function to parse the categorization hierarchy;
     the user should include the txt files in the same directory of the program, and it should have "root.txt"
     to start with, and for the other categories, they should have a text file with the same name as the category.
 
     * We hardcoded the bing account key in order to make it easier for the grader,  but we can modify that easily.
 
-e) XfbHf/vIn9YQOGFXSYwPnxOOmIWdeM95n39nD5s4FxI
+    * Part B: We first eliminate non html documents but we found that the output
+    is different than the ref. implementation.
+    So we decided to not to eliminate any document retrieved by Bing (top 4).
 
-f) * We included multiword queries in the content summary.
+    * Part B: For each category, before we process a document, we check if we already processed it in another query,
+     if yes, we discard it (eliminate duplicates).
+
+e) BING_ACCOUNT_KEY: XfbHf/vIn9YQOGFXSYwPnxOOmIWdeM95n39nD5s4FxI
+
+f) * We included multi-word queries in the content summary. Also, we output # matches for query words (both single
+    or multi-words), but for non query words we output -1.0 as the ref. solution does.
    * We noticed that we have almost identical content summary for all categories except Root
      where is a slight difference. However, for the meaningful words such as 'hiv', 'computers', 'juventus' ... etc,
      we got the exact same values for both <frequency in the document sample> and <number of matches>.
