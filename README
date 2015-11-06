@@ -9,7 +9,7 @@ b) List of files:
 	    a python script corresponding to Part 1 of the assignment
 	iii. 'B .py'
 	    a python script corresponding to Part 2 of the assignment
-        iv. 'root.txt', 'computers.txt', 'health.txt', 'sports.txt'
+    iv. 'root.txt', 'computers.txt', 'health.txt', and 'sports.txt'
         all the provided files for queries, they are required for our implementation.
 	v.   “README”
 		this file.
@@ -30,8 +30,8 @@ ii. Caching:
 In order to reduce the number of queries,
 we store all the query history for a given host with es and ec value in a binary file 'host-es-ec-history.p'.
 The query history is simply a dictionary (hash) where the keys are the queries (e.g. 'computer programming')
-and the values are tuples of two elements, the first one is the top 4 documents retrieved from Bing,
-and the second element is the number of matches for that query.
+and the values are tuples of two elements, the first one is the number of matches for that query,
+and the second element  is the top 4 documents retrieved from Bing.
 
 iii. Data Structures:
  The category hierarchy is structured as a tree and each node is an instance of class Category.
@@ -109,9 +109,16 @@ iv. Algorithms:
                 fetch and process d and add 1 to word{w} for each unique word w in d
         print words to a file
 
+vi. Other issues:
+    * In order to generalize our code, we have a function to parse the categorization hierarchy,
+    the user should include the txt files in the same directory of the program, and it should have "root.txt"
+    to start with, and for the other categories, they should have a text file with the same name as the category.
+
+    * We hardcoded the bing account key in order to make it easier for the grader,  but we can modify that easily.
+
 e) XfbHf/vIn9YQOGFXSYwPnxOOmIWdeM95n39nD5s4FxI
 
-f) We included multiword queries in the content summary.
-   We noticed that we have almost identical content summary for all categories except Root where is a slight difference.
-     However, for the meaningful words such as 'hiv', 'computers', 'juventus' ... etc, we got the exact same values
-     for both <frequency in the document sample> and <number of matches>.
+f) * We included multiword queries in the content summary.
+   * We noticed that we have almost identical content summary for all categories except Root
+     where is a slight difference. However, for the meaningful words such as 'hiv', 'computers', 'juventus' ... etc,
+     we got the exact same values for both <frequency in the document sample> and <number of matches>.
